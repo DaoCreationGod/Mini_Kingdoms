@@ -1,6 +1,8 @@
 package net.dao.mini_kingdoms;
 
 import com.mojang.logging.LogUtils;
+import net.dao.mini_kingdoms.blocks.MKBlocks;
+import net.dao.mini_kingdoms.items.MKItems;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
@@ -33,6 +35,9 @@ public class Mini_kingdoms
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
+
+        MKItems.register(modEventBus);
+        MKBlocks.register(modEventBus);
 
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);

@@ -7,7 +7,6 @@
   "item.mini_kingdoms.villager_catcher": "Villager Catcher",
   "item.mini_kingdoms.passive_mob_catcher": "Passive Mob Catcher",
   "item.mini_kingdoms.aggressive_mob_catcher": "Monster Catcher",
-  "item.mini_kingdoms.kingdom_crafter": "Kingdom Crafter",
 
   "item.mini_kingdoms.mine_tiny_core": "Tiny Mine Core",
   "item.mini_kingdoms.farm_tiny_core": "Tiny Farm Core",
@@ -180,5 +179,10 @@
   "creativetab.mini_kingdoms.mines_and_farms": "Mines & Farms",
   "creativetab.mini_kingdoms.from_houses_to_kingdoms": "From Houses to Kingdoms",
   "creativetab.mini_kingdoms.stores_and_craftmen_shops": "Stores & Craftmen Shops",
+
+
+  "block.mini_kingdoms.kingdom_crafter": "Kingdom Crafter",
+
   "": ""
+
 }

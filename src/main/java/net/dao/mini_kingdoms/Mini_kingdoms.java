@@ -59,7 +59,7 @@ public class Mini_kingdoms
     private void addCreative(BuildCreativeModeTabContentsEvent event)
     {
         if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS){
-            event.accept(MKItems.KINGDOM_CRAFTER);
+            event.accept(MKBlocks.KINGDOM_CRAFTER);
         }
         if (event.getTabKey() ==CreativeModeTabs.INGREDIENTS){
             event.accept(MKItems.GROWTH_BASE);

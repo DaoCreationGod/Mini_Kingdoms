@@ -1,9 +1,7 @@
 package net.dao.mini_kingdoms.items;
 
 import net.dao.mini_kingdoms.Mini_kingdoms;
-import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.level.block.Block;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
@@ -374,8 +372,6 @@ public class MKItems {
             () -> new Item(new Item.Properties()));
 
     //Block Items
-    public static final RegistryObject<Item> KINGDOM_CRAFTER = ITEMS.register("kingdom_crafter",
-            () -> new Item(new Item.Properties())); //This is a block item
 
     //"Stores"
     public static final RegistryObject<Item> GROCERY_STORE = ITEMS.register("grocery_store",

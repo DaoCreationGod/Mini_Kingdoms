@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mini_kingdoms:item/aggressive_mob_catcher"
+  }
+}

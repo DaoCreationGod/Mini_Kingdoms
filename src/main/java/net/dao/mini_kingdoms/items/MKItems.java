@@ -30,6 +30,8 @@ public class MKItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> AGGRESSIVE_MOB_CATCHER = ITEMS.register("aggressive_mob_catcher",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> NET_SOFTENER = ITEMS.register("net_softener",
+            () -> new Item(new Item.Properties()));
 
     //Cores
     //Tiny

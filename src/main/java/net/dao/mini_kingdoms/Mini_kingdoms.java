@@ -2,7 +2,10 @@ package net.dao.mini_kingdoms;
 
 import com.mojang.logging.LogUtils;
 import net.dao.mini_kingdoms.blocks.MKBlocks;
+import net.dao.mini_kingdoms.items.MKCreativeModeTabs;
 import net.dao.mini_kingdoms.items.MKItems;
+import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
@@ -35,6 +38,7 @@ public class Mini_kingdoms
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
+        MKCreativeModeTabs.register(modEventBus);
 
         MKItems.register(modEventBus);
         MKBlocks.register(modEventBus);
@@ -54,6 +58,12 @@ public class Mini_kingdoms
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event)
     {
+        if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS){
+            event.accept(MKItems.KINGDOM_CRAFTER);
+        }
+        if (event.getTabKey() ==CreativeModeTabs.INGREDIENTS){
+            event.accept(MKItems.GROWTH_BASE);
+        }
 
     }
 

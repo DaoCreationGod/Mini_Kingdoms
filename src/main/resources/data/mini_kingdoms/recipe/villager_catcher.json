@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " c ",
+        "cMc",
+        " c "
+    ],
+    "key": {
+        "c": {
+            "item": "minecraft:copper_ingot"
+        },
+        "M": {
+            "item": "mini_kingdoms:soft_leather_net"
+        }
+    },
+    "result": {
+        "id": "mini_kingdoms:villager_catcher",
+        "count": 1
+    },
+    "group": "misc"
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "mini_kingdoms:net_softener"
+        },
+        {
+            "item": "mini_kingdoms:leather_net"
+        }
+    ],
+    "result": {
+        "id": "mini_kingdoms:soft_leather_net",
+        "count": 1
+    },
+    "group": "misc"
+}

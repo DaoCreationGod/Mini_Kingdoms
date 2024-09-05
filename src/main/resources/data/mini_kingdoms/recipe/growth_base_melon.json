@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "minecraft:stone_crafting_materials"
+        },
+        {
+            "item": "minecraft:melon_seeds"
+        },
+        {
+            "item": "minecraft:water_bucket"
+        }
+    ],
+    "result": {
+        "id": "mini_kingdoms:growth_base",
+        "count": 16
+    },
+    "group": "growth"
+}

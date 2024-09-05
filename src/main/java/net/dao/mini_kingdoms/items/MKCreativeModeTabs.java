@@ -1,6 +1,7 @@
 package net.dao.mini_kingdoms.items;
 
 import net.dao.mini_kingdoms.Mini_kingdoms;
+import net.dao.mini_kingdoms.blocks.MKBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -28,6 +29,46 @@ public class MKCreativeModeTabs {
     public static final RegistryObject<CreativeModeTab> CORES = CREATIVE_MODE_TABS.register("cores", ()-> CreativeModeTab.builder().icon(()-> new ItemStack(MKItems.MINE_SUPER_CORE.get()))
             .title(Component.translatable("creativetab.mini_kingdoms.cores"))
             .displayItems((ItemDisplayParameters, output) -> {
+                output.accept(MKBlocks.TINY_CORE_ORE_MINE.get());
+                output.accept(MKBlocks.TINY_CORE_ORE_FARM.get());
+                output.accept(MKBlocks.TINY_CORE_ORE_BIOME.get());
+                output.accept(MKBlocks.TINY_CORE_ORE_BUILDING.get());
+                output.accept(MKBlocks.SMALL_CORE_ORE_MINE.get());
+                output.accept(MKBlocks.SMALL_CORE_ORE_FARM.get());
+                output.accept(MKBlocks.SMALL_CORE_ORE_BIOME.get());
+                output.accept(MKBlocks.SMALL_CORE_ORE_BUILDING.get());
+                output.accept(MKBlocks.BELOW_AVERAGE_CORE_ORE_MINE.get());
+                output.accept(MKBlocks.BELOW_AVERAGE_CORE_ORE_FARM.get());
+                output.accept(MKBlocks.BELOW_AVERAGE_CORE_ORE_BIOME.get());
+                output.accept(MKBlocks.BELOW_AVERAGE_CORE_ORE_BUILDING.get());
+                output.accept(MKBlocks.AVERAGE_CORE_ORE_MINE.get());
+                output.accept(MKBlocks.AVERAGE_CORE_ORE_FARM.get());
+                output.accept(MKBlocks.AVERAGE_CORE_ORE_BIOME.get());
+                output.accept(MKBlocks.AVERAGE_CORE_ORE_BUILDING.get());
+                output.accept(MKBlocks.ABOVE_AVERAGE_CORE_ORE_MINE.get());
+                output.accept(MKBlocks.ABOVE_AVERAGE_CORE_ORE_FARM.get());
+                output.accept(MKBlocks.ABOVE_AVERAGE_CORE_ORE_BIOME.get());
+                output.accept(MKBlocks.ABOVE_AVERAGE_CORE_ORE_BUILDING.get());
+                output.accept(MKBlocks.BIG_CORE_ORE_MINE.get());
+                output.accept(MKBlocks.BIG_CORE_ORE_FARM.get());
+                output.accept(MKBlocks.BIG_CORE_ORE_BIOME.get());
+                output.accept(MKBlocks.BIG_CORE_ORE_BUILDING.get());
+                output.accept(MKBlocks.LARGE_CORE_ORE_MINE.get());
+                output.accept(MKBlocks.LARGE_CORE_ORE_FARM.get());
+                output.accept(MKBlocks.LARGE_CORE_ORE_BIOME.get());
+                output.accept(MKBlocks.LARGE_CORE_ORE_BUILDING.get());
+                output.accept(MKBlocks.HUGE_CORE_ORE_MINE.get());
+                output.accept(MKBlocks.HUGE_CORE_ORE_FARM.get());
+                output.accept(MKBlocks.HUGE_CORE_ORE_BIOME.get());
+                output.accept(MKBlocks.HUGE_CORE_ORE_BUILDING.get());
+                output.accept(MKBlocks.GIANT_CORE_ORE_MINE.get());
+                output.accept(MKBlocks.GIANT_CORE_ORE_FARM.get());
+                output.accept(MKBlocks.GIANT_CORE_ORE_BIOME.get());
+                output.accept(MKBlocks.GIANT_CORE_ORE_BUILDING.get());
+                output.accept(MKBlocks.SUPER_CORE_ORE_MINE.get());
+                output.accept(MKBlocks.SUPER_CORE_ORE_FARM.get());
+                output.accept(MKBlocks.SUPER_CORE_ORE_BIOME.get());
+                output.accept(MKBlocks.SUPER_CORE_ORE_BUILDING.get());
                 output.accept(MKItems.MINE_TINY_CORE.get());
                 output.accept(MKItems.MINE_SMALL_CORE.get());
                 output.accept(MKItems.MINE_BELOW_AVERAGE_CORE.get());

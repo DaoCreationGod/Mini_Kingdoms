@@ -58,7 +58,7 @@ public class Mini_kingdoms
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event)
     {
-        if (event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS){
+        if (event.getTabKey() == CreativeModeTabs.FUNCTIONAL_BLOCKS){
             event.accept(MKBlocks.KINGDOM_CRAFTER);
         }
         if (event.getTabKey() ==CreativeModeTabs.INGREDIENTS){

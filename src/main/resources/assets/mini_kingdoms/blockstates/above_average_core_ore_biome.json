@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "mini_kingdoms:block/core_ore"
+      "model": "mini_kingdoms:block/above_average_core_ore_biome"
     }
   }
 }

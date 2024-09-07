@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mini_kingdoms:below_average_core_ore_mine"
+  },
+  "result": {
+    "id": "mini_kingdoms:mine_below_average_core",
+    "count": 1
+  }
+}

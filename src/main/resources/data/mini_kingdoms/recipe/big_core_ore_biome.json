@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mini_kingdoms:big_core_ore_biome"
+  },
+  "result": {
+    "id": "mini_kingdoms:biome_big_core",
+    "count": 1
+  }
+}

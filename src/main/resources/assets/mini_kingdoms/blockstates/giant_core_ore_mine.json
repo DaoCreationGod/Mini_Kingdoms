@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "mini_kingdoms:block/core_ore"
+      "model": "mini_kingdoms:block/giant_core_ore_mine"
     }
   }
 }

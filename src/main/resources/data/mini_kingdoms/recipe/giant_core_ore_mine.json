@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mini_kingdoms:giant_core_ore_mine"
+  },
+  "result": {
+    "id": "mini_kingdoms:mine_giant_core",
+    "count": 1
+  }
+}

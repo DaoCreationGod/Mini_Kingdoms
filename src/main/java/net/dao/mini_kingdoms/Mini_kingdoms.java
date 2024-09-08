@@ -2,6 +2,7 @@ package net.dao.mini_kingdoms;
 
 import com.mojang.logging.LogUtils;
 import net.dao.mini_kingdoms.blocks.MKBlocks;
+//import net.dao.mini_kingdoms.blocks.entity.MKBlockEntities;
 import net.dao.mini_kingdoms.items.MKCreativeModeTabs;
 import net.dao.mini_kingdoms.items.MKItems;
 import net.minecraft.world.item.CreativeModeTab;
@@ -42,6 +43,7 @@ public class Mini_kingdoms
 
         MKItems.register(modEventBus);
         MKBlocks.register(modEventBus);
+        //MKBlockEntities.register(modEventBus);
 
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);

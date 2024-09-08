@@ -1,3 +1,11 @@
 {
-  "parent": "mini_kingdoms:block/kingdom_crafter"
+  "parent": "block/cube",
+  "textures": {
+    "north": "mini_kingdoms:block/kingdom_crafter",
+    "east": "mini_kingdoms:block/kingdom_crafter",
+    "south": "mini_kingdoms:block/kingdom_crafter",
+    "west": "mini_kingdoms:block/kingdom_crafter",
+    "up": "mini_kingdoms:block/kingdom_crafter",
+    "down": "mini_kingdoms:block/kingdom_crafter"
+  }
 }

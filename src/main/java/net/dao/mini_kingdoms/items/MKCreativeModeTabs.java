@@ -241,7 +241,8 @@ public class MKCreativeModeTabs {
                 output.accept(MKItems.WOODED_BADLANDS_BIOME_CORNERSTONE.get());
             }).build());
 
-    public static final RegistryObject<CreativeModeTab> STORES_AND_CRAFTMEN_SHOPS = CREATIVE_MODE_TABS.register("stores_and_craftmen_shops", () -> CreativeModeTab.builder().icon(()-> new ItemStack(MKBlocks.GENERAL_STORE.get()))
+    /*
+    public static final RegistryObject<CreativeModeTab> STORES_AND_CRAFTMEN_SHOPS = CREATIVE_MODE_TABS.register("stores_and_craftmen_shops", () -> CreativeModeTab.builder().icon(()-> new ItemStack(MKBlocks.KINGDOM_CRAFTER.get()))
         .withTabsBefore(CORNERSTONES.getId())
         .title(Component.translatable("creativetab.mini_kingdoms.stores_and_craftmen_shops"))
         .displayItems((ItemDisplayParameters, output)->{
@@ -262,7 +263,7 @@ public class MKCreativeModeTabs {
             output.accept(MKBlocks.TOOLSMITH.get());
     }).build());
 
-    public static final RegistryObject<CreativeModeTab> MINES_AND_FARMS = CREATIVE_MODE_TABS.register("mines_and_farms", () -> CreativeModeTab.builder().icon(()-> new ItemStack(MKBlocks.TINY_ORE_MINE.get()))
+    public static final RegistryObject<CreativeModeTab> MINES_AND_FARMS = CREATIVE_MODE_TABS.register("mines_and_farms", () -> CreativeModeTab.builder().icon(()-> new ItemStack(MKBlocks.KINGDOM_CRAFTER.get()))
             .withTabsBefore(STORES_AND_CRAFTMEN_SHOPS.getId())
             .title(Component.translatable("creativetab.mini_kingdoms.mines_and_farms"))
             .displayItems((ItemDisplayParameters, output)->{
@@ -308,7 +309,7 @@ public class MKCreativeModeTabs {
                 output.accept(MKBlocks.SUPER_ANIMAL_FARM.get());
             }).build());
 
-    public static final RegistryObject<CreativeModeTab> FROM_HOUSES_TO_KINGDOMS = CREATIVE_MODE_TABS.register("from_houses_to_kingdoms", () -> CreativeModeTab.builder().icon(()-> new ItemStack(MKBlocks.TINY_HOUSE.get()))
+    public static final RegistryObject<CreativeModeTab> FROM_HOUSES_TO_KINGDOMS = CREATIVE_MODE_TABS.register("from_houses_to_kingdoms", () -> CreativeModeTab.builder().icon(()-> new ItemStack(MKBlocks.KINGDOM_CRAFTER.get()))
             .withTabsBefore(MINES_AND_FARMS.getId())
             .title(Component.translatable("creativetab.mini_kingdoms.from_houses_to_kingdoms"))
             .displayItems((ItemDisplayParameters, output)->{
@@ -393,6 +394,7 @@ public class MKCreativeModeTabs {
                 output.accept(MKBlocks.GIANT_KINGDOM.get());
                 output.accept(MKBlocks.SUPER_KINGDOM.get());
             }).build());
+    */
 
     public static void register(IEventBus eventBus) {
         CREATIVE_MODE_TABS.register(eventBus);

@@ -5,7 +5,6 @@ import net.dao.mini_kingdoms.blocks.MKBlocks;
 //import net.dao.mini_kingdoms.blocks.entity.MKBlockEntities;
 import net.dao.mini_kingdoms.items.MKCreativeModeTabs;
 import net.dao.mini_kingdoms.items.MKItems;
-import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;

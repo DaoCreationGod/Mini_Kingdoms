@@ -238,7 +238,7 @@ public class MKBlocks {
             () -> new Block(BlockBehaviour.Properties.of().strength(2f).sound(SoundType.METAL))); //This is a block item
     public static final RegistryObject<Block> GENERAL_STORE = BLOCKS.register("standard_general_shop",
             () -> new Block(BlockBehaviour.Properties.of().strength(2f).sound(SoundType.METAL))); //This is a block item
-    public static final RegistryObject<Block> JEWELERY_STORE = BLOCKS.register("standard_jewelery_shop",
+    public static final RegistryObject<Block> JEWELLERY_STORE = BLOCKS.register("standard_jewellery_shop",
             () -> new Block(BlockBehaviour.Properties.of().strength(2f).sound(SoundType.METAL))); //This is a block item
     public static final RegistryObject<Block> BAKERY = BLOCKS.register("standard_bakery",
             () -> new Block(BlockBehaviour.Properties.of().strength(2f).sound(SoundType.METAL))); //This is a block item

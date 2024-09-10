@@ -1,4 +1,4 @@
-package net.dao.mini_kingdoms.items.customs;
+/*package net.dao.mini_kingdoms.items.customs;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.nbt.CompoundTag;
@@ -94,3 +94,4 @@ public class VillageCatcherItem extends Item {
         return super.getMaxStackSize(ItemStack stack);
     }
 }
+*/

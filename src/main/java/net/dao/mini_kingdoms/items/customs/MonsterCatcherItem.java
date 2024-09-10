@@ -1,4 +1,4 @@
-package net.dao.mini_kingdoms.items.customs;
+/*package net.dao.mini_kingdoms.items.customs;
 
 import net.dao.mini_kingdoms.util.MKTags;
 import net.minecraft.core.BlockPos;
@@ -101,3 +101,4 @@ public class MonsterCatcherItem extends Item {
         return super.getMaxStackSize(stack);
     }
 }
+*/

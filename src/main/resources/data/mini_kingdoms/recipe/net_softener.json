@@ -7,7 +7,7 @@
     ],
     "key": {
         "#": {
-            "item": "minecraft:yellow_carpet"
+            "tag": "mini_kingdoms:cloths"
         },
         "S": {
             "item": "minecraft:slime_ball"

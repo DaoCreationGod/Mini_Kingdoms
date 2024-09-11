@@ -1,7 +1,8 @@
-package net.dao.mini_kingdoms.items.customs;
+/*package net.dao.mini_kingdoms.items.customs;
 
 import net.dao.mini_kingdoms.components.EntityStorageComponent;
 import net.minecraft.core.BlockPos;
+import net.minecraft.nbt.CompoundTag;
 import net.minecraft.network.chat.Component;
 import net.minecraft.tags.TagKey;
 import net.minecraft.world.InteractionHand;
@@ -14,6 +15,8 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.context.UseOnContext;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.phys.AABB;
+
+import static net.dao.mini_kingdoms.util.MKTags.*;
 
 public class CatchersItem extends Item {
 
@@ -69,4 +72,18 @@ public class CatchersItem extends Item {
                 .findFirst()
                 .orElse(null);
     }
+
+    @Override
+    public int getDefaultMaxStackSize(ItemStack stack) {
+        // Return stack size of 1 if the item contains a villager
+        CompoundTag tag = stack.getTag();
+        if (tag != null && tag.contains(ANIMALS.toString())) {
+            return 1;
+        }
+        if (tag != null && tag.contains(MONSTERS.toString())) {
+            return 1;
+        }
+        return super.getDefaultMaxStackSize(ItemStack stack);
+    }
 }
+*/

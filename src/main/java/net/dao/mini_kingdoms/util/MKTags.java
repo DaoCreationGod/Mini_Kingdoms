@@ -4,11 +4,12 @@ import net.dao.mini_kingdoms.Mini_kingdoms;
 //import net.dao.mini_kingdoms.items.customs.AnimalCatcherItem;
 //import net.dao.mini_kingdoms.items.customs.MonsterCatcherItem;
 import net.minecraft.core.Registry;
-import net.dao.mini_kingdoms.items.customs.CatchersItem;
+//import net.dao.mini_kingdoms.items.customs.CatchersItem;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.tags.BlockTags;
 import net.minecraft.tags.ItemTags;
 import net.minecraft.tags.TagKey;
+import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
@@ -30,8 +31,9 @@ public class MKTags {
 
 
     }
-   public static final TagKey<EntityType<?>> MONSTERS = TagKey.create(Registry.ENTITY_TYPE, ResourceLocation.fromNamespaceAndPath(MODID,"monsters" ));
+   /*public static final TagKey<EntityType<?>> MONSTERS = TagKey.create(Registry.ENTITY_TYPE, ResourceLocation.fromNamespaceAndPath(MODID,"monsters" ));
     public static final TagKey<EntityType<?>> ANIMALS = TagKey.create(Registry.ENTITY_TYPE,ResourceLocation.fromNamespaceAndPath(MODID,"animals"));
+    public static final TagKey<EntityType<?>> VILLAGERS = TagKey.create(Registry.ENTITY_TYPE, ResourceLocation.fromNamespaceAndPath(MODID, "villagers"));
 
     public static TagKey<EntityType<?>> getTagForItem(Item item) {
         if (item instanceof CatchersItem) {
@@ -40,6 +42,9 @@ public class MKTags {
         if (item instanceof CatchersItem) {
             return ANIMALS;
         }
+        if (item instanceof CatchersItem) {
+            return VILLAGERS;
+        }
         return null;
-    }
+    }*/
 }

@@ -85,13 +85,13 @@ public class VillageCatcherItem extends Item {
     }
 
     @Override
-    public int getMaxStackSize(ItemStack stack) {
+    public int getDefaultMaxStackSize(ItemStack stack) {
         // Return stack size of 1 if the item contains a villager
         CompoundTag tag = stack.getTag();
         if (tag != null && tag.contains(NBT_VILLAGERS)) {
             return 1;
         }
-        return super.getMaxStackSize(ItemStack stack);
+        return super.getDefaultMaxStackSize(ItemStack stack);
     }
 }
 */

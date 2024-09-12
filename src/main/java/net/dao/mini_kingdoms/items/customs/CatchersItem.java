@@ -1,12 +1,15 @@
-/*package net.dao.mini_kingdoms.items.customs;
+package net.dao.mini_kingdoms.items.customs;
 
 import net.dao.mini_kingdoms.components.EntityStorageComponent;
 import net.minecraft.core.BlockPos;
+import net.minecraft.core.Direction;
 import net.minecraft.nbt.CompoundTag;
 import net.minecraft.network.chat.Component;
 import net.minecraft.tags.TagKey;
+import net.minecraft.util.Mth;
 import net.minecraft.world.InteractionHand;
 import net.minecraft.world.InteractionResult;
+import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.entity.player.Player;
@@ -14,76 +17,129 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.context.UseOnContext;
 import net.minecraft.world.level.Level;
-import net.minecraft.world.phys.AABB;
+
+import java.util.Optional;
+import java.util.function.Consumer;
 
 import static net.dao.mini_kingdoms.util.MKTags.*;
 
 public class CatchersItem extends Item {
 
-    private final TagKey<EntityType<?>> entityTag;
-    public CatchersItem(Properties pProperties, TagKey<EntityType<?>> entityTag){
-        super(pProperties);
-        this.entityTag = entityTag;
+    private final TagKey<EntityType<?>> captureTag;
+
+    public CatchersItem(Properties properties, TagKey<EntityType<?>> captureTag) {
+        super(properties);
+        this.captureTag = captureTag;
     }
 
     @Override
-    public InteractionResult useOn(UseOnContext pContext) {
-        Level level = pContext.getLevel();
-        Player player = pContext.getPlayer();
-        BlockPos pos = pContext.getClickedPos();
-        InteractionHand hand = pContext.getHand();
-        ItemStack itemInHand = player.getItemInHand(hand);
+    public InteractionResult interactLivingEntity(ItemStack stack, Player player, LivingEntity target, InteractionHand hand) {
+        if (player.level().isClientSide) {
+            return InteractionResult.FAIL;
+        }
 
-        // Attach or retrieve the data component from the item
-        EntityStorageComponent storageComponent = (EntityStorageComponent) itemInHand.getComponents();
+        Optional<ItemStack> captured = captureEntity(stack, target, message -> player.displayClientMessage(message, true));
+        if (captured.isPresent()) {
+            player.setItemInHand(hand, stack); // No need to replace the stack
+            return InteractionResult.SUCCESS;
+        }
+        return InteractionResult.FAIL;
+    }
 
-        if (!level.isClientSide && player != null) {
-            if (storageComponent.hasStoredEntity()) {
-                // Place the stored entity back into the world
-                LivingEntity newEntity = storageComponent.createEntityFromData(level, pos);
-                if (newEntity != null) {
-                    level.addFreshEntity(newEntity); // Add the entity back into the world
-                    storageComponent.clearStoredEntity(); // Clear the stored data
-                    player.displayClientMessage(Component.literal("Entity placed back!"), true);
-                    return InteractionResult.SUCCESS;
-                }
+    @Override
+    public InteractionResult useOn(UseOnContext context) {
+        if (context.getLevel().isClientSide) {
+            return InteractionResult.FAIL;
+        }
+
+        Player player = context.getPlayer();
+        if (player == null) {
+            return InteractionResult.FAIL;
+        }
+
+        return releaseEntity(context.getLevel(), context.getItemInHand(), context.getClickedFace(), context.getClickedPos(),
+                emptyItem -> player.setItemInHand(context.getHand(), emptyItem));
+    }
+
+    /**
+     * Capture the entity into the item's NBT data.
+     */
+    private Optional<ItemStack> captureEntity(ItemStack catcherItem, LivingEntity entity, Consumer<Component> displayCallback) {
+        if (entity.getType().is(captureTag)) { // Check if the entity matches the capture tag
+            if (!hasCapturedEntity(catcherItem)) {
+                setCapturedEntity(catcherItem, entity); // Store entity data in the item's NBT
+                return Optional.of(catcherItem); // Return the original stack with updated NBT
             } else {
-                // Try to pick up an entity based on the tag
-                LivingEntity entity = getEntityInRange(level, pos);
-                if (entity != null && entity.getType().is(entityTag)) {  // Check if the entity matches the tag
-                    storageComponent.storeEntity(entity);  // Store the entity in the component
-                    entity.setInvisible(true);  // Temporarily hide the entity
-                    player.displayClientMessage(Component.literal("Entity picked up!"), true);
-                    return InteractionResult.SUCCESS;
-                } else {
-                    player.displayClientMessage(Component.literal("No valid entity nearby to pick up!"), true);
-                    return InteractionResult.FAIL;
-                }
+                displayCallback.accept(Component.literal("This item is already holding an entity!"));
+                return Optional.empty();
             }
+        } else {
+            displayCallback.accept(Component.literal("This entity cannot be captured by this item!"));
+            return Optional.empty();
         }
-        return InteractionResult.PASS;
     }
 
-    private LivingEntity getEntityInRange(Level level, BlockPos pos) {
-        // Find the nearest LivingEntity within a small radius, and filter by the tag
-        return level.getEntitiesOfClass(LivingEntity.class, new AABB(pos).inflate(5))
-                .stream()
-                .filter(entity -> entity.getType().is(entityTag))  // Filter entities by the tag
-                .findFirst()
-                .orElse(null);
+    /**
+     * Release the captured entity from the item's NBT data.
+     */
+    private InteractionResult releaseEntity(Level level, ItemStack catcherItem, Direction face, BlockPos pos, Consumer<ItemStack> emptyItemSetter) {
+        if (hasCapturedEntity(catcherItem)) {
+            // Get spawn location
+            double spawnX = pos.getX() + face.getStepX() + 0.5;
+            double spawnY = pos.getY() + face.getStepY();
+            double spawnZ = pos.getZ() + face.getStepZ() + 0.5;
+            float rotation = Mth.wrapDegrees(level.getRandom().nextFloat() * 360.0f);
+
+            // Spawn the stored entity
+            Optional<Entity> entity = getCapturedEntity(catcherItem, level);
+            entity.ifPresent(ent -> {
+                ent.setPos(spawnX, spawnY, spawnZ);
+                ent.setYRot(rotation);
+                level.addFreshEntity(ent);
+            });
+
+            // Clear the captured entity from NBT
+            clearCapturedEntity(catcherItem);
+
+            return InteractionResult.SUCCESS;
+        }
+
+        return InteractionResult.FAIL;
     }
 
-    @Override
-    public int getDefaultMaxStackSize(ItemStack stack) {
-        // Return stack size of 1 if the item contains a villager
-        CompoundTag tag = stack.getTag();
-        if (tag != null && tag.contains(ANIMALS.toString())) {
-            return 1;
+    /**
+     * Check if the item has an entity captured.
+     */
+    private boolean hasCapturedEntity(ItemStack stack) {
+        return stack.getTagElement("CapturedEntity") != null;
+    }
+
+    /**
+     * Store the captured entity's data in the item's NBT.
+     */
+    private void setCapturedEntity(ItemStack stack, LivingEntity entity) {
+        CompoundTag tag = stack.getOrCreateTag();
+        CompoundTag entityTag = new CompoundTag();
+        entity.saveWithoutId(entityTag); // Save the entity's data into a tag
+        tag.put("CapturedEntity", entityTag); // Store the entity data under "CapturedEntity"
+    }
+
+    /**
+     * Get the captured entity from the item's NBT.
+     */
+    private Optional<Entity> getCapturedEntity(ItemStack stack, Level level) {
+        CompoundTag tag = stack.getTagElement("CapturedEntity");
+        if (tag != null) {
+            return EntityType.create(tag, level); // Recreate the entity from its saved data
         }
-        if (tag != null && tag.contains(MONSTERS.toString())) {
-            return 1;
-        }
-        return super.getDefaultMaxStackSize(ItemStack stack);
+        return Optional.empty();
+    }
+
+    /**
+     * Clear the captured entity's data from the item's NBT.
+     */
+    private void clearCapturedEntity(ItemStack stack) {
+        CompoundTag tag = stack.getOrCreateTag();
+        tag.remove("CapturedEntity"); // Remove the entity data
     }
 }
-*/

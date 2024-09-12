@@ -1,5 +1,6 @@
 {
   "values": [
-    "minecraft:villager"
+    "minecraft:villager",
+    "minecraft:wandering_trader"
   ]
 }

@@ -5,8 +5,10 @@ import net.dao.mini_kingdoms.Mini_kingdoms;
 //import net.dao.mini_kingdoms.items.customs.MonsterCatcherItem;
 import net.minecraft.core.Registry;
 //import net.dao.mini_kingdoms.items.customs.CatchersItem;
+import net.minecraft.core.registries.Registries;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.tags.BlockTags;
+import net.minecraft.tags.EntityTypeTags;
 import net.minecraft.tags.ItemTags;
 import net.minecraft.tags.TagKey;
 import net.minecraft.world.entity.Entity;
@@ -25,26 +27,22 @@ public class MKTags {
     public static class MKItems{
 
         private static final TagKey<Item> CLOTHS = createTag("cloths");
+        private static final TagKey<Item> ORES = createTag("ores");
         private static TagKey<Item> createTag(String name){
             return ItemTags.create(ResourceLocation.fromNamespaceAndPath(MODID,name));
         }
 
 
     }
-   /*public static final TagKey<EntityType<?>> MONSTERS = TagKey.create(Registry.ENTITY_TYPE, ResourceLocation.fromNamespaceAndPath(MODID,"monsters" ));
-    public static final TagKey<EntityType<?>> ANIMALS = TagKey.create(Registry.ENTITY_TYPE,ResourceLocation.fromNamespaceAndPath(MODID,"animals"));
-    public static final TagKey<EntityType<?>> VILLAGERS = TagKey.create(Registry.ENTITY_TYPE, ResourceLocation.fromNamespaceAndPath(MODID, "villagers"));
 
-    public static TagKey<EntityType<?>> getTagForItem(Item item) {
-        if (item instanceof CatchersItem) {
-            return MONSTERS;
+    public static class MKEntity {
+        public static final TagKey<EntityType<?>> VILLAGERS = createTag("villagers");
+        public static final TagKey<EntityType<?>> ANIMALS = createTag("animals");
+        public static final TagKey<EntityType<?>> MONSTERS = createTag("monsters");
+        private static TagKey<EntityType<?>> createTag(String name){
+            return EntityTypeTags.create(ResourceLocation.fromNamespaceAndPath(MODID, name));
         }
-        if (item instanceof CatchersItem) {
-            return ANIMALS;
-        }
-        if (item instanceof CatchersItem) {
-            return VILLAGERS;
-        }
-        return null;
-    }*/
+    }
+
+
 }

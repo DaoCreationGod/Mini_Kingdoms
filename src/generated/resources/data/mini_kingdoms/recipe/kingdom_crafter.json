@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "minecraft:crafting_table"
+    },
+    "b": {
+      "item": "minecraft:anvil"
+    },
+    "c": {
+      "item": "minecraft:copper_block"
+    }
+  },
+  "pattern": [
+    " a ",
+    "bcb",
+    "b b"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mini_kingdoms:kingdom_crafter"
+  }
+}

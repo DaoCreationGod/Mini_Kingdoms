@@ -2,7 +2,7 @@ package net.dao.mini_kingdoms.items;
 
 import net.dao.mini_kingdoms.Mini_kingdoms;
 //import net.dao.mini_kingdoms.items.customs.VillageCatcherItem;
-import net.dao.mini_kingdoms.items.customs.CatchersItem;
+//import net.dao.mini_kingdoms.items.customs.CatchersItem;
 import net.dao.mini_kingdoms.util.MKTags;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -26,13 +26,54 @@ public class MKItems {
     public static final RegistryObject<Item> STRENGTHENED_LEATHER_NET = ITEMS.register("strengthened_leather_net",
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> VILLAGER_CATCHER = ITEMS.register("villager_catcher",
-            () -> new CatchersItem(new Item.Properties().stacksTo(8), MKTags.MKEntity.VILLAGERS));
+            () -> new Item(new Item.Properties().stacksTo(8) /*MKTags.MKEntity.VILLAGERS*/));
     public static final RegistryObject<Item> PASSIVE_MOB_CATCHER = ITEMS.register("passive_mob_catcher",
-            () -> new CatchersItem(new Item.Properties().stacksTo(24), MKTags.MKEntity.ANIMALS));
+            () -> new Item(new Item.Properties().stacksTo(24) /*MKTags.MKEntity.ANIMALS*/));
     public static final RegistryObject<Item> AGGRESSIVE_MOB_CATCHER = ITEMS.register("aggressive_mob_catcher",
-            () -> new CatchersItem(new Item.Properties().stacksTo(16), MKTags.MKEntity.MONSTERS));
+            () -> new Item(new Item.Properties().stacksTo(16) /*MKTags.MKEntity.MONSTERS*/));
     public static final RegistryObject<Item> NET_SOFTENER = ITEMS.register("net_softener",
             () -> new Item(new Item.Properties()));
+
+    //Food
+    public static final RegistryObject<Item> BONE_MARROW = ITEMS.register("bone_marrow",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.BONE_MARROW)));
+    public static final RegistryObject<Item> BEAR_MEAT = ITEMS.register("bear_meat",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.BEAR_MEAT)));
+    public static final RegistryObject<Item> BLAZE_BLOOD = ITEMS.register("blaze_blood",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.BLAZE_BLOOD)));
+    public static final RegistryObject<Item> DOLPHIN_FIN = ITEMS.register("dolphin_fin",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.DOLPHIN_FIN)));
+    public static final RegistryObject<Item> GLOW_SQUID_EYE = ITEMS.register("glow_squid_eye",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.GLOW_SQUID_EYE)));
+    public static final RegistryObject<Item> DONKEY_MULE_MEAT = ITEMS.register("donkey_mule_meat",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.DONKEY_MULE_MEAT)));
+    public static final RegistryObject<Item> HORSE_MEAT = ITEMS.register("horse_meat",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.HORSE_MEAT)));
+    public static final RegistryObject<Item> RABBIT_FOOT_FOOD = ITEMS.register("rabbit_foot_food",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.RABBIT_FOOT_FOOD)));
+    public static final RegistryObject<Item> TURTLE_SCALE = ITEMS.register("turtle_scale",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.TURTLE_SCALE)));
+    public static final RegistryObject<Item> CAT_FEET = ITEMS.register("cat_feet",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.CAT_FEET)));
+    public static final RegistryObject<Item> ARMADILLO_SCALE = ITEMS.register("armadillo_scale",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.ARMADILLO_SCALE)));
+    public static final RegistryObject<Item> STOMACH = ITEMS.register("stomach",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.STOMACH)));
+    public static final RegistryObject<Item> LIVER = ITEMS.register("liver",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.LIVER)));
+    public static final RegistryObject<Item> LUNGS = ITEMS.register("lungs",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.LUNGS)));
+    public static final RegistryObject<Item> HEART = ITEMS.register("heart",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.HEART)));
+    public static final RegistryObject<Item> CRAZY_BLOOD = ITEMS.register("crazy_blood",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.CRAZY_BLOOD)));
+    //Food-related
+    public static final RegistryObject<Item> SMALL_EXPERIENCE_ORB = ITEMS.register("small_experience_orb",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> BIG_EXPERIENCE_ORB = ITEMS.register("big_experience_orb",
+            () -> new Item(new Item.Properties()));
+
+
 
     //Cores
     //Tiny

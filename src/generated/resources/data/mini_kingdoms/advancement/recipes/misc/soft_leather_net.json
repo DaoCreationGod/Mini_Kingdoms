@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_leather_net": {
+      "conditions": {
+        "items": [
+          {
+            "items": "mini_kingdoms:leather_net"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "mini_kingdoms:soft_leather_net"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_leather_net"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mini_kingdoms:soft_leather_net"
+    ]
+  }
+}

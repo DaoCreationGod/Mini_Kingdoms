@@ -3,6 +3,8 @@ package net.dao.mini_kingdoms;
 import com.mojang.logging.LogUtils;
 import net.dao.mini_kingdoms.blocks.MKBlocks;
 //import net.dao.mini_kingdoms.blocks.entity.MKBlockEntities;
+import net.dao.mini_kingdoms.datagen.MKBrewingRecipeProvider;
+import net.dao.mini_kingdoms.datagen.MKRecipeProvider;
 import net.dao.mini_kingdoms.items.MKCreativeModeTabs;
 import net.dao.mini_kingdoms.items.MKItems;
 import net.dao.mini_kingdoms.util.MKTags;
@@ -36,6 +38,7 @@ public class Mini_kingdoms
 
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
+        //modEventBus.addListener(MKBrewingRecipeProvider::onRegisterBrewingRecipes);
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);

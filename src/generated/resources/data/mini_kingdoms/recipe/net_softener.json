@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "tag": "mini_kingdoms:cloths"
+    },
+    "b": {
+      "item": "minecraft:slime_ball"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "result": {
+    "count": 2,
+    "id": "mini_kingdoms:net_softener"
+  }
+}

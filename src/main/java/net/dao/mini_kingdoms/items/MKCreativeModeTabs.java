@@ -14,6 +14,26 @@ public class MKCreativeModeTabs {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS =
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, Mini_kingdoms.MODID);
 
+    public static final RegistryObject<CreativeModeTab> FOODS_AND_RELATED_STUFF = CREATIVE_MODE_TABS.register("foods_and_related_stuff", ()-> CreativeModeTab.builder().icon(()-> new ItemStack(MKItems.BONE_MARROW.get()))
+            .title(Component.translatable("creativetab.mini_kingdoms.foods_and_related_stuff"))
+            .displayItems((ItemDisplayParameters, output) -> {
+                output.accept(MKItems.BONE_MARROW.get());
+                output.accept(MKItems.BEAR_MEAT.get());
+                output.accept(MKItems.BLAZE_BLOOD.get());
+                output.accept(MKItems.DOLPHIN_FIN.get());
+                output.accept(MKItems.GLOW_SQUID_EYE.get());
+                output.accept(MKItems.DONKEY_MULE_MEAT.get());
+                output.accept(MKItems.HORSE_MEAT.get());
+                output.accept(MKItems.RABBIT_FOOT_FOOD.get());
+                output.accept(MKItems.TURTLE_SCALE.get());
+                output.accept(MKItems.CAT_FEET.get());
+                output.accept(MKItems.ARMADILLO_SCALE.get());
+                output.accept(MKItems.STOMACH.get());
+                output.accept(MKItems.LIVER.get());
+                output.accept(MKItems.LUNGS.get());
+                output.accept(MKItems.HEART.get());
+                output.accept(MKItems.CRAZY_BLOOD.get());
+            }).build());
     public static final RegistryObject<CreativeModeTab> CATCHERS_AND_ASSOCIATED_ITEMS = CREATIVE_MODE_TABS.register("catchers_and_associated_items", ()-> CreativeModeTab.builder().icon(()-> new ItemStack(MKItems.LEATHER_NET.get()))
             .title(Component.translatable("creativetab.mini_kingdoms.catchers_and_associated_items"))
             .displayItems((ItemDisplayParameters, output) -> {

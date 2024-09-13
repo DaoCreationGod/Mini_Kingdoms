@@ -2,7 +2,7 @@ package net.dao.mini_kingdoms.items;
 
 import net.dao.mini_kingdoms.Mini_kingdoms;
 //import net.dao.mini_kingdoms.items.customs.VillageCatcherItem;
-import net.dao.mini_kingdoms.items.customs.CatchersItem;
+//import net.dao.mini_kingdoms.items.customs.CatchersItem;
 import net.dao.mini_kingdoms.util.MKTags;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -26,11 +26,11 @@ public class MKItems {
     public static final RegistryObject<Item> STRENGTHENED_LEATHER_NET = ITEMS.register("strengthened_leather_net",
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> VILLAGER_CATCHER = ITEMS.register("villager_catcher",
-            () -> new CatchersItem(new Item.Properties().stacksTo(8), MKTags.MKEntity.VILLAGERS));
+            () -> new Item(new Item.Properties().stacksTo(8) /*MKTags.MKEntity.VILLAGERS*/));
     public static final RegistryObject<Item> PASSIVE_MOB_CATCHER = ITEMS.register("passive_mob_catcher",
-            () -> new CatchersItem(new Item.Properties().stacksTo(24), MKTags.MKEntity.ANIMALS));
+            () -> new Item(new Item.Properties().stacksTo(24) /*MKTags.MKEntity.ANIMALS*/));
     public static final RegistryObject<Item> AGGRESSIVE_MOB_CATCHER = ITEMS.register("aggressive_mob_catcher",
-            () -> new CatchersItem(new Item.Properties().stacksTo(16), MKTags.MKEntity.MONSTERS));
+            () -> new Item(new Item.Properties().stacksTo(16) /*MKTags.MKEntity.MONSTERS*/));
     public static final RegistryObject<Item> NET_SOFTENER = ITEMS.register("net_softener",
             () -> new Item(new Item.Properties()));
 

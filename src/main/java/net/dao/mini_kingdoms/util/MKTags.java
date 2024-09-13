@@ -26,8 +26,10 @@ public class MKTags {
     }
     public static class MKItems{
 
-        private static final TagKey<Item> CLOTHS = createTag("cloths");
-        private static final TagKey<Item> ORES = createTag("ores");
+        public static final TagKey<Item> CLOTHS = createTag("cloths");
+        public static final TagKey<Item> ORES = createTag("ores");
+        public static final TagKey<Item> FOODS = createTag("foods");
+        public static final TagKey<Item> SEEDS = createTag("seeds");
         private static TagKey<Item> createTag(String name){
             return ItemTags.create(ResourceLocation.fromNamespaceAndPath(MODID,name));
         }

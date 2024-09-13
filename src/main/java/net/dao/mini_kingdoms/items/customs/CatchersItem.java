@@ -1,4 +1,4 @@
-package net.dao.mini_kingdoms.items.customs;
+/*package net.dao.mini_kingdoms.items.customs;
 
 import net.dao.mini_kingdoms.components.EntityStorageComponent;
 import net.minecraft.core.BlockPos;
@@ -64,7 +64,7 @@ public class CatchersItem extends Item {
     /**
      * Capture the entity into the item's NBT data.
      */
-    private Optional<ItemStack> captureEntity(ItemStack catcherItem, LivingEntity entity, Consumer<Component> displayCallback) {
+    /*private Optional<ItemStack> captureEntity(ItemStack catcherItem, LivingEntity entity, Consumer<Component> displayCallback) {
         if (entity.getType().is(captureTag)) { // Check if the entity matches the capture tag
             if (!hasCapturedEntity(catcherItem)) {
                 setCapturedEntity(catcherItem, entity); // Store entity data in the item's NBT
@@ -82,7 +82,7 @@ public class CatchersItem extends Item {
     /**
      * Release the captured entity from the item's NBT data.
      */
-    private InteractionResult releaseEntity(Level level, ItemStack catcherItem, Direction face, BlockPos pos, Consumer<ItemStack> emptyItemSetter) {
+    /*private InteractionResult releaseEntity(Level level, ItemStack catcherItem, Direction face, BlockPos pos, Consumer<ItemStack> emptyItemSetter) {
         if (hasCapturedEntity(catcherItem)) {
             // Get spawn location
             double spawnX = pos.getX() + face.getStepX() + 0.5;
@@ -110,14 +110,14 @@ public class CatchersItem extends Item {
     /**
      * Check if the item has an entity captured.
      */
-    private boolean hasCapturedEntity(ItemStack stack) {
+   /* private boolean hasCapturedEntity(ItemStack stack) {
         return stack.getTagElement("CapturedEntity") != null;
     }
 
     /**
      * Store the captured entity's data in the item's NBT.
      */
-    private void setCapturedEntity(ItemStack stack, LivingEntity entity) {
+    /*private void setCapturedEntity(ItemStack stack, LivingEntity entity) {
         CompoundTag tag = stack.getOrCreateTag();
         CompoundTag entityTag = new CompoundTag();
         entity.saveWithoutId(entityTag); // Save the entity's data into a tag
@@ -127,7 +127,7 @@ public class CatchersItem extends Item {
     /**
      * Get the captured entity from the item's NBT.
      */
-    private Optional<Entity> getCapturedEntity(ItemStack stack, Level level) {
+    /*private Optional<Entity> getCapturedEntity(ItemStack stack, Level level) {
         CompoundTag tag = stack.getTagElement("CapturedEntity");
         if (tag != null) {
             return EntityType.create(tag, level); // Recreate the entity from its saved data
@@ -138,8 +138,9 @@ public class CatchersItem extends Item {
     /**
      * Clear the captured entity's data from the item's NBT.
      */
-    private void clearCapturedEntity(ItemStack stack) {
+    /*private void clearCapturedEntity(ItemStack stack) {
         CompoundTag tag = stack.getOrCreateTag();
         tag.remove("CapturedEntity"); // Remove the entity data
     }
 }
+*/

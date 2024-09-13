@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mini_kingdoms:average_core_ore_building"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "mini_kingdoms:blocks/average_core_ore_building"
+}

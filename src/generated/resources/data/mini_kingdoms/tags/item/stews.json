@@ -1,0 +1,33 @@
+{
+  "values": [
+    "mini_kingdoms:stew_base",
+    "mini_kingdoms:bear_stew_base",
+    "mini_kingdoms:blaze_blood_stew_base",
+    "mini_kingdoms:glow_squid_eye_stew_base",
+    "mini_kingdoms:rabbit_foot_food_stew_base",
+    "mini_kingdoms:dolphin_fin_stew_base",
+    "mini_kingdoms:donkey_mule_meat_stew_base",
+    "mini_kingdoms:horse_meat_stew_base",
+    "mini_kingdoms:cat_feet_stew_base",
+    "mini_kingdoms:turtle_scale_stew_base",
+    "mini_kingdoms:armadillo_scale_stew_base",
+    "mini_kingdoms:stomach_stew_base",
+    "mini_kingdoms:liver_stew_base",
+    "mini_kingdoms:lungs_stew_base",
+    "mini_kingdoms:heart_stew_base",
+    "mini_kingdoms:bear_stew",
+    "mini_kingdoms:blaze_blood_stew",
+    "mini_kingdoms:glow_squid_eye_stew",
+    "mini_kingdoms:rabbit_foot_food_stew",
+    "mini_kingdoms:dolphin_fin_stew",
+    "mini_kingdoms:donkey_mule_meat_stew",
+    "mini_kingdoms:horse_meat_stew",
+    "mini_kingdoms:cat_feet_stew",
+    "mini_kingdoms:turtle_scale_stew",
+    "mini_kingdoms:armadillo_scale_stew",
+    "mini_kingdoms:stomach_stew",
+    "mini_kingdoms:liver_stew",
+    "mini_kingdoms:lungs_stew",
+    "mini_kingdoms:heart_stew"
+  ]
+}

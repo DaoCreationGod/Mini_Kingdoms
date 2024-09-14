@@ -1,6 +1,7 @@
 package net.dao.mini_kingdoms.datagen;
 
 import net.dao.mini_kingdoms.Mini_kingdoms;
+import net.dao.mini_kingdoms.items.MKItems;
 import net.dao.mini_kingdoms.util.MKTags;
 import net.minecraft.core.HolderLookup;
 import net.minecraft.data.PackOutput;
@@ -45,6 +46,37 @@ public class MKItemTagProvider extends ItemTagsProvider {
                 .add(Items.MELON_SEEDS)
                 .add(Items.PUMPKIN_SEEDS)
                 .add(Items.TORCHFLOWER_SEEDS);
+
+        tag(MKTags.MKItems.STEWS)
+                .add(MKItems.STEW_BASE.get())
+                .add(MKItems.BEAR_STEW_BASE.get())
+                .add(MKItems.BLAZE_BLOOD_STEW_BASE.get())
+                .add(MKItems.GLOW_SQUID_EYE_STEW_BASE.get())
+                .add(MKItems.RABBIT_FOOT_FOOD_STEW_BASE.get())
+                .add(MKItems.DOLPHIN_FIN_STEW_BASE.get())
+                .add(MKItems.DONKEY_MULE_MEAT_STEW_BASE.get())
+                .add(MKItems.HORSE_MEAT_STEW_BASE.get())
+                .add(MKItems.CAT_FEET_STEW_BASE.get())
+                .add(MKItems.TURTLE_SCALE_STEW_BASE.get())
+                .add(MKItems.ARMADILLO_SCALE_STEW_BASE.get())
+                .add(MKItems.STOMACH_STEW_BASE.get())
+                .add(MKItems.LIVER_STEW_BASE.get())
+                .add(MKItems.LUNGS_STEW_BASE.get())
+                .add(MKItems.HEART_STEW_BASE.get())
+                .add(MKItems.BEAR_STEW.get())
+                .add(MKItems.BLAZE_BLOOD_STEW.get())
+                .add(MKItems.GLOW_SQUID_EYE_STEW.get())
+                .add(MKItems.RABBIT_FOOT_FOOD_STEW.get())
+                .add(MKItems.DOLPHIN_FIN_STEW.get())
+                .add(MKItems.DONKEY_MULE_MEAT_STEW.get())
+                .add(MKItems.HORSE_MEAT_STEW.get())
+                .add(MKItems.CAT_FEET_STEW.get())
+                .add(MKItems.TURTLE_SCALE_STEW.get())
+                .add(MKItems.ARMADILLO_SCALE_STEW.get())
+                .add(MKItems.STOMACH_STEW.get())
+                .add(MKItems.LIVER_STEW.get())
+                .add(MKItems.LUNGS_STEW.get())
+                .add(MKItems.HEART_STEW.get());
 
         tag(MKTags.MKItems.ORES);
 

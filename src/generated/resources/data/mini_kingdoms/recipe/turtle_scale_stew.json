@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 50,
+  "experience": 5.0,
+  "ingredient": {
+    "item": "mini_kingdoms:turtle_scale_stew_base"
+  },
+  "result": {
+    "id": "mini_kingdoms:turtle_scale_stew"
+  }
+}

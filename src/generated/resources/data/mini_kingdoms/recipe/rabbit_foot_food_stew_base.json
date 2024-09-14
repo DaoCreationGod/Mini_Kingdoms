@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mini_kingdoms:rabbit_foot_food"
+    },
+    {
+      "item": "mini_kingdoms:stew_base"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "mini_kingdoms:rabbit_foot_food_stew_base"
+  }
+}

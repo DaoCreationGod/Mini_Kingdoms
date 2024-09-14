@@ -33,6 +33,34 @@ public class MKCreativeModeTabs {
                 output.accept(MKItems.LUNGS.get());
                 output.accept(MKItems.HEART.get());
                 output.accept(MKItems.CRAZY_BLOOD.get());
+                output.accept(MKItems.STEW_BASE.get());
+                output.accept(MKItems.BLAZE_BLOOD_STEW_BASE.get());
+                output.accept(MKItems.GLOW_SQUID_EYE_STEW_BASE.get());
+                output.accept(MKItems.RABBIT_FOOT_FOOD_STEW_BASE.get());
+                output.accept(MKItems.DOLPHIN_FIN_STEW_BASE.get());
+                output.accept(MKItems.DONKEY_MULE_MEAT_STEW_BASE.get());
+                output.accept(MKItems.HORSE_MEAT_STEW_BASE.get());
+                output.accept(MKItems.CAT_FEET_STEW_BASE.get());
+                output.accept(MKItems.TURTLE_SCALE_STEW_BASE.get());
+                output.accept(MKItems.ARMADILLO_SCALE_STEW_BASE.get());
+                output.accept(MKItems.STOMACH_STEW_BASE.get());
+                output.accept(MKItems.LIVER_STEW_BASE.get());
+                output.accept(MKItems.LUNGS_STEW_BASE.get());
+                output.accept(MKItems.HEART_STEW_BASE.get());
+                output.accept(MKItems.BEAR_STEW.get());
+                output.accept(MKItems.BLAZE_BLOOD_STEW.get());
+                output.accept(MKItems.GLOW_SQUID_EYE_STEW.get());
+                output.accept(MKItems.RABBIT_FOOT_FOOD_STEW.get());
+                output.accept(MKItems.DOLPHIN_FIN_STEW.get());
+                output.accept(MKItems.DONKEY_MULE_MEAT_STEW.get());
+                output.accept(MKItems.HORSE_MEAT_STEW.get());
+                output.accept(MKItems.CAT_FEET_STEW.get());
+                output.accept(MKItems.TURTLE_SCALE_STEW.get());
+                output.accept(MKItems.ARMADILLO_SCALE_STEW.get());
+                output.accept(MKItems.STOMACH_STEW.get());
+                output.accept(MKItems.LIVER_STEW.get());
+                output.accept(MKItems.LUNGS_STEW.get());
+                output.accept(MKItems.HEART_STEW.get());
             }).build());
     public static final RegistryObject<CreativeModeTab> CATCHERS_AND_ASSOCIATED_ITEMS = CREATIVE_MODE_TABS.register("catchers_and_associated_items", ()-> CreativeModeTab.builder().icon(()-> new ItemStack(MKItems.LEATHER_NET.get()))
             .title(Component.translatable("creativetab.mini_kingdoms.catchers_and_associated_items"))

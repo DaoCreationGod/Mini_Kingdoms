@@ -38,7 +38,7 @@ public class Mini_kingdoms
 
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
-        //modEventBus.addListener(MKBrewingRecipeProvider::onRegisterBrewingRecipes);
+
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);

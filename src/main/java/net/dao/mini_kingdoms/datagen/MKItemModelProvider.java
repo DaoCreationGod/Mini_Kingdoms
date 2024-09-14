@@ -24,6 +24,8 @@ public class MKItemModelProvider extends ItemModelProvider {
         ResourceLocation scute1 = modLoc("item/armadillo_scute");
         ResourceLocation scute2 = modLoc("item/turtle_scute");
         ResourceLocation foot = modLoc("item/rabbit_foot");
+        ResourceLocation stew = modLoc("item/stew");
+        ResourceLocation orb = modLoc("item/big_experience_orb");
         basicItem(MKItems.AGGRESSIVE_MOB_CATCHER.get());
         basicItem(MKItems.PASSIVE_MOB_CATCHER.get());
         basicItem(MKItems.VILLAGER_CATCHER.get());
@@ -32,6 +34,11 @@ public class MKItemModelProvider extends ItemModelProvider {
         basicItem(MKItems.LEATHER_NET.get());
         basicItem(MKItems.SOFT_LEATHER_NET.get());
         basicItem(MKItems.GROWTH_BASE.get());
+        basicItem(MKItems.SMALL_EXPERIENCE_ORB.get());
+        itemWithTexture(MKItems.BIG_EXPERIENCE_ORB, orb);
+        itemWithTexture(MKItems.COMPACTED_EXPERIENCE_ORB, orb);
+
+
 
         basicItem(MKItems.BONE_MARROW.get());
         basicItem(MKItems.LIVER.get());
@@ -50,6 +57,36 @@ public class MKItemModelProvider extends ItemModelProvider {
         itemWithTexture(MKItems.TURTLE_SCALE, scute2);
         itemWithTexture(MKItems.RABBIT_FOOT_FOOD, foot);
 
+        itemWithTexture(MKItems.STEW_BASE, stew);
+        itemWithTexture(MKItems.BEAR_STEW_BASE, stew);
+        itemWithTexture(MKItems.BLAZE_BLOOD_STEW_BASE, stew);
+        itemWithTexture(MKItems.GLOW_SQUID_EYE_STEW_BASE, stew);
+        itemWithTexture(MKItems.DOLPHIN_FIN_STEW_BASE, stew);
+        itemWithTexture(MKItems.HORSE_MEAT_STEW_BASE, stew);
+        itemWithTexture(MKItems.DONKEY_MULE_MEAT_STEW_BASE, stew);
+        itemWithTexture(MKItems.ARMADILLO_SCALE_STEW_BASE, stew);
+        itemWithTexture(MKItems.TURTLE_SCALE_STEW_BASE, stew);
+        itemWithTexture(MKItems.RABBIT_FOOT_FOOD_STEW_BASE, stew);
+        itemWithTexture(MKItems.CAT_FEET_STEW_BASE, stew);
+        itemWithTexture(MKItems.STOMACH_STEW_BASE, stew);
+        itemWithTexture(MKItems.LIVER_STEW_BASE, stew);
+        itemWithTexture(MKItems.LUNGS_STEW_BASE, stew);
+        itemWithTexture(MKItems.HEART_STEW_BASE, stew);
+
+        itemWithTexture(MKItems.BEAR_STEW, stew);
+        itemWithTexture(MKItems.BLAZE_BLOOD_STEW, stew);
+        itemWithTexture(MKItems.GLOW_SQUID_EYE_STEW, stew);
+        itemWithTexture(MKItems.DOLPHIN_FIN_STEW, stew);
+        itemWithTexture(MKItems.HORSE_MEAT_STEW, stew);
+        itemWithTexture(MKItems.DONKEY_MULE_MEAT_STEW, stew);
+        itemWithTexture(MKItems.ARMADILLO_SCALE_STEW, stew);
+        itemWithTexture(MKItems.TURTLE_SCALE_STEW, stew);
+        itemWithTexture(MKItems.RABBIT_FOOT_FOOD_STEW, stew);
+        itemWithTexture(MKItems.CAT_FEET_STEW, stew);
+        itemWithTexture(MKItems.STOMACH_STEW, stew);
+        itemWithTexture(MKItems.LIVER_STEW, stew);
+        itemWithTexture(MKItems.LUNGS_STEW, stew);
+        itemWithTexture(MKItems.HEART_STEW, stew);
 
         itemWithTexture(MKItems.MINE_TINY_CORE, core);
         itemWithTexture(MKItems.FARM_TINY_CORE, core);

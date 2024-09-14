@@ -34,6 +34,15 @@ public class MKItems {
     public static final RegistryObject<Item> NET_SOFTENER = ITEMS.register("net_softener",
             () -> new Item(new Item.Properties()));
 
+
+    //Food-related
+    public static final RegistryObject<Item> SMALL_EXPERIENCE_ORB = ITEMS.register("small_experience_orb",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> BIG_EXPERIENCE_ORB = ITEMS.register("big_experience_orb",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> COMPACTED_EXPERIENCE_ORB = ITEMS.register("compacted_experience_orb",
+            () -> new Item(new Item.Properties()));
+
     //Food
     public static final RegistryObject<Item> BONE_MARROW = ITEMS.register("bone_marrow",
             () -> new Item(new Item.Properties().food(MKFoodProperties.BONE_MARROW)));
@@ -67,11 +76,70 @@ public class MKItems {
             () -> new Item(new Item.Properties().food(MKFoodProperties.HEART)));
     public static final RegistryObject<Item> CRAZY_BLOOD = ITEMS.register("crazy_blood",
             () -> new Item(new Item.Properties().food(MKFoodProperties.CRAZY_BLOOD)));
-    //Food-related
-    public static final RegistryObject<Item> SMALL_EXPERIENCE_ORB = ITEMS.register("small_experience_orb",
-            () -> new Item(new Item.Properties()));
-    public static final RegistryObject<Item> BIG_EXPERIENCE_ORB = ITEMS.register("big_experience_orb",
-            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> STEW_BASE = ITEMS.register("stew_base",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.CRAZY_BLOOD)));
+
+    //Stews
+    //Single Ingredient Stews
+    //Bases
+    public static final RegistryObject<Item> BEAR_STEW_BASE = ITEMS.register("bear_stew_base",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.BEAR_STEW_BASE)));
+    public static final RegistryObject<Item> BLAZE_BLOOD_STEW_BASE = ITEMS.register("blaze_blood_stew_base",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.BLAZE_BLOOD_STEW_BASE)));
+    public static final RegistryObject<Item> DOLPHIN_FIN_STEW_BASE = ITEMS.register("dolphin_fin_stew_base",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.DOLPHIN_FIN_STEW_BASE)));
+    public static final RegistryObject<Item> GLOW_SQUID_EYE_STEW_BASE = ITEMS.register("glow_squid_eye_stew_base",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.GLOW_SQUID_EYE_STEW_BASE)));
+    public static final RegistryObject<Item> DONKEY_MULE_MEAT_STEW_BASE = ITEMS.register("donkey_mule_meat_stew_base",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.DONKEY_MULE_MEAT_STEW_BASE)));
+    public static final RegistryObject<Item> HORSE_MEAT_STEW_BASE = ITEMS.register("horse_meat_stew_base",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.HORSE_MEAT_STEW_BASE)));
+    public static final RegistryObject<Item> RABBIT_FOOT_FOOD_STEW_BASE = ITEMS.register("rabbit_foot_food_stew_base",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.RABBIT_FOOT_FOOD_STEW_BASE)));
+    public static final RegistryObject<Item> TURTLE_SCALE_STEW_BASE = ITEMS.register("turtle_scale_stew_base",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.TURTLE_SCALE_STEW_BASE)));
+    public static final RegistryObject<Item> CAT_FEET_STEW_BASE = ITEMS.register("cat_feet_stew_base",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.CAT_FEET_STEW_BASE)));
+    public static final RegistryObject<Item> ARMADILLO_SCALE_STEW_BASE = ITEMS.register("armadillo_scale_stew_base",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.ARMADILLO_SCALE_STEW_BASE)));
+    public static final RegistryObject<Item> STOMACH_STEW_BASE = ITEMS.register("stomach_stew_base",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.STOMACH_STEW_BASE)));
+    public static final RegistryObject<Item> LIVER_STEW_BASE = ITEMS.register("liver_stew_base",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.LIVER_STEW_BASE)));
+    public static final RegistryObject<Item> LUNGS_STEW_BASE = ITEMS.register("lungs_stew_base",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.LUNGS_STEW_BASE)));
+    public static final RegistryObject<Item> HEART_STEW_BASE = ITEMS.register("heart_stew_base",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.HEART_STEW_BASE)));
+    //Stews
+    public static final RegistryObject<Item> BEAR_STEW = ITEMS.register("bear_stew",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.BEAR_STEW)));
+    public static final RegistryObject<Item> BLAZE_BLOOD_STEW = ITEMS.register("blaze_blood_stew",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.BLAZE_BLOOD_STEW)));
+    public static final RegistryObject<Item> DOLPHIN_FIN_STEW = ITEMS.register("dolphin_fin_stew",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.DOLPHIN_FIN_STEW)));
+    public static final RegistryObject<Item> GLOW_SQUID_EYE_STEW = ITEMS.register("glow_squid_eye_stew",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.GLOW_SQUID_EYE_STEW)));
+    public static final RegistryObject<Item> DONKEY_MULE_MEAT_STEW = ITEMS.register("donkey_mule_meat_stew",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.DONKEY_MULE_MEAT_STEW)));
+    public static final RegistryObject<Item> HORSE_MEAT_STEW = ITEMS.register("horse_meat_stew",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.HORSE_MEAT_STEW)));
+    public static final RegistryObject<Item> RABBIT_FOOT_FOOD_STEW = ITEMS.register("rabbit_foot_food_stew",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.RABBIT_FOOT_FOOD_STEW)));
+    public static final RegistryObject<Item> TURTLE_SCALE_STEW = ITEMS.register("turtle_scale_stew",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.TURTLE_SCALE_STEW)));
+    public static final RegistryObject<Item> CAT_FEET_STEW = ITEMS.register("cat_feet_stew",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.CAT_FEET_STEW)));
+    public static final RegistryObject<Item> ARMADILLO_SCALE_STEW = ITEMS.register("armadillo_scale_stew",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.ARMADILLO_SCALE_STEW)));
+    public static final RegistryObject<Item> STOMACH_STEW = ITEMS.register("stomach_stew",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.STOMACH_STEW)));
+    public static final RegistryObject<Item> LIVER_STEW = ITEMS.register("liver_stew",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.LIVER_STEW)));
+    public static final RegistryObject<Item> LUNGS_STEW = ITEMS.register("lungs_stew",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.LUNGS_STEW)));
+    public static final RegistryObject<Item> HEART_STEW = ITEMS.register("heart_stew",
+            () -> new Item(new Item.Properties().food(MKFoodProperties.HEART_STEW)));
+
 
 
 

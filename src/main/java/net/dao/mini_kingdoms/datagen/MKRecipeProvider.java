@@ -11,6 +11,7 @@ import net.minecraft.tags.ItemTags;
 import net.minecraft.world.item.Items;
 import net.minecraft.world.item.crafting.Ingredient;
 import net.minecraft.world.level.block.Blocks;
+import net.minecraft.world.level.block.SoundType;
 import net.minecraftforge.common.crafting.conditions.IConditionBuilder;
 
 import java.util.concurrent.CompletableFuture;
@@ -87,6 +88,14 @@ public class MKRecipeProvider extends RecipeProvider implements IConditionBuilde
                 .unlockedBy(getHasName(Blocks.ANVIL), has(Blocks.ANVIL))
                 .save(pRecipeOutput);
 
+        ShapedRecipeBuilder.shaped(RecipeCategory.MISC, MKItems.BIG_EXPERIENCE_ORB.get(),1)
+                .pattern("aaa")
+                .pattern("aaa")
+                .pattern("aaa")
+                .define('a', MKItems.SMALL_EXPERIENCE_ORB.get())
+                .unlockedBy(getHasName(MKItems.SMALL_EXPERIENCE_ORB.get()), has(MKItems.SMALL_EXPERIENCE_ORB.get()))
+                .save(pRecipeOutput);
+
         ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, MKItems.SOFT_LEATHER_NET.get(), 1)
                 .requires(MKItems.NET_SOFTENER.get())
                 .requires(MKItems.LEATHER_NET.get())
@@ -99,6 +108,85 @@ public class MKRecipeProvider extends RecipeProvider implements IConditionBuilde
                 .unlockedBy(getHasName(Items.WATER_BUCKET), has(Items.WATER_BUCKET))
                 .save(pRecipeOutput);
 
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.FOOD, MKItems.STEW_BASE.get(),1)
+                .requires(MKItems.BONE_MARROW.get())
+                .requires(MKItems.CRAZY_BLOOD.get())
+                .requires(MKItems.BIG_EXPERIENCE_ORB.get())
+                .requires(Items.BOWL)
+                .unlockedBy(getHasName(MKItems.BIG_EXPERIENCE_ORB.get()), has(MKItems.BIG_EXPERIENCE_ORB.get())).save(pRecipeOutput);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.FOOD, MKItems.BLAZE_BLOOD_STEW_BASE.get(),1)
+                .requires(MKItems.BLAZE_BLOOD.get())
+                .requires(MKItems.STEW_BASE.get())
+                .unlockedBy(getHasName(MKItems.STEW_BASE.get()), has(MKItems.STEW_BASE.get())).save(pRecipeOutput);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.FOOD, MKItems.BEAR_STEW_BASE.get(),1)
+                .requires(MKItems.BEAR_MEAT.get())
+                .requires(MKItems.STEW_BASE.get())
+                .unlockedBy(getHasName(MKItems.STEW_BASE.get()), has(MKItems.STEW_BASE.get())).save(pRecipeOutput);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.FOOD, MKItems.DOLPHIN_FIN_STEW_BASE.get(),1)
+                .requires(MKItems.DOLPHIN_FIN.get())
+                .requires(MKItems.STEW_BASE.get())
+                .unlockedBy(getHasName(MKItems.STEW_BASE.get()), has(MKItems.STEW_BASE.get())).save(pRecipeOutput);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.FOOD, MKItems.GLOW_SQUID_EYE_STEW_BASE.get(),1)
+                .requires(MKItems.GLOW_SQUID_EYE.get())
+                .requires(MKItems.STEW_BASE.get())
+                .unlockedBy(getHasName(MKItems.STEW_BASE.get()), has(MKItems.STEW_BASE.get())).save(pRecipeOutput);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.FOOD, MKItems.DONKEY_MULE_MEAT_STEW_BASE.get(),1)
+                .requires(MKItems.DONKEY_MULE_MEAT.get())
+                .requires(MKItems.STEW_BASE.get())
+                .unlockedBy(getHasName(MKItems.STEW_BASE.get()), has(MKItems.STEW_BASE.get())).save(pRecipeOutput);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.FOOD, MKItems.HORSE_MEAT_STEW_BASE.get(),1)
+                .requires(MKItems.HORSE_MEAT.get())
+                .requires(MKItems.STEW_BASE.get())
+                .unlockedBy(getHasName(MKItems.STEW_BASE.get()), has(MKItems.STEW_BASE.get())).save(pRecipeOutput);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.FOOD, MKItems.RABBIT_FOOT_FOOD_STEW_BASE.get(),1)
+                .requires(MKItems.RABBIT_FOOT_FOOD.get())
+                .requires(MKItems.STEW_BASE.get())
+                .unlockedBy(getHasName(MKItems.STEW_BASE.get()), has(MKItems.STEW_BASE.get())).save(pRecipeOutput);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.FOOD, MKItems.TURTLE_SCALE_STEW_BASE.get(),1)
+                .requires(MKItems.TURTLE_SCALE.get())
+                .requires(MKItems.STEW_BASE.get())
+                .unlockedBy(getHasName(MKItems.STEW_BASE.get()), has(MKItems.STEW_BASE.get())).save(pRecipeOutput);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.FOOD, MKItems.CAT_FEET_STEW_BASE.get(),1)
+                .requires(MKItems.CAT_FEET.get())
+                .requires(MKItems.CAT_FEET.get())
+                .requires(MKItems.STEW_BASE.get())
+                .unlockedBy(getHasName(MKItems.STEW_BASE.get()), has(MKItems.STEW_BASE.get())).save(pRecipeOutput);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.FOOD, MKItems.ARMADILLO_SCALE_STEW_BASE.get(),1)
+                .requires(MKItems.ARMADILLO_SCALE.get())
+                .requires(MKItems.STEW_BASE.get())
+                .unlockedBy(getHasName(MKItems.STEW_BASE.get()), has(MKItems.STEW_BASE.get())).save(pRecipeOutput);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.FOOD, MKItems.STOMACH_STEW_BASE.get(),1)
+                .requires(MKItems.STOMACH.get())
+                .requires(MKItems.STEW_BASE.get())
+                .unlockedBy(getHasName(MKItems.STEW_BASE.get()), has(MKItems.STEW_BASE.get())).save(pRecipeOutput);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.FOOD, MKItems.LIVER_STEW_BASE.get(),1)
+                .requires(MKItems.LIVER.get())
+                .requires(MKItems.STEW_BASE.get())
+                .unlockedBy(getHasName(MKItems.STEW_BASE.get()), has(MKItems.STEW_BASE.get())).save(pRecipeOutput);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.FOOD, MKItems.LUNGS_STEW_BASE.get(),1)
+                .requires(MKItems.LUNGS.get())
+                .requires(MKItems.STEW_BASE.get())
+                .unlockedBy(getHasName(MKItems.STEW_BASE.get()), has(MKItems.STEW_BASE.get())).save(pRecipeOutput);
+
+        ShapelessRecipeBuilder.shapeless(RecipeCategory.FOOD, MKItems.HEART_STEW_BASE.get(),1)
+                .requires(MKItems.HEART.get())
+                .requires(MKItems.STEW_BASE.get())
+                .unlockedBy(getHasName(MKItems.STEW_BASE.get()), has(MKItems.STEW_BASE.get())).save(pRecipeOutput);
+
+        addSmokingAndCampfireRecipes(pRecipeOutput);
         addStonecuttingRecipes(pRecipeOutput);
     }
 
@@ -153,4 +241,33 @@ public class MKRecipeProvider extends RecipeProvider implements IConditionBuilde
         SingleItemRecipeBuilder.stonecutting(Ingredient.of(MKBlocks.SUPER_CORE_ORE_MINE.get()), RecipeCategory.MISC, MKItems.MINE_SUPER_CORE.get()).unlockedBy(getHasName(Blocks.STONECUTTER), has(Blocks.STONECUTTER)).save(pRecipeOutput);
         SingleItemRecipeBuilder.stonecutting(Ingredient.of(MKBlocks.SUPER_CORE_ORE_FARM.get()), RecipeCategory.MISC, MKItems.FARM_SUPER_CORE.get()).unlockedBy(getHasName(Blocks.STONECUTTER), has(Blocks.STONECUTTER)).save(pRecipeOutput);
     }
+
+    protected void addSmokingAndCampfireRecipes(RecipeOutput pRecipeOutput){
+        SimpleCookingRecipeBuilder.smoking(Ingredient.of(MKItems.BEAR_STEW_BASE.get()), RecipeCategory.FOOD, MKItems.BEAR_STEW.get(),5,50).unlockedBy(getHasName(MKItems.BEAR_STEW_BASE.get()), has(MKItems.BEAR_STEW_BASE.get())).save(pRecipeOutput);
+
+        SimpleCookingRecipeBuilder.smoking(Ingredient.of(MKItems.BLAZE_BLOOD_STEW_BASE.get()), RecipeCategory.FOOD, MKItems.BLAZE_BLOOD_STEW.get(),5,50).unlockedBy(getHasName(MKItems.BLAZE_BLOOD_STEW_BASE.get()), has(MKItems.BLAZE_BLOOD_STEW_BASE.get())).save(pRecipeOutput);
+
+        SimpleCookingRecipeBuilder.smoking(Ingredient.of(MKItems.GLOW_SQUID_EYE_STEW_BASE.get()), RecipeCategory.FOOD, MKItems.GLOW_SQUID_EYE_STEW.get(),5,50).unlockedBy(getHasName(MKItems.GLOW_SQUID_EYE_STEW_BASE.get()), has(MKItems.GLOW_SQUID_EYE_STEW_BASE.get())).save(pRecipeOutput);
+
+        SimpleCookingRecipeBuilder.smoking(Ingredient.of(MKItems.DONKEY_MULE_MEAT_STEW_BASE.get()), RecipeCategory.FOOD, MKItems.DONKEY_MULE_MEAT_STEW.get(),5,50).unlockedBy(getHasName(MKItems.DONKEY_MULE_MEAT_STEW_BASE.get()), has(MKItems.DONKEY_MULE_MEAT_STEW_BASE.get())).save(pRecipeOutput);
+
+        SimpleCookingRecipeBuilder.smoking(Ingredient.of(MKItems.HORSE_MEAT_STEW_BASE.get()), RecipeCategory.FOOD, MKItems.HORSE_MEAT_STEW.get(),5,50).unlockedBy(getHasName(MKItems.HORSE_MEAT_STEW_BASE.get()), has(MKItems.HORSE_MEAT_STEW_BASE.get())).save(pRecipeOutput);
+
+        SimpleCookingRecipeBuilder.smoking(Ingredient.of(MKItems.RABBIT_FOOT_FOOD_STEW_BASE.get()), RecipeCategory.FOOD, MKItems.RABBIT_FOOT_FOOD_STEW.get(),5,50).unlockedBy(getHasName(MKItems.RABBIT_FOOT_FOOD_STEW_BASE.get()), has(MKItems.RABBIT_FOOT_FOOD_STEW_BASE.get())).save(pRecipeOutput);
+
+        SimpleCookingRecipeBuilder.smoking(Ingredient.of(MKItems.TURTLE_SCALE_STEW_BASE.get()), RecipeCategory.FOOD, MKItems.TURTLE_SCALE_STEW.get(),5,50).unlockedBy(getHasName(MKItems.TURTLE_SCALE_STEW_BASE.get()), has(MKItems.TURTLE_SCALE_STEW_BASE.get())).save(pRecipeOutput);
+
+        SimpleCookingRecipeBuilder.smoking(Ingredient.of(MKItems.CAT_FEET_STEW_BASE.get()), RecipeCategory.FOOD, MKItems.CAT_FEET_STEW.get(),5,50).unlockedBy(getHasName(MKItems.CAT_FEET_STEW_BASE.get()), has(MKItems.CAT_FEET_STEW_BASE.get())).save(pRecipeOutput);
+
+        SimpleCookingRecipeBuilder.smoking(Ingredient.of(MKItems.ARMADILLO_SCALE_STEW_BASE.get()), RecipeCategory.FOOD, MKItems.ARMADILLO_SCALE_STEW.get(),5,50).unlockedBy(getHasName(MKItems.ARMADILLO_SCALE_STEW_BASE.get()), has(MKItems.ARMADILLO_SCALE_STEW_BASE.get())).save(pRecipeOutput);
+
+        SimpleCookingRecipeBuilder.smoking(Ingredient.of(MKItems.STOMACH_STEW_BASE.get()), RecipeCategory.FOOD, MKItems.STOMACH_STEW.get(),5,50).unlockedBy(getHasName(MKItems.STOMACH_STEW_BASE.get()), has(MKItems.STOMACH_STEW_BASE.get())).save(pRecipeOutput);
+
+        SimpleCookingRecipeBuilder.smoking(Ingredient.of(MKItems.LIVER_STEW_BASE.get()), RecipeCategory.FOOD, MKItems.LIVER_STEW.get(),5,50).unlockedBy(getHasName(MKItems.LIVER_STEW_BASE.get()), has(MKItems.LIVER_STEW_BASE.get())).save(pRecipeOutput);
+
+        SimpleCookingRecipeBuilder.smoking(Ingredient.of(MKItems.LUNGS_STEW_BASE.get()), RecipeCategory.FOOD, MKItems.LUNGS_STEW.get(),5,50).unlockedBy(getHasName(MKItems.LUNGS_STEW_BASE.get()), has(MKItems.LUNGS_STEW_BASE.get())).save(pRecipeOutput);
+
+        SimpleCookingRecipeBuilder.smoking(Ingredient.of(MKItems.HEART_STEW_BASE.get()), RecipeCategory.FOOD, MKItems.HEART_STEW.get(),5,50).unlockedBy(getHasName(MKItems.HEART_STEW_BASE.get()), has(MKItems.HEART_STEW_BASE.get())).save(pRecipeOutput);
+    }
+
 }

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mini_kingdoms:blaze_blood"
+    },
+    {
+      "item": "mini_kingdoms:stew_base"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "mini_kingdoms:blaze_blood_stew_base"
+  }
+}

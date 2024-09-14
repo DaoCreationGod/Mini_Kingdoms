@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mini_kingdoms:cat_feet"
+    },
+    {
+      "item": "mini_kingdoms:cat_feet"
+    },
+    {
+      "item": "mini_kingdoms:stew_base"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "mini_kingdoms:cat_feet_stew_base"
+  }
+}

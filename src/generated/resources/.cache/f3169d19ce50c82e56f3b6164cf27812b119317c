@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 // 1.21	2024-09-14T06:05:51.3444715	Item Models: mini_kingdoms
 0f3c114626036562a5f3692945cfa799b635db6c assets/mini_kingdoms/models/item/aggressive_mob_catcher.json
 62159905fc28c393daad4f246a77358f21793e16 assets/mini_kingdoms/models/item/armadillo_scale.json
 d62e6cdb3ef863a99da899b205e47f5c139231f9 assets/mini_kingdoms/models/item/bear_meat.json
+=======
+// 1.21	2024-09-13T17:50:28.7094396	Item Models: mini_kingdoms
+0f3c114626036562a5f3692945cfa799b635db6c assets/mini_kingdoms/models/item/aggressive_mob_catcher.json
+>>>>>>> origin/master
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/biome_above_average_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/biome_average_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/biome_below_average_core.json
@@ -12,8 +17,11 @@ d62e6cdb3ef863a99da899b205e47f5c139231f9 assets/mini_kingdoms/models/item/bear_m
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/biome_small_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/biome_super_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/biome_tiny_core.json
+<<<<<<< HEAD
 01f54ec105aa937d2786b1d9c87b240974d42b9f assets/mini_kingdoms/models/item/blaze_blood.json
 0d902ecc2598e258b42e52deeb8c7b54c28a00a7 assets/mini_kingdoms/models/item/bone_marrow.json
+=======
+>>>>>>> origin/master
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/building_above_average_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/building_average_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/building_below_average_core.json
@@ -34,7 +42,10 @@ d62e6cdb3ef863a99da899b205e47f5c139231f9 assets/mini_kingdoms/models/item/bear_m
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/capital_small_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/capital_super_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/capital_tiny_core.json
+<<<<<<< HEAD
 464a33e1981488f45932e990f902a84378c4fdca assets/mini_kingdoms/models/item/cat_feet.json
+=======
+>>>>>>> origin/master
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/city_above_average_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/city_average_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/city_below_average_core.json
@@ -45,9 +56,12 @@ d62e6cdb3ef863a99da899b205e47f5c139231f9 assets/mini_kingdoms/models/item/bear_m
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/city_small_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/city_super_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/city_tiny_core.json
+<<<<<<< HEAD
 b0d64c18f7ad29207558b1db44cb46fca62bf5bc assets/mini_kingdoms/models/item/crazy_blood.json
 efbb7e8e7e0d4ce6af82df17079f31e00a2535e5 assets/mini_kingdoms/models/item/dolphin_fin.json
 d62e6cdb3ef863a99da899b205e47f5c139231f9 assets/mini_kingdoms/models/item/donkey_mule_meat.json
+=======
+>>>>>>> origin/master
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/farm_above_average_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/farm_average_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/farm_below_average_core.json
@@ -58,10 +72,14 @@ d62e6cdb3ef863a99da899b205e47f5c139231f9 assets/mini_kingdoms/models/item/donkey
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/farm_small_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/farm_super_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/farm_tiny_core.json
+<<<<<<< HEAD
 f4cc4b41d76e569e2d53cf7fce777e05322729a6 assets/mini_kingdoms/models/item/glow_squid_eye.json
 933e2835cfa4ca427138074442af438b64b2d266 assets/mini_kingdoms/models/item/growth_base.json
 78a81db03677f2d3591aaa4439c9124b0dc412e4 assets/mini_kingdoms/models/item/heart.json
 d62e6cdb3ef863a99da899b205e47f5c139231f9 assets/mini_kingdoms/models/item/horse_meat.json
+=======
+933e2835cfa4ca427138074442af438b64b2d266 assets/mini_kingdoms/models/item/growth_base.json
+>>>>>>> origin/master
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/kingdom_above_average_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/kingdom_average_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/kingdom_below_average_core.json
@@ -83,8 +101,11 @@ d62e6cdb3ef863a99da899b205e47f5c139231f9 assets/mini_kingdoms/models/item/horse_
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/large_city_super_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/large_city_tiny_core.json
 cbe4a43c75f9c72dc72a311c981512b6ee20be92 assets/mini_kingdoms/models/item/leather_net.json
+<<<<<<< HEAD
 a9be756c4914ba7c15e3863cad354fddc6c25508 assets/mini_kingdoms/models/item/liver.json
 103a822ec05c2bda66bb7dcee284cf3b95489593 assets/mini_kingdoms/models/item/lungs.json
+=======
+>>>>>>> origin/master
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/mine_above_average_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/mine_average_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/mine_below_average_core.json
@@ -92,12 +113,18 @@ a9be756c4914ba7c15e3863cad354fddc6c25508 assets/mini_kingdoms/models/item/liver.
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/mine_giant_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/mine_huge_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/mine_large_core.json
+<<<<<<< HEAD
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/mine_small_core.json
+=======
+>>>>>>> origin/master
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/mine_super_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/mine_tiny_core.json
 900ee297d9fdb6ece4e900a4030040f22656e671 assets/mini_kingdoms/models/item/net_softener.json
 e4caf18f74077925995481a551901e97333a2ad6 assets/mini_kingdoms/models/item/passive_mob_catcher.json
+<<<<<<< HEAD
 bba74769b5526a810dc9c5a46a8584618ac14a8a assets/mini_kingdoms/models/item/rabbit_foot_food.json
+=======
+>>>>>>> origin/master
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/regional_capital_above_average_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/regional_capital_average_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/regional_capital_below_average_core.json
@@ -109,7 +136,10 @@ bba74769b5526a810dc9c5a46a8584618ac14a8a assets/mini_kingdoms/models/item/rabbit
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/regional_capital_super_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/regional_capital_tiny_core.json
 e27d7ea563eddefd9ebb70e3a0760c7b1d064838 assets/mini_kingdoms/models/item/soft_leather_net.json
+<<<<<<< HEAD
 3b53647ec06e336a6d97c3d3c620ec2780f788c2 assets/mini_kingdoms/models/item/stomach.json
+=======
+>>>>>>> origin/master
 15c5171350b59198e60a5f78a9417b3014c0d22a assets/mini_kingdoms/models/item/strengthened_leather_net.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/town_above_average_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/town_average_core.json
@@ -121,7 +151,10 @@ e27d7ea563eddefd9ebb70e3a0760c7b1d064838 assets/mini_kingdoms/models/item/soft_l
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/town_small_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/town_super_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/town_tiny_core.json
+<<<<<<< HEAD
 c91176e7a1cb15eae85f0023feb0518f979a1d85 assets/mini_kingdoms/models/item/turtle_scale.json
+=======
+>>>>>>> origin/master
 852d510aab9b5a4658dcf0e5f1bcba5795aea042 assets/mini_kingdoms/models/item/villager_catcher.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/village_above_average_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/village_average_core.json

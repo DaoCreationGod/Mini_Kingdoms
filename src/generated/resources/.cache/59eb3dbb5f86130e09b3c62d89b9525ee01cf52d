@@ -1,4 +1,11 @@
-// 1.21	2024-09-13T06:19:25.5867096	Loot Tables
+// 1.21	2024-09-16T12:13:43.7764328	Loot Tables
+a56dc6bdffac9599020b7adfd8df47a211a91fc0 data/minecraft/loot_table/entities/armadillo.json
+cc55041a728c8775aa4ba1b2c67bc8e89dc5137b data/minecraft/loot_table/entities/blaze.json
+08b9696be8874a72222bd77f09db39a53ef14ee6 data/minecraft/loot_table/entities/dolphin.json
+8aff08947dec0229078a5fc1197574198ee03782 data/minecraft/loot_table/entities/glow_squid.json
+dcea45c0b6cf31427742cc1f2f62dc737fd474da data/minecraft/loot_table/entities/horse.json
+deb13c4b1a35e27ea179abb05a99d81647d40438 data/minecraft/loot_table/entities/rabbit.json
+bdcf63975198fd572feb117c95095f5e953ad73f data/minecraft/loot_table/entities/turtle.json
 594504abcb48bf05448bf2c89030adceed69453a data/mini_kingdoms/loot_table/blocks/above_average_core_ore_biome.json
 ced15bc51deaeebad6601cb863487339f2babd4c data/mini_kingdoms/loot_table/blocks/above_average_core_ore_building.json
 5cd9caae196a8fe21c91bcc343e5208254ef56ee data/mini_kingdoms/loot_table/blocks/above_average_core_ore_farm.json

@@ -1,4 +1,4 @@
-// 1.21	2024-09-14T17:23:27.7080618	Item Models: mini_kingdoms
+// 1.21	2024-09-16T12:09:22.753322	Item Models: mini_kingdoms
 0f3c114626036562a5f3692945cfa799b635db6c assets/mini_kingdoms/models/item/aggressive_mob_catcher.json
 62159905fc28c393daad4f246a77358f21793e16 assets/mini_kingdoms/models/item/armadillo_scale.json
 df1c618d40d7bd2832217fcf5b15cda19292a349 assets/mini_kingdoms/models/item/armadillo_scale_stew.json
@@ -54,6 +54,7 @@ df1c618d40d7bd2832217fcf5b15cda19292a349 assets/mini_kingdoms/models/item/cat_fe
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/city_small_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/city_super_core.json
 641be067cb07684e5f6de4f5a018e8e8daf24a5e assets/mini_kingdoms/models/item/city_tiny_core.json
+9011c3a5d2924bcc24817a6352d4d0780ebc87b6 assets/mini_kingdoms/models/item/compacted_experience_orb.json
 b0d64c18f7ad29207558b1db44cb46fca62bf5bc assets/mini_kingdoms/models/item/crazy_blood.json
 efbb7e8e7e0d4ce6af82df17079f31e00a2535e5 assets/mini_kingdoms/models/item/dolphin_fin.json
 df1c618d40d7bd2832217fcf5b15cda19292a349 assets/mini_kingdoms/models/item/dolphin_fin_stew.json

@@ -18,6 +18,7 @@ import net.minecraft.world.level.storage.loot.entries.LootItem;
 import net.minecraft.world.level.storage.loot.parameters.LootContextParamSets;
 import net.minecraft.world.level.storage.loot.providers.number.ConstantValue;
 import net.minecraftforge.registries.ForgeRegistries;
+import org.jetbrains.annotations.NotNull;
 
 import java.util.HashSet;
 import java.util.List;
@@ -29,9 +30,10 @@ public class MKEntityLootTableProvider extends EntityLootSubProvider {
     protected MKEntityLootTableProvider(HolderLookup.Provider pRegistries) {
         super(FeatureFlags.REGISTRY.allFlags(), pRegistries);
     }
+
     @Override
     public void generate() {
-        // Combine custom and vanilla loot tables
+        // Add loot tables for specific entities
         addLootTableForEntity(EntityType.ARMADILLO, createArmadilloLootTable());
         addLootTableForEntity(EntityType.TURTLE, createTurtleLootTable());
         addLootTableForEntity(EntityType.BLAZE, createBlazeLootTable());
@@ -39,7 +41,6 @@ public class MKEntityLootTableProvider extends EntityLootSubProvider {
         addLootTableForEntity(EntityType.RABBIT, createRabbitLootTable());
         addLootTableForEntity(EntityType.HORSE, createHorseLootTable());
         addLootTableForEntity(EntityType.GLOW_SQUID, createGlowSquidLootTable());
-
 
         // Apply custom loot tables for entities in your custom tags
         applyLootTableForTag(MKTags.MKEntity.FEET, createFeetLootTable());
@@ -49,61 +50,44 @@ public class MKEntityLootTableProvider extends EntityLootSubProvider {
         applyLootTableForTag(MKTags.MKEntity.ORGANMOBS, createOrganLootTable());
     }
 
-    // Helper function to create a loot table for a specific entity
-    protected void addLootTableForEntity(EntityType<?> entityType, LootTable.Builder customLoot) {
-        // Create a new LootTable with a new pool
-        LootTable.Builder lootTableBuilder = LootTable.lootTable()
-                .withPool(LootPool.lootPool()
-                        .setRolls(ConstantValue.exactly(1))
-                        .add(LootItem.lootTableItem(MKItems.GLOW_SQUID_EYE.get()).setWeight(10))
-                        .add(LootItem.lootTableItem(MKItems.BEAR_MEAT.get()).setWeight(10))
-                        .add(LootItem.lootTableItem(MKItems.CAT_FEET.get()).setWeight(10))
-                        .add(LootItem.lootTableItem(MKItems.ARMADILLO_SCALE.get()).setWeight(10))
-                        .add(LootItem.lootTableItem(MKItems.TURTLE_SCALE.get()).setWeight(10))
-                        .add(LootItem.lootTableItem(MKItems.BLAZE_BLOOD.get()).setWeight(10))
-                        .add(LootItem.lootTableItem(MKItems.DOLPHIN_FIN.get()).setWeight(10))
-                        .add(LootItem.lootTableItem(MKItems.RABBIT_FOOT_FOOD.get()).setWeight(10))
-                        .add(LootItem.lootTableItem(MKItems.HORSE_MEAT.get()).setWeight(10))
-                        .add(LootItem.lootTableItem(MKItems.DONKEY_MULE_MEAT.get()).setWeight(10))
-                        .add(LootItem.lootTableItem(MKItems.CRAZY_BLOOD.get()).setWeight(10))
-                        .add(LootItem.lootTableItem(MKItems.STOMACH.get()).setWeight(10))
-                        .add(LootItem.lootTableItem(MKItems.LIVER.get()).setWeight(10))
-                        .add(LootItem.lootTableItem(MKItems.LUNGS.get()).setWeight(10))
-                        .add(LootItem.lootTableItem(MKItems.HEART.get()).setWeight(10))
-                );
+    @Override
+    protected java.util.stream.@NotNull Stream<EntityType<?>> getKnownEntityTypes() {
+        // Define a set to hold the allowed entities
+        Set<EntityType<?>> allowedEntities = new HashSet<>();
 
-        // Add custom loot to the new LootTable
-        LootTable customLootTable = customLoot.build();
-        lootTableBuilder.withPool(LootPool.lootPool()
-                .setRolls(ConstantValue.exactly(1))
-                .add(LootItem.lootTableItem(MKItems.GLOW_SQUID_EYE.get()).setWeight(10))
-                .add(LootItem.lootTableItem(MKItems.BEAR_MEAT.get()).setWeight(10))
-                .add(LootItem.lootTableItem(MKItems.CAT_FEET.get()).setWeight(10))
-                .add(LootItem.lootTableItem(MKItems.ARMADILLO_SCALE.get()).setWeight(10))
-                .add(LootItem.lootTableItem(MKItems.TURTLE_SCALE.get()).setWeight(10))
-                .add(LootItem.lootTableItem(MKItems.BLAZE_BLOOD.get()).setWeight(10))
-                .add(LootItem.lootTableItem(MKItems.DOLPHIN_FIN.get()).setWeight(10))
-                .add(LootItem.lootTableItem(MKItems.RABBIT_FOOT_FOOD.get()).setWeight(10))
-                .add(LootItem.lootTableItem(MKItems.HORSE_MEAT.get()).setWeight(10))
-                .add(LootItem.lootTableItem(MKItems.DONKEY_MULE_MEAT.get()).setWeight(10))
-                .add(LootItem.lootTableItem(MKItems.CRAZY_BLOOD.get()).setWeight(10))
-                .add(LootItem.lootTableItem(MKItems.STOMACH.get()).setWeight(10))
-                .add(LootItem.lootTableItem(MKItems.LIVER.get()).setWeight(10))
-                .add(LootItem.lootTableItem(MKItems.LUNGS.get()).setWeight(10))
-                .add(LootItem.lootTableItem(MKItems.HEART.get()).setWeight(10))
-        );
+        // Add specific entities you want to include (e.g., ARMADILLO, TURTLE, etc.)
+        allowedEntities.add(EntityType.ARMADILLO);
+        allowedEntities.add(EntityType.TURTLE);
+        allowedEntities.add(EntityType.BLAZE);
+        allowedEntities.add(EntityType.DOLPHIN);
+        allowedEntities.add(EntityType.RABBIT);
+        allowedEntities.add(EntityType.HORSE);
+        allowedEntities.add(EntityType.GLOW_SQUID);
 
-        // Register the loot table
-        add(entityType, lootTableBuilder);
+        // Add entities from custom tags
+        allowedEntities.addAll(getEntitiesFromTag(MKTags.MKEntity.FEET));
+        allowedEntities.addAll(getEntitiesFromTag(MKTags.MKEntity.LOOTZOMBIE));
+        allowedEntities.addAll(getEntitiesFromTag(MKTags.MKEntity.BEARMEAT));
+        allowedEntities.addAll(getEntitiesFromTag(MKTags.MKEntity.DMMEAT));
+        allowedEntities.addAll(getEntitiesFromTag(MKTags.MKEntity.ORGANMOBS));
+
+        // Return a filtered stream of allowed entities excluding the ones in the exclusion set
+        return allowedEntities.stream();
     }
 
+    // Helper function to create a loot table for a specific entity
+    protected void addLootTableForEntity(EntityType<?> entityType, LootTable.Builder customLoot) {
+        // Create a new LootTable with a new pool and weighted items
+        // Register the loot table
+        add(entityType, customLoot);
+    }
 
     // Apply loot table for entities in a tag
-    protected void applyLootTableForTag(TagKey<EntityType<?>> tag, LootTable.Builder lootTable) {
-        ForgeRegistries.ENTITY_TYPES.tags()
-                .getTag(tag)
-                .stream()
-                .forEach(entityType -> add(entityType, lootTable));
+    protected void applyLootTableForTag(TagKey<EntityType<?>> tag, LootTable.Builder customLoot) {
+        // Go through all entities and check if they are in the given tag
+        ForgeRegistries.ENTITY_TYPES.getValues().stream()
+                .filter(entityType -> entityType.is(tag)) // Check if the entity is part of the tag
+                .forEach(entityType -> addLootTableForEntity(entityType, customLoot)); // Apply loot table to each
     }
 
     // Retrieve all registered entities, including custom tags

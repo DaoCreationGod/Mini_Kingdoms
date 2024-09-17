@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mini_kingdoms:stomach"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mini_kingdoms:liver"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mini_kingdoms:lungs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mini_kingdoms:heart"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecraft:entities/llama"
+}

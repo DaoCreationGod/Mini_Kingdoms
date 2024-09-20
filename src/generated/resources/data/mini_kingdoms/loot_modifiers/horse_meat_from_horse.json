@@ -1,0 +1,14 @@
+{
+  "type": "mini_kingdoms:add_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/horse"
+    },
+    {
+      "chance": 0.75,
+      "condition": "minecraft:random_chance"
+    }
+  ],
+  "item": "mini_kingdoms:horse_meat"
+}

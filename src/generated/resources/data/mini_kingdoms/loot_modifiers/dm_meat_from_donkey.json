@@ -1,0 +1,22 @@
+{
+  "type": "mini_kingdoms:add_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/donkey"
+    },
+    {
+      "chance": 0.55,
+      "condition": "minecraft:random_chance"
+    },
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/mule"
+    },
+    {
+      "chance": 0.45,
+      "condition": "minecraft:random_chance"
+    }
+  ],
+  "item": "mini_kingdoms:donkey_mule_meat"
+}

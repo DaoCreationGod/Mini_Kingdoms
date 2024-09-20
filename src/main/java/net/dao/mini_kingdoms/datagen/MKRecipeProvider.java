@@ -96,6 +96,14 @@ public class MKRecipeProvider extends RecipeProvider implements IConditionBuilde
                 .unlockedBy(getHasName(MKItems.SMALL_EXPERIENCE_ORB.get()), has(MKItems.SMALL_EXPERIENCE_ORB.get()))
                 .save(pRecipeOutput);
 
+        ShapedRecipeBuilder.shaped(RecipeCategory.MISC, MKItems.COMPACTED_EXPERIENCE_ORB.get(),1)
+                .pattern("aaa")
+                .pattern("aaa")
+                .pattern("aaa")
+                .define('a', MKItems.BIG_EXPERIENCE_ORB.get())
+                .unlockedBy(getHasName(MKItems.BIG_EXPERIENCE_ORB.get()), has(MKItems.BIG_EXPERIENCE_ORB.get()))
+                .save(pRecipeOutput);
+
         ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, MKItems.SOFT_LEATHER_NET.get(), 1)
                 .requires(MKItems.NET_SOFTENER.get())
                 .requires(MKItems.LEATHER_NET.get())

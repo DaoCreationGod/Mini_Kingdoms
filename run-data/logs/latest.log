@@ -1,27 +1,29 @@
-[17sep.2024 21:19:19.044] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_data, --assetIndex, 17, --assetsDir, C:\Users\Gabriel Arrhenius\.gradle\caches\forge_gradle\assets, --gameDir, ., --mod, mini_kingdoms, --all, --output, C:\Users\Gabriel Arrhenius\Documents\Modding\Mini_Kingdoms\src\generated\resources, --existing, C:\Users\Gabriel Arrhenius\Documents\Modding\Mini_Kingdoms\src\main\resources]
-[17sep.2024 21:19:19.046] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.4+7-LTS
-[17sep.2024 21:19:19.049] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.4 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
-[17sep.2024 21:19:19.153] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_userdev_data
-[17sep.2024 21:19:19.264] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/Gabriel%20Arrhenius/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.7/8ab114ac385e6dbdad5efafe28aba4df8120915f/mixin-0.8.7.jar!/ Service=ModLauncher Env=UNKNOWN
-[17sep.2024 21:19:20.196] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[17sep.2024 21:19:20.998] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_data' with arguments [--gameDir, ., --assetsDir, C:\Users\Gabriel Arrhenius\.gradle\caches\forge_gradle\assets, --assetIndex, 17, --mod, mini_kingdoms, --all, --output, C:\Users\Gabriel Arrhenius\Documents\Modding\Mini_Kingdoms\src\generated\resources, --existing, C:\Users\Gabriel Arrhenius\Documents\Modding\Mini_Kingdoms\src\main\resources]
-[17sep.2024 21:19:26.823] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
-[17sep.2024 21:19:26.824] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
-[17sep.2024 21:19:26.863] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[17sep.2024 21:19:27.566] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [mini_kingdoms]
-[17sep.2024 21:19:27.633] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Gabriel%20Arrhenius/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21-51.0.33_mapped_parchment_2024.07.28-1.21/forge-1.21-51.0.33_mapped_parchment_2024.07.28-1.21-recomp.jar%230!/assets/.mcassetsroot' uses unexpected schema
-[17sep.2024 21:19:27.633] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Gabriel%20Arrhenius/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21-51.0.33_mapped_parchment_2024.07.28-1.21/forge-1.21-51.0.33_mapped_parchment_2024.07.28-1.21-recomp.jar%230!/data/.mcassetsroot' uses unexpected schema
-[17sep.2024 21:19:27.805] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
-[17sep.2024 21:19:28.139] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 333 ms
-[17sep.2024 21:19:28.140] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
-[17sep.2024 21:19:28.242] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 101 ms
-[17sep.2024 21:19:28.242] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id mini_kingdoms
-[17sep.2024 21:19:28.255] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id mini_kingdoms finished after 13 ms
-[17sep.2024 21:19:28.255] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id mini_kingdoms
-[17sep.2024 21:19:28.258] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id mini_kingdoms finished after 2 ms
-[17sep.2024 21:19:28.258] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: mini_kingdoms
-[17sep.2024 21:19:28.374] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: mini_kingdoms finished after 116 ms
-[17sep.2024 21:19:28.374] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: mini_kingdoms
-[17sep.2024 21:19:28.398] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: mini_kingdoms finished after 23 ms
-[17sep.2024 21:19:28.398] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 594 ms
-[17sep.2024 21:19:28.419] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 528, old count: 510, new count: 529, removed stale: 0, written: 38
+[20sep.2024 12:58:58.623] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_data, --assetIndex, 17, --assetsDir, C:\Users\Gabriel Arrhenius\.gradle\caches\forge_gradle\assets, --gameDir, ., --mod, mini_kingdoms, --all, --output, C:\Users\Gabriel Arrhenius\Documents\Modding\Mini_Kingdoms\src\generated\resources, --existing, C:\Users\Gabriel Arrhenius\Documents\Modding\Mini_Kingdoms\src\main\resources]
+[20sep.2024 12:58:58.625] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.4+7-LTS
+[20sep.2024 12:58:58.627] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.4 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[20sep.2024 12:58:58.738] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_userdev_data
+[20sep.2024 12:58:58.829] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/Gabriel%20Arrhenius/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.7/8ab114ac385e6dbdad5efafe28aba4df8120915f/mixin-0.8.7.jar!/ Service=ModLauncher Env=UNKNOWN
+[20sep.2024 12:58:59.621] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[20sep.2024 12:59:00.329] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_data' with arguments [--gameDir, ., --assetsDir, C:\Users\Gabriel Arrhenius\.gradle\caches\forge_gradle\assets, --assetIndex, 17, --mod, mini_kingdoms, --all, --output, C:\Users\Gabriel Arrhenius\Documents\Modding\Mini_Kingdoms\src\generated\resources, --existing, C:\Users\Gabriel Arrhenius\Documents\Modding\Mini_Kingdoms\src\main\resources]
+[20sep.2024 12:59:04.837] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
+[20sep.2024 12:59:04.837] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
+[20sep.2024 12:59:04.854] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[20sep.2024 12:59:05.353] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [mini_kingdoms]
+[20sep.2024 12:59:05.395] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Gabriel%20Arrhenius/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21-51.0.33_mapped_parchment_2024.07.28-1.21/forge-1.21-51.0.33_mapped_parchment_2024.07.28-1.21-recomp.jar%230!/assets/.mcassetsroot' uses unexpected schema
+[20sep.2024 12:59:05.396] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Gabriel%20Arrhenius/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21-51.0.33_mapped_parchment_2024.07.28-1.21/forge-1.21-51.0.33_mapped_parchment_2024.07.28-1.21-recomp.jar%230!/data/.mcassetsroot' uses unexpected schema
+[20sep.2024 12:59:05.501] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[20sep.2024 12:59:05.673] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 171 ms
+[20sep.2024 12:59:05.673] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[20sep.2024 12:59:05.738] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 64 ms
+[20sep.2024 12:59:05.738] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id mini_kingdoms
+[20sep.2024 12:59:05.745] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id mini_kingdoms finished after 6 ms
+[20sep.2024 12:59:05.745] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id mini_kingdoms
+[20sep.2024 12:59:05.748] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id mini_kingdoms finished after 2 ms
+[20sep.2024 12:59:05.748] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: mini_kingdoms
+[20sep.2024 12:59:05.853] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: mini_kingdoms finished after 105 ms
+[20sep.2024 12:59:05.853] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: mini_kingdoms
+[20sep.2024 12:59:05.867] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: mini_kingdoms finished after 13 ms
+[20sep.2024 12:59:05.867] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Global Loot Modifiers : mini_kingdoms
+[20sep.2024 12:59:05.936] [main/INFO] [net.minecraft.data.DataGenerator/]: Global Loot Modifiers : mini_kingdoms finished after 68 ms
+[20sep.2024 12:59:05.936] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 434 ms
+[20sep.2024 12:59:05.949] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 657, old count: 517, new count: 654, removed stale: 4, written: 141

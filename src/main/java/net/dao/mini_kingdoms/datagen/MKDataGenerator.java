@@ -30,20 +30,16 @@ public class MKDataGenerator {
 
         generator.addProvider(event.includeServer(), new LootTableProvider(packOutput, Collections.emptySet(),
                 List.of(new LootTableProvider.SubProviderEntry(MKBlockLootTableProvider::new, LootContextParamSets.BLOCK), new LootTableProvider.SubProviderEntry(MKEntityLootTableProvider::new, LootContextParamSets.ENTITY)), lookupProvider));
-        //generator.addProvider(event.includeServer(), new LootTableProvider(packOutput, Collections.emptySet(),      List.of(new LootTableProvider.SubProviderEntry(MKEntityLootTableProvider::new,
-                //LootContextParamSets.ENTITY)), lookupProvider));
 
         generator.addProvider(event.includeServer(), new MKRecipeProvider(packOutput, lookupProvider));
 
         BlockTagsProvider blockTagsProvider = new MKBlockTagProvider(packOutput, lookupProvider, existingFileHelper);
         generator.addProvider(event.includeServer(), blockTagsProvider);
         generator.addProvider(event.includeServer(), new MKItemTagProvider(packOutput, lookupProvider, blockTagsProvider.contentsGetter(), existingFileHelper));
-        EntityTypeTagsProvider entityTypeTagsProvider = new MKEntityTagProvider(packOutput, lookupProvider);
-        /*generator.addProvider(event.includeServer(), new EntityTypeTagsProvider(packOutput, lookupProvider,
-                entityTypeTagsProvider.contentsGetter(), existingFileHelper));*/
 
 
         generator.addProvider(event.includeClient(), new MKBlockStateProvider(packOutput, existingFileHelper));
         generator.addProvider(event.includeClient(), new MKItemModelProvider(packOutput, existingFileHelper));
+        generator.addProvider(event.includeServer(), new MKGlobalLootModifiersProvider(packOutput, lookupProvider));
     }
 }

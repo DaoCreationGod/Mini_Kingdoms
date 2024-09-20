@@ -17,6 +17,9 @@ public class MKCreativeModeTabs {
     public static final RegistryObject<CreativeModeTab> FOODS_AND_RELATED_STUFF = CREATIVE_MODE_TABS.register("foods_and_related_stuff", ()-> CreativeModeTab.builder().icon(()-> new ItemStack(MKItems.BONE_MARROW.get()))
             .title(Component.translatable("creativetab.mini_kingdoms.foods_and_related_stuff"))
             .displayItems((ItemDisplayParameters, output) -> {
+                output.accept(MKItems.SMALL_EXPERIENCE_ORB.get());
+                output.accept(MKItems.BIG_EXPERIENCE_ORB.get());
+                output.accept(MKItems.COMPACTED_EXPERIENCE_ORB.get());
                 output.accept(MKItems.BONE_MARROW.get());
                 output.accept(MKItems.BEAR_MEAT.get());
                 output.accept(MKItems.BLAZE_BLOOD.get());
@@ -34,6 +37,7 @@ public class MKCreativeModeTabs {
                 output.accept(MKItems.HEART.get());
                 output.accept(MKItems.CRAZY_BLOOD.get());
                 output.accept(MKItems.STEW_BASE.get());
+                output.accept(MKItems.BEAR_STEW_BASE.get());
                 output.accept(MKItems.BLAZE_BLOOD_STEW_BASE.get());
                 output.accept(MKItems.GLOW_SQUID_EYE_STEW_BASE.get());
                 output.accept(MKItems.RABBIT_FOOT_FOOD_STEW_BASE.get());

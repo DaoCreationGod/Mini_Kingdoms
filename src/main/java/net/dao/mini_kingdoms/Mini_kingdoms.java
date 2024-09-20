@@ -7,6 +7,7 @@ import net.dao.mini_kingdoms.datagen.MKBrewingRecipeProvider;
 import net.dao.mini_kingdoms.datagen.MKRecipeProvider;
 import net.dao.mini_kingdoms.items.MKCreativeModeTabs;
 import net.dao.mini_kingdoms.items.MKItems;
+import net.dao.mini_kingdoms.loot.MKLootModifiers;
 import net.dao.mini_kingdoms.util.MKTags;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
@@ -46,6 +47,7 @@ public class Mini_kingdoms
 
         MKItems.register(modEventBus);
         MKBlocks.register(modEventBus);
+        MKLootModifiers.register(modEventBus);
         //MKBlockEntities.register(modEventBus);
 
         // Register the item to a creative tab

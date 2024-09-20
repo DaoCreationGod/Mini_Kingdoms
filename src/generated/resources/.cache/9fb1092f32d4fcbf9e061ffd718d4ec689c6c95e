@@ -1,4 +1,4 @@
-// 1.21	2024-09-14T17:23:27.7136262	Recipes
+// 1.21	2024-09-19T17:35:35.0452722	Recipes
 a2246b42730b5cfa6ab87d0b18f1c05404d83819 data/mini_kingdoms/advancement/recipes/food/armadillo_scale_stew.json
 0625706c0f9afe8331437cbf13dd714d152d9006 data/mini_kingdoms/advancement/recipes/food/armadillo_scale_stew_base.json
 81fe20e7d95fc8e62cb1908216339417cf04a3db data/mini_kingdoms/advancement/recipes/food/bear_stew.json
@@ -49,6 +49,7 @@ f1202369d641fa65c75741846e3f29ce6a0faeb3 data/mini_kingdoms/advancement/recipes/
 1a505a4b67f7277879fa71ba8763b130b4da83cc data/mini_kingdoms/advancement/recipes/misc/building_small_core.json
 8f2b70668ec0b25baa98bb3e84eeb51f3a650ba9 data/mini_kingdoms/advancement/recipes/misc/building_super_core.json
 1df75ce838bed6b7deff6cdd614e7b2515865493 data/mini_kingdoms/advancement/recipes/misc/building_tiny_core.json
+3266b634bf036c9800ac6bcca00b0f4f13e8146c data/mini_kingdoms/advancement/recipes/misc/compacted_experience_orb.json
 0e381af257722e9c447ed427b1fd39145d5b51ba data/mini_kingdoms/advancement/recipes/misc/farm_above_average_core.json
 b317e17910adee5d8da42053a92da413e0205155 data/mini_kingdoms/advancement/recipes/misc/farm_average_core.json
 c11387d88ba85b5964aa3d242aca3a8050c8941e data/mini_kingdoms/advancement/recipes/misc/farm_below_average_core.json
@@ -107,6 +108,7 @@ d5d5d85ab8dfbdfc25a2a0d015d7b261922b4394 data/mini_kingdoms/recipe/building_smal
 367316b3140fc89eabf4646f29f3baf5437c8e46 data/mini_kingdoms/recipe/building_tiny_core.json
 75a5c858a34a69514bdd10ad794a0ef43fed71a6 data/mini_kingdoms/recipe/cat_feet_stew.json
 d6452e84224c1039c5f98ed33d85a41c8bf90ee7 data/mini_kingdoms/recipe/cat_feet_stew_base.json
+09de095e09ff45ed85c5cfc5c8aed73203acf84d data/mini_kingdoms/recipe/compacted_experience_orb.json
 485f6e61ec954fdd3ff6966410d8bbbd01879b6d data/mini_kingdoms/recipe/dolphin_fin_stew_base.json
 cc260f289a1491db93d0ca4a7c37931629b82455 data/mini_kingdoms/recipe/donkey_mule_meat_stew.json
 fb5e3e646c6e7084f0c32457167199c21daa25a7 data/mini_kingdoms/recipe/donkey_mule_meat_stew_base.json

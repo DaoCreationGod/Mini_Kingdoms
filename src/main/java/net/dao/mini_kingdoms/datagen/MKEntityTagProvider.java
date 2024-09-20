@@ -69,6 +69,7 @@ public class MKEntityTagProvider extends EntityTypeTagsProvider {
                 .add(EntityType.DONKEY)
                 .add(EntityType.MULE)
                 .add(EntityType.PANDA)
-                .add(EntityType.POLAR_BEAR);
+                .add(EntityType.POLAR_BEAR)
+                .add(EntityType.HORSE);
     }
 }

@@ -1,59 +1,31 @@
 package net.dao.mini_kingdoms.blocks.multiblock;
 
+import net.dao.mini_kingdoms.blocks.multiblock.typefiles.ShopType;
 import net.minecraft.core.BlockPos;
-import net.minecraft.util.StringRepresentable;
+import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.state.BlockState;
-import net.minecraft.world.level.block.state.StateDefinition;
-import net.minecraft.world.level.block.state.properties.EnumProperty;
-import net.minecraft.world.level.Level;
 
 public class BlockShop extends Block {
+    private final ShopType shopType;
 
-    // EnumProperty to handle the single size of the shop block
-    public static final EnumProperty<ShopSize> SIZE = EnumProperty.create("size", ShopSize.class);
-
-    // Constructor which sets default properties for the block
-    public BlockShop(Properties properties) {
+    public BlockShop(Properties properties, ShopType shopType) {
         super(properties);
-        // Set default block state to the smallest size (example: SMALL)
-        this.registerDefaultState(this.defaultBlockState().setValue(SIZE, ShopSize.SMALL));
+        this.shopType = shopType;
     }
 
-    // Fills the block's state container with the SIZE property
-    @Override
-    protected void createBlockStateDefinition(StateDefinition.Builder<Block, BlockState> builder) {
-        builder.add(SIZE);
+    public ShopType getShopType() {
+        return shopType;
     }
 
-    // Called when the block is added to the world (i.e., placed by a player)
     @Override
     public void onPlace(BlockState state, Level world, BlockPos pos, BlockState oldState, boolean isMoving) {
         super.onPlace(state, world, pos, oldState, isMoving);
-
-        // No special rules for placement; Shop blocks can be placed next to any other block
-        // Add any additional behavior for BlockShop here if needed
+        // Logic for distributing items based on the type of farm or resources in the multiblock
     }
 
-    // Enum to define the single size for the BlockShop
-    public enum ShopSize implements StringRepresentable {
-        SMALL("small",100); // Assuming only one size for simplicity
-
-        private final String name;
-        private final int chainLimit;
-
-        ShopSize(String name, int chainLimit) {
-            this.name = name;
-            this.chainLimit = chainLimit;
-        }
-
-        @Override
-        public String getSerializedName() {
-            return name;
-        }
-
-        public int getChainLimit(){
-            return chainLimit;
-        }
+    // Method to distribute items
+    private void distributeItems(Level world, BlockPos pos) {
+        // This logic can pull item lists from datacomponents based on the connected blocks
     }
 }

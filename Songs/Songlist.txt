@@ -1,0 +1,1340 @@
+Amazing Grace
+Greensleeves
+Scarborough Fair
+Shenandoah
+Oh! Susanna
+The Water is Wide
+Swing Low, Sweet Chariot
+Yankee Doodle
+Camptown Races
+Home on the Range
+My Bonnie Lies Over the Ocean
+Clementine
+Aura Lee
+The Star-Spangled Banner (original tune)
+When the Saints Go Marching In
+Wayfaring Stranger
+Old Dan Tucker
+Go Tell It on the Mountain
+He's Got the Whole World in His Hands
+John Henry
+Jasmine Flower (茉莉花)
+Moonlight Over the Lotus Pond (荷塘月色)
+Kangding Love Song (康定情歌)
+The East Is Red (东方红)
+The Crescent Moon Rises (半个月亮爬上来)
+A Li Shan’s Girl (阿里山的姑娘)
+Three Wishes of the Rose (玫瑰三愿)
+Little Cowherd (小放牛)
+The Moon Represents My Heart (月亮代表我的心)
+Dance of the Yao People (瑶族舞曲)
+Little Swallow (小燕子)
+Song of Four Seasons (四季歌)
+Su Wu Shepherding Sheep (苏武牧羊)
+The Drunken Concubine (贵妃醉酒)
+Fisherman's Song at Dusk (渔光曲)
+Song of the Yellow River Boatman (黄河船夫曲)
+Little Red Flower (小红花)
+Flowers Bloom in Spring (花儿为什么这样红)
+The Butterfly Lovers (梁祝)
+Olive Tree (橄榄树)
+La Cucaracha
+De Colores
+Cielito Lindo
+Guantanamera
+Las Mañanitas
+La Bamba
+El Cóndor Pasa
+El Jarabe Tapatío
+Los Pollitos Dicen
+Alma Llanera
+Si Vas Para Chile
+La Paloma
+Adiós Muchachos
+Clavelitos
+La Golondrina
+El Vito
+Caminito
+El Relicario
+La Malagueña
+Solamente una Vez
+Vande Mataram
+Jana Gana Mana
+Raghupati Raghav Raja Ram
+Saare Jahaan Se Achha
+Mera Rang De Basanti Chola
+Ekla Chalo Re
+Aye Mere Watan Ke Logo
+Aye Malik Tere Bande Hum
+Madhuban Mein Radhika Nache Re
+Mohe Panghat Pe Nandlal
+Tum Jo Mil Gaye Ho
+Chalte Chalte
+Chalte Chalte Mere Yeh Geet
+Man Mohana Bade Jhoothe
+Mere Sapno Ki Rani
+Chhoti Si Asha
+Dil Ka Haal Sune Dilwala
+Zindagi Ek Safar Hai Suhana
+Ab Tumhare Hawale Watan Sathiyo
+Ae Mere Pyare Watan
+Tala' al-Badru 'Alayna (طلع البدر علينا)
+Al-Yarmouk (اليرموك)
+Ya Tayr (يا طير)
+Lama Bada Yatathanna (لما بدا يتثنى)
+Ala Dalouna (على دلعونا)
+Zourouni Kulli Sana Marra (زوروني كل سنة مرة)
+Hala Laya (هلا يا)
+Sidi Mansour (سيدي منصور)
+Ya Gamil (يا جميل)
+Habibi Ya Nour El Ain (حبيبي يا نور العين)
+Salma Ya Salama (سلمى يا سلامة)
+Ala Warak Alfol (على ورق الفل)
+Kahraba (كهرباء)
+Ah Ya Zein (آه يا زين)
+Ya Rayeh (يا رايح)
+Rachid Taha - Ya Rayeh (يا رايح وين مسافر)
+Layali Al-Ons (ليالي الأنس)
+Bent El Shalabiya (بنت الشلبية)
+Mahboubat Al-Qalb (محبوبة القلب)
+Ya Banat Iskandaria (يا بنات إسكندرية)
+"আমার সোনার বাংলা" (Amar Shonar Bangla)
+"ধন ধান্য পুষ্প ভরা" (Dhon Dhanya Pushpo Bhora)
+"একতারা তুই দেশের কথা" (Ektara Tui Desher Kotha)
+"সাজিয়ে গেছো" (Sajiye Gecho)
+"ও রে নীল দরিয়া" (O Re Neel Doriya)
+"ভেবে দেখ" (Vebe Dekh)
+"আগুনের পরশমণি" (Aguner Poroshmoni)
+"বাংলার মাটি বাংলার জল" (Banglar Maati Banglar Jol)
+"তুমি রবে নীরবে" (Tumi Robe Nirobe)
+"মধুমালতী" (Madhumaloti)
+"আমার হিয়ার মাঝে" (Amar Hiyar Majhe)
+"ফুলে ফুলে ঢলে ঢলে" (Phule Phule Dhole Dhole)
+"পুরানো সেই দিনের কথা" (Purano Shei Diner Kotha)
+"নদীর নাম" (Nodir Naam)
+"ও বধূ সুন্দরী" (O Bodhu Sundori)
+"এ মন মুরগীর খোপে" (E Mon Murgir Khopay)
+"আমি বাংলায় গান গাই" (Ami Banglay Gaan Gai)
+"আজি বাংলাদেশের হৃদয়" (Aji Bangladesher Hriday)
+"শোনো শোনো" (Shono Shono)
+"খেলো না, খেলো না" (Khelo Na, Khelo Na)
+"A Portuguesa" (Portuguese National Anthem)
+"Fado Corrido"
+"Coimbra"
+"O Pastor"
+"Casa Portuguesa"
+"Canção do Mar"
+"Ó Malhão, Malhão"
+"Chamarrita"
+"A Morte Saiu à Rua"
+"Vira do Minho"
+"Maria Severa"
+"Menina estás à janela"
+"Fado Alexandrino"
+"Verde Gaio"
+"Senhora do Almortão"
+"Fado Menor"
+"Lisboa Não Sejas Francesa"
+"Marcha de Alfama"
+"Barco Negro"
+"Trova do Vento que Passa"
+"Калинка" (Kalinka)
+"Катюша" (Katyusha)
+"Полюшко-поле" (Polyushko Pole)
+"Очи чёрные" (Ochi Chyornye)
+"Подмосковные вечера" (Podmoskovnye Vechera)
+"Яблочко" (Yablochko)
+"Вдоль по Питерской" (Vdol Po Piterskoi)
+"Дубинушка" (Dubinushka)
+"Тонкая рябина" (Tonkaya Ryabina)
+"Вечерний звон" (Vecherniy Zvon)
+"Зима" (Zima)
+"Ах ты, степь широкая" (Ah, You Wide Steppe)
+"Сулико" (Suliko)
+"Казачья лезгинка" (Cossack Lezginka)
+"Как за речкой" (How Beyond the River)
+"Бабушка рядышком с дедушкой" (Grandmother Beside Grandfather)
+"Бухенвальдский набат" (Buchenwald Alarm)
+"Славься" (Glory to You)
+"На сопках Маньчжурии" (On the Hills of Manchuria)
+"Во поле берёза стояла" (In the Field Stood a Birch Tree)
+"さくら さくら" (Sakura Sakura)
+"荒城の月" (Kōjō no Tsuki)
+"赤とんぼ" (Aka Tombo)
+"浜辺の歌" (Hamabe no Uta)
+"ふるさと" (Furusato)
+"月の砂漠" (Tsuki no Sabaku)
+"五木の子守唄" (Itsuki no Komoriuta)
+"小さい秋みつけた" (Chiisai Aki Mitsuketa)
+"青い目の人形" (Aoi Me no Ningyō)
+"お正月" (Oshōgatsu)
+"証城寺の狸囃子" (Shōjōji no Tanuki Bayashi)
+"花" (Hana)
+"蝶々" (Chōchō)
+"靴が鳴る" (Kutsu ga Naru)
+"うさぎ" (Usagi)
+"城ヶ島の雨" (Jōgasaki no Ame)
+"お江戸日本橋" (Oedo Nihonbashi)
+"黒田節" (Kurodabushi)
+"七つの子" (Nanatsu no Ko)
+"赤い靴" (Akai Kutsu)
+"ਅਚੁਟ ਕਨਿਆ" (Achut Kanya)
+"ਮੱਝੀ ਦੇਸੀ" (Majhi Desi)
+"ਛੱਲਾ" (Chhalla)
+"ਲੋਹੜੀ" (Lohri Song)
+"ਮੁੰਡਿਆਨ ਤੋ ਬੱਚ ਕੇ" (Mundiyan To Bachke)
+"ਪੰਜ ਦਰਿਆਵਾਂ" (Panj Daryavan)
+"ਨਾਗਣ" (Naagin)
+"ਤੂ ਛੱਡ ਲਾ" (Tu Chadd La)
+"ਜਿੰਦੜੀਏ" (Jindariye)
+"ਹੀਰ ਰਾਂਝਾ" (Heer Ranjha)
+"ਭੱਟੀ ਵਾਲੀ" (Bhatti Wali)
+"ਸਸੇ ਪੁੰਨੂੰ" (Sassi Punnu)
+"ਵੱਟੀ ਵਾਲੀ ਕੁੜੀ" (Watti Wali Kudi)
+"ਬਾਵਾ ਜਿੱਠੇ" (Baba Jithe)
+"ਧੁਮਲ" (Dhumal)
+"ਅੱਖ ਮੇਰੀ" (Akh Meri)
+"ਰਾਣਾ" (Rana)
+"ਗਿੱਧਾ" (Giddha Song)
+"ਸਾਡਾ ਪੰਜਾਬ" (Sada Punjab)
+"ਮਾਝੀ ਦਾ ਚੱਲਾ" (Majhi Da Chhalla)
+"O Tannenbaum"
+"Die Gedanken sind frei"
+"Alle Vögel sind schon da"
+"Lili Marleen"
+"Der Mond ist aufgegangen"
+"Ich weiß nicht, was soll es bedeuten" (Lorelei)
+"Greensleeves auf Deutsch"
+"Am Brunnen vor dem Tore"
+"In einem kleinen Apfel"
+"Die Lorelei"
+"Ein Männlein steht im Walde"
+"Kein schöner Land"
+"Muss i denn"
+"Du, du liegst mir im Herzen"
+"Heideröslein"
+"Hänschen klein"
+"Auf der Lüneburger Heide"
+"Es war ein König in Thule"
+"Ade zur guten Nacht"
+"Es klappert die Mühle"
+"Lir Ilir"
+"Gambang Suling"
+"Tegese Teguh"
+"Rek Ayo Rek"
+"Sluku-Sluku Bathok"
+"Bengawan Solo"
+"Padhang Bulan"
+"Keroncong Kemayoran"
+"Ilir-Ilir"
+"Jangkrik Genggong"
+"Kroncong Seruling"
+"Stasiun Balapan"
+"Ojo Lali"
+"Dondong Opo Salak"
+"Turi-Turi Putih"
+"Suwe Ora Jamu"
+"Manuk Dadali"
+"Yen Ing Tawang Ana Lintang"
+"Eling-Eling"
+"Yamko Rambe Yamko"
+"아리랑" (Arirang)
+"도라지 타령" (Doraji Taryeong)
+"꽃타령" (Ggot Taryeong)
+"새야새야" (Saeya Saeya)
+"강강술래" (Ganggangsullae)
+"청춘가" (Cheongchunga)
+"수심가" (Susimga)
+"정선 아리랑" (Jeongseon Arirang)
+"밀양아리랑" (Miryang Arirang)
+"한강수타령" (Hangangsu Taryeong)
+"장타령" (Jang Taryeong)
+"노들강변" (Nodeulgangbyeon)
+"바람이 분다" (Barami Bunda)
+"고향의 봄" (Gohyangui Bom)
+"남촌" (Namchon)
+"섬집아기" (Seomjib Aggi)
+"가을밤" (Gaeul Bam)
+"동무생각" (Dongmu Saenggak)
+"옹헤야" (Ongheya)
+"태극기" (Taegeukgi)
+"Frère Jacques"
+"Au Clair de la Lune"
+"Sur le Pont d'Avignon"
+"La Marseillaise"
+"Alouette"
+"Do, do, l’enfant do"
+"Le Roi a fait battre tambour"
+"À la claire fontaine"
+"Plaisir d’amour"
+"Ah! vous dirai-je, maman"
+"Il était un petit navire"
+"La Chanson de Roland"
+"J'ai du bon tabac"
+"L'homme armé"
+"Le Temps des Cerises"
+"Cadet Rousselle"
+"La Carmagnole"
+"En passant par la Lorraine"
+"Le Petit Quinquin"
+"Le Chant des Partisans"
+"మా తెలుగు తల్లికి" (Maa Telugu Talliki)
+"చిత్రగుప్త" (Chitragupta)
+"ఓ సీత కథ" (O Sita Katha)
+"చందమామ" (Chandamama)
+"సీతరాముల కల్యాణం" (Seetharama Kalyanam)
+"మధురామ రామ" (Madhurama Rama)
+"పాపలందరి" (Paapalandari)
+"రామాయణ కథలు" (Ramayana Kathalu)
+"ఓఓ రామ" (O Rama)
+"తుమ్మెద" (Thummeda)
+"రాగమాలిక" (Ragamala)
+"కోయిలమ్మ పాట" (Koilamma Paata)
+"పల్లె పాట" (Palle Paata)
+"అమ్మగారి పాట" (Ammagari Paata)
+"సిరి మల్లె పువ్వు" (Siri Malle Puvvu)
+"బాణాల వీణ" (Banala Veena)
+"ఓయమ్మా" (Oyamma)
+"బుల్లెమ్మ పాట" (Bullema Paata)
+"సీతలమ్మ పాట" (Seetalamma Paata)
+"కల్యాణం ముచ్చట" (Kalyanam Muchchata)
+"Trống Cơm"
+"Lý Cây Đa"
+"Lý Ngựa Ô"
+"Bèo Dạt Mây Trôi"
+"Qua Cầu Gió Bay"
+"Người Ơi Người Ở Đừng Về"
+"Con Cò Bé Bé"
+"Đi Học"
+"Tiếng Chày Trên Sóc Bom Bo"
+"Ai Về Sông Tương"
+"Cây Trúc Xinh"
+"Lý Con Sáo"
+"Cò Lả"
+"Giã Bạn"
+"Hò ơi"
+"Người Con Gái Việt Nam"
+"Bà Còng Đi Chợ"
+"Một Con Vịt"
+"Chú Ếch Con"
+"Hát Ru"
+"कवि के गीत" (Kavi Ke Geet)
+"देवा हो देवा" (Deva Ho Deva)
+"तुम जो आयी" (Tum Jo Aayi)
+"लावणी" (Lavani Song)
+"संगते ऐक वऱ्या सावरकर" (Sangte Aik Varya Savarkar)
+"बाईगिरी" (Baigiri)
+"येरे येरे पावस" (Yere Yere Pavasa)
+"गोजिरी" (Gojiri)
+"तोच चंद्रमा" (Toch Chandrama)
+"माझ्या गावाकडे" (Majhya Gavakade)
+"नाच रे मोरा" (Nach Re Mora)
+"तुझ्या पाठीशी" (Tuzhya Pathishi)
+"सावन आला" (Sawan Aala)
+"पिंगा" (Pinga)
+"जोगवा" (Jogwa)
+"महालक्ष्मी" (Mahalakshmi)
+"शिवराज्याभिषेक" (Shivrajyabhishek)
+"माझे माहेर पंढरपूर" (Mazhe Maaher Pandharpur)
+"दादा कोन गं" (Dada Kon Ga)
+"पाटीवरती लिहीला" (Pativarti Lihila)
+"கண்ணன் வருவான்" (Kannan Varuvaan)
+"அடிக்கும் வானம்" (Adikkum Vaanam)
+"மல்லிகை பூ" (Malligai Poo)
+"ஓர் நாள்" (Oru Naal)
+"பொன்மனச் செல்வனே" (Ponmanach Selvaney)
+"பல்லாண்டு பல்லாண்டு" (Pallandu Pallandu)
+"நல்லத்தான் வாழ்ந்தாள்" (Nallathan Vaazhnthal)
+"ஓலமே" (Olamey)
+"நீயே ரகுபதி" (Neeye Raghupathi)
+"குருந்தோகம்" (Kurunthogam)
+"ஏழைக் கண்ணி" (Ezhaik Kanniyin)
+"மனமே நீ மடத்தன" (Maname Nee Madathana)
+"பொன்முகம் காண்" (Ponmugam Kaan)
+"ஊர்ந்தை ஓங்கு காவிரி" (Urundai Ongu Kaveri)
+"கட்டுப் பழனி" (Kattup Palani)
+"செந்தாமரைக் கண்ணனை" (Senthamarai Kannanin)
+"வண்ணக்கிளி குயிலே" (Vannakili Kuyile)
+"நந்தலாலா" (Nandhalala)
+"சேனை சபதி" (Senai Sabathi)
+"அம்மா என்தன்" (Amma Enthann)
+"لب پہ آتی ہے" (Lab Pe Aati Hai)
+"یہ وطن تمہارا ہے" (Yeh Watan Tumhara Hai)
+"دل دل پاکستان" (Dil Dil Pakistan)
+"ہم ہیں پاکستانی" (Hum Hain Pakistani)
+"وطن کی مٹی" (Watan Ki Mitti)
+"چاندنی راتیں" (Chandni Raatein)
+"یہ دل تمہارا ہے" (Yeh Dil Tumhara Hai)
+"دل سے" (Dil Se)
+"چاندی کی دکان" (Chandi Ki Dukaan)
+"اے راہ حق کے شہیدو" (Ae Rahe Haq Ke Shaheedo)
+"اے وطن کے سجیلے جوانو" (Ae Watan Ke Sajile Jawano)
+"اے نگار وطن" (Ae Nigaar-e-Watan)
+"بلو دے گھر" (Balo De Ghar)
+"تیری یاد آئی" (Teri Yaad Aayi)
+"چلو دلدار چلو" (Chalo Dildar Chalo)
+"جب تک ہے جاں" (Jab Tak Hai Jaan)
+"ہمارا پاکستان" (Hamara Pakistan)
+"چاند میری زمیں" (Chand Meri Zameen)
+"تم جیتو یا ہارو" (Tum Jeeto Ya Haro)
+"ہمیں پیار ہے پاکستان سے" (Humein Pyaar Hai Pakistan Se)
+"İzmir Marşı"
+"Çanakkale Türküsü"
+"Fikrimin İnce Gülü"
+"Memleketim"
+"Samanyolu"
+"Hekimoğlu"
+"Şu Karşıki Dağda Kar Var Duman Yok"
+"Ben Giderim Batuma"
+"Sarı Gelin"
+"Zeytinyağlı Yiyemem Aman"
+"Fidayda"
+"Beyaz Giyme"
+"Harmandalı Zeybeği"
+"Bir Başkadır Benim Memleketim"
+"Senden Başka"
+"Haydar Haydar"
+"Leylim Ley"
+"Nasıl Geçti Habersiz"
+"Vardar Ovası"
+"Kütahya'nın Pınarları"
+Va, pensiero" (Chorus of the Hebrew Slaves)
+"Bella ciao"
+"Funiculì, Funiculà"
+"O Sole Mio"
+"La donna è mobile"
+"Santa Lucia"
+"Finché la barca va"
+"Azzurro"
+"Volare" (Nel blu dipinto di blu)
+"Addio, mia bella Napoli"
+"Non ti scordar di me"
+"Vieni sul mar"
+"Mattinata"
+"La Spagnola"
+"La Montanara"
+"Fischia il vento"
+"Fratelli d'Italia" (Italian National Anthem)
+"Tarantella Napoletana"
+"Caruso"
+"Core 'ngrato"
+"Bogurodzica"
+"Szła dzieweczka do laseczka"
+"Czerwone jabłuszko"
+"Hej, sokoły!"
+"Góralu, czy ci nie żal"
+"Sto lat"
+"Płynie Wisła, płynie"
+"Wlazł kotek na płotek"
+"Przybyli ułani pod okienko"
+"Lulajże Jezuniu"
+"Krakowiak"
+"Polonez Warszawski"
+"Mazurek Dąbrowskiego" (Polish National Anthem)
+"Polka Dziadek"
+"Jestem sobie Krakowianka"
+"Tam na polu stoi brzoza"
+"Lipka zielona"
+"Kukułeczka kuka"
+"O mój rozmarynie"
+"Zasiali górale owies"
+"Ще не вмерла Україна" (Ukrainian National Anthem)
+"Реве та стогне Дніпр широкий" (Reve ta stohne Dnipro shyrokyi)
+"Ой на горі та й женці жнуть" (Oi na hori ta i zhentsi zhnut)
+"Чорні очка" (Chorni ochka)
+"Несе Галя воду" (Nese Halia vodu)
+"Ой у лузі червона калина" (Oi u luzi chervona kalyna)
+"Ой, чий то кінь стоїть" (Oi, chyiy to kin stoyit)
+"Два кольори" (Dva kolory)
+"Верховино, світку ти наш" (Verkhovyno, svitku ty nash)
+"Засвіт встали козаченьки" (Zasvit vstaly kozachenky)
+"Гей, соколи" (Hey, sokoly)
+"Ой у вишневому саду" (Oi u vyshnevomu sadu)
+"Ти ж мене підманула" (Ty zh mene pidmanula)
+"Ой там на горі" (Oi tam na hori)
+"Місяць на небі" (Misyats na nebi)
+"Ой, хмелю" (Oi, khmeliu)
+"Їхав козак за Дунай" (Ikhav kozak za Dunai)
+"Ой у полі три криниченьки" (Oi u poli try krynychenky)
+"Коломийка" (Kolomyika)
+"Горіла сосна, палала" (Horyla sosna, palala)
+"Hora Unirii"
+"M-a făcut mama oltean"
+"Ciocârlia"
+"Balada lui Ciprian Porumbescu"
+"Până când nu te iubeam"
+"Bordeiaș, bordei, bordei"
+"Hai, măi Ione"
+"Cântă cucu-n Bucovina"
+"Mociriță cu trifoi"
+"Pe lângă plopii fără soț"
+"Trandafir de la Moldova"
+"Sanie cu zurgălăi"
+"Aseară ți-am luat basma"
+"Dorul mă chinuie"
+"Zaraza"
+"Ana, zorile se varsă"
+"Oltule, măria ta"
+"Of, of, măi dragă"
+"Foaie verde, trei rozete"
+"Cucuruz cu frunza-n sus"
+"Het Wilhelmus" (Dutch National Anthem)
+"Mieke heeft een lammetje"
+"In een groen knollenland"
+"Zeg, ken jij de mosselman"
+"Drie kleine kleutertjes"
+"Op de grote, brede, lichtgroene wei"
+"Daar was laatst een meisje loos"
+"De Zilvervloot"
+"Ik zag twee beren"
+"Vader Jacob" (Frère Jacques in Dutch)
+"Twee emmertjes water halen"
+"O, kom er eens kijken"
+"Hij komt, hij komt, die lieve goede Sint"
+"Zie ginds komt de stoomboot"
+"Sinterklaas kapoentje"
+"Daar zaten zeven kikkertjes"
+"Ik hou van Holland"
+"Op een grote paddenstoel"
+"De herdertjes lagen bij nachte"
+"Daar zaten zeven kikkertjes"
+"Rasa Sayang"
+"Lenggang Kangkung"
+"Burung Kakak Tua"
+"Chan Mali Chan"
+"Tanah Pusaka"
+"Jalur Gemilang"
+"Enjit-enjit Semut"
+"Wau Bulan"
+"Tanya Sama Pokok"
+"Tanggal 31 Ogos"
+"Di Tanjung Katong"
+"Bapaku Pulang Dari Kota"
+"Bila Larut Malam"
+"Jambatan Merah"
+"Gunung Kinabalu"
+"Kolek-kolek"
+"Tebang Tebu"
+"Bila Berpacaran"
+"Bengawan Solo"
+"Puteri Santubong"
+"Τα παιδιά του Πειραιά" (Ta paidia tou Peiraia)
+"Σα βγαίνει ο Χότζας στο τζαμί" (Sa vgainei o Chodzas sto tzami)
+"Μήλο μου κόκκινο" (Milo mou kokkino)
+"Μαρία με τα κίτρινα" (Maria me ta kitrina)
+"Έχε γειά, πάντα γειά" (Ehe geia, panta geia)
+"Στου παπαλάμπρου την αυλή" (Stou papalabrou tin avli)
+"Η Σμύρνη μάνα καίγεται" (I Smyrni mana kaigetai)
+"Το παλιό το μονοπάτι" (To palio to monopati)
+"Κάτω στο γιαλό" (Kato sto gialo)
+"Πέντε χρόνια δικασμένος" (Pente hronia dikasmenos)
+"Έλα πάρε μου τη λύπη" (Ela pare mou ti lipi)
+"Χαρωπά τα δυο μου χέρια" (Haropa ta dyo mou heria)
+"Σήκω χόρεψε κουκλί μου" (Siko horepse koukli mou)
+"Στρώσε το στρώμα σου για δυο" (Strose to stroma sou gia dyo)
+"Τι σε μέλλει εσένανε" (Ti se mellei esenane)
+"Μια Κυριακή στο πάρκο" (Mia Kyriaki sto parko)
+"Αντιλαλούν οι φυλακές" (Antilaloun oi fylakes)
+"Το τραγούδι της ξενιτιάς" (To tragoudi tis xenitias)
+"Η μικρή Ραλλού" (I mikri Rallou)
+"Ο χορός του Ζαλόγγου" (O horos tou Zaloggou)
+"Červená řeka" (Red River)
+"Holka modrooká" (Blue-eyed Girl)
+"Já mám koně" (I Have a Horse)
+"Škoda lásky" (Wasted Love / Beer Barrel Polka)
+"Ach synku, synku"
+"Okolo Třeboně"
+"Tancuj, tancuj, vykrúcaj"
+"Když jsem já sloužil"
+"Měsíčku na nebi hlubokém" (Song to the Moon)
+"Ej, lásko, lásko"
+"Beskyde, Beskyde"
+"Kde domov můj" (Czech National Anthem)
+"V dobrém jsme se sešli"
+"Pod dubem, za dubem"
+"Pec nám spadla"
+"Na tom pražským mostě"
+"Kočka leze dírou"
+"Cib, cib, cibulenka"
+"Chodím po Broadwayi"
+"Zelené háje"
+"Lijepa naša domovino" (Croatian National Anthem)
+"Vjerujem u te" (I Believe in You)
+"Molitva za Magdalenu" (Prayer for Magdalena)
+"Pusti, pusti modu" (Let It Be, Let It Be Fashion)
+"Crna žena" (Black Woman)
+"Svi marš na Drinu" (Everyone Marches to the Drina)
+"Svi pjevaju, ja ne čujem" (Everyone Sings, I Don't Hear)
+"Sutra će biti bolji dan" (Tomorrow Will Be a Better Day)
+"Zagreb, Zagreb" (Zagreb, Zagreb)
+"Danas, sutra" (Today, Tomorrow)
+"Ljubav, ljubav" (Love, Love)
+"Pjesma za tebe" (Song for You)
+"Bojna Čavoglave" (Battle of Čavoglave)
+"Pjevaj, pjevaj" (Sing, Sing)
+"Molitva" (Prayer)
+"Pjesma o Dubrovniku" (Song of Dubrovnik)
+"Oj, Hrvatske" (Oh, Croatia)
+"Vjeruj u ljubav" (Believe in Love)
+"Plava grobnica" (Blue Grave)
+"Tiha noć" (Silent Night)
+"Jedna si jedina" (You Are the Only One)
+"Dani ljubavi" (Days of Love)
+"Sinoć sam te sanjao" (Last Night I Dreamed of You)
+"Jutro će promeniti sve" (Morning Will Change Everything)
+"Svetlost" (Light)
+"Kad zagrmi" (When Thunder Rolls)
+"Sveti Georgije" (Saint George)
+"Vjeruj u sebe" (Believe in Yourself)
+"Ovo je Bosna" (This Is Bosnia)
+"Bože, čuvaj Bosnu" (God, Save Bosnia)
+"Molitva za našu djecu" (Prayer for Our Children)
+"Svi u jedan glas" (All in One Voice)
+"Nek' bude šta bude" (Let It Be What It Will Be)
+"Cesarica" (Emperor)
+"Na putu za raj" (On the Way to Paradise)
+"Tamo gdje cvjeta limun žut" (Where the Yellow Lemon Blooms)
+"Ne dam da se ispuni" (I Won't Let It Happen)
+"Moja Bosna" (My Bosnia)
+"Ja sam Bosanac" (I Am Bosnian)
+"Neka nas nema" (Let Us Be Gone)
+"Vstani, o, Slovenija" (Rise, O Slovenia)
+"Kje so tiste stezice" (Where Are Those Paths)
+"Na planincah" (On the Hills)
+"Zemlja, zemlja" (Land, Land)
+"Pojdiva z menoj" (Come With Me)
+"Sonce sije" (The Sun Shines)
+"Prijatelji" (Friends)
+"Slovenija, moja dežela" (Slovenia, My Country)
+"Kratka in sladka" (Short and Sweet)
+"V dolini tihi" (In the Quiet Valley)
+"Pojdi z mano" (Go With Me)
+"Na morju" (At the Sea)
+"Molitva za Slovenijo" (Prayer for Slovenia)
+"Tiha noč" (Silent Night)
+"Zvezda" (Star)
+"Sveti Tomaž" (Saint Thomas)
+"Cvetje v jeseni" (Flowers in Autumn)
+"Odmevi" (Echoes)
+"Tako lepa si" (You Are So Beautiful)
+"Zajtrk" (Breakfast)
+"Këngë e Flamurit" (Song of the Flag)
+"Mori e zeze" (Black Eyes)
+"Bota është njëlloj" (The World Is the Same)
+"Të dua" (I Love You)
+"Dardania" (Dardania)
+"Këngë e Luleve" (Song of Flowers)
+"S'kam frikë" (I'm Not Afraid)
+"O Shqipëri" (Oh Albania)
+"Dashuri" (Love)
+"Më jep dorën" (Give Me Your Hand)
+"Për ty, atdhe" (For You, Homeland)
+"Dhe njëherë" (And Again)
+"Ushtria" (The Army)
+"Këngë nga Kodra" (Song from the Hill)
+"Bajrami" (Eid)
+"Rruga" (The Road)
+"Dajaku" (Uncle)
+"Vendlindja" (Homeland)
+"Jeta" (Life)
+"Këngë dhe flakë" (Song and Flame)
+"Мила Родино" (Mila Rodino - Bulgarian National Anthem)
+"Девойко, мари, хубава" (Devojko, Mari, Hubava)
+"Хубава си, моя горо" (Hubava si, Moya Goro)
+"Камъни" (Kamŭni)
+"Ти си в моите сънища" (Ti si v moite sŭnishcha)
+"Ой, тъй тъй" (Oi, Tŭy Tŭy)
+"Завет" (Zavet)
+"Рила планина" (Rila Planina)
+"Шуми Марица" (Shumi Maritsa)
+"Бре, златно гнездо" (Bre, Zlaten Gnezdo)
+"Здравей, приятелю" (Zdravey, Priyatelu)
+"Песен за България" (Pesem za Bŭlgariya)
+"На планината" (Na Planinata)
+"България, мила родино" (Bŭlgariya, Mila Rodino)
+"Свети Георги" (Sveti Georgi)
+"Съсечен лист" (Sŭsechen List)
+"Тополите" (Topolite)
+"Чудна работа" (Chudna Rabota)
+"Песен за свободата" (Pesem za Svobodata)
+"Ти, който не знаеш" (Ti, koyto ne znaesh)
+"ბრძოლა დედისთვის" (Brdzola Dedistvis - Fight for the Motherland)
+"მე ვარ ქართველი" (Me Var Kartvele - I Am Georgian)
+"შენ ხარ ჩემი ოცნება" (Shen Khari Chemi Otsneba - You Are My Dream)
+"სიმღერა სამშობლოსთვის" (Simghera SamshoblosTvis - Song for the Homeland)
+"ყველაზე მაღალი მთები" (Yvelaze Maghali Mtebi - The Highest Mountains)
+"ალილო" (Alilo)
+"გავიხსენებთ" (Gavikhsenebt - We Remember)
+"საქართველო" (Sakartvelo - Georgia)
+"ბედნიერება" (Bedniereba - Happiness)
+"ოცნება" (Otsneba - Dream)
+"შენი სახელი" (Sheni Sakheli - Your Name)
+"მშვენიერი საქართველო" (Mshvenieri Sakartvelo - Beautiful Georgia)
+"მეც დამეძებს" (Mets Damezebs - I Will Find You)
+"ჩვენ ვართ ქართველები" (Chven Vart Kartvelebi - We Are Georgians)
+"დედა" (Deda - Mother)
+"ჩემი თბილისი" (Chemi Tbilisi - My Tbilisi)
+"დედა საქართველო" (Deda Sakartvelo - Mother Georgia)
+"მთის ხმა" (Mtis Khma - Voice of the Mountain)
+"გურამი" (Gurami)
+"ბედნიერება" (Bedniereba - Happiness)
+"Арутюн" (Arutyun - Armenian Folk Song)
+"Месроп" (Mesrop - Armenian Folk Song)
+"Сарсапар" (Sarsapar - Armenian Folk Song)
+"Мшак" (Mshak - Armenian Folk Song)
+"Հավերժական" (Haverjakan - Eternal)
+"Մայր" (Mayr - Mother)
+"Գյուղում" (Gyughum - In the Village)
+"Վերը, վերը" (Very, Very - Up, Up)
+"Արև" (Arev - Sun)
+"Երևանի ամառ" (Yerevani Amar - Yerevan Summer)
+"Բարձր դիրքում" (Bardzr Dirq'm - In the High Position)
+"Միջնադարյան" (Mijandaryan - Medieval)
+"Հայաստանում" (Hayastanum - In Armenia)
+"Հաղթանակ" (Haghtanak - Victory)
+"Արևը ցանցում" (Arevy Tsantsum - Sun in the Network)
+"Բարբառային" (Barbarayin - Dialectal)
+"Մեր ժողովրդին" (Mer Zhoghovrdin - To Our People)
+"Աջակցություն" (Ajaktsutyun - Support)
+"Անմահության" (Anmahtutyan - Immortality)
+"Սպասում" (Spasum - Waiting)
+"Sarı Gelin" (Yellow Bride)
+"İzmir'in Dağları" (Mountains of İzmir)
+"Mavi Gökyüzü" (Blue Sky)
+"Çocuklar Gibi" (Like Children)
+"Bülbülüm Altın Kafeste" (My Nightingale in the Golden Cage)
+"Kalk Gidelim" (Get Up, Let's Go)
+"Yaralı" (Wounded)
+"Bahçelerde" (In the Gardens)
+"Edirne'de" (In Edirne)
+"Gelinim" (My Bride)
+"Bir Başka" (Another)
+"Gel Gel" (Come, Come)
+"Sevda" (Love)
+"Deli Mavi" (Crazy Blue)
+"Yağmurlar" (Rain)
+"Gidemediklerimiz" (Those We Couldn't Go)
+"Yarım" (Half)
+"Rüzgar" (Wind)
+"Sözüm Meclisten Dışarı" (My Word Is Outside the Council)
+"Aşk" (Love)
+"Мекен" (Meken - Motherland)
+"Қара жорға" (Kara Jorga - Black Horse)
+"Атамекен" (Atameken - Ancestral Land)
+"Сұлу" (Sulu - Beautiful)
+"Жайлау" (Zhaylau - Pasture)
+"Туған жер" (Tugan Zher - Native Land)
+"Дос" (Dos - Friend)
+"Ақбаян" (Aqbayan - White Beauty)
+"Көктем" (Koktem - Spring)
+"Арман" (Arman - Dream)
+"Шалқар" (Shalkar - Shalkar)
+"Ана" (Ana - Mother)
+"Сүйіспеншілік" (Suyispenşilik - Love)
+"Теңіз" (Tengiz - Sea)
+"Бәйтерек" (Baiterek - Baiterek)
+"Ақша қар" (Aqsha Qar - Snow)
+"Ботагөз" (Botagoz - Gaze)
+"Достық" (Dostyq - Friendship)
+"Елбасы" (Elbasy - Leader of the Nation)
+"Қазақ" (Qazaq - Kazakh)
+"Шодро" (Shodro - Tajik Folk Song)
+"Завод" (Zavod - Factory)
+"Чашмона" (Chashmona - Eyes)
+"Модари" (Modari - Mother)
+"Мелодия" (Melodiya - Melody)
+"Торик" (Torik - Torik)
+"Зиндагӣ" (Zindagi - Life)
+"Бала" (Bala - Child)
+"Чинор" (Chinor - Mulberry)
+"Шер" (Sher - Lion)
+"Филм" (Film - Film)
+"Бос" (Bos - Empty)
+"Пада" (Pada - Falling)
+"Тусиё" (Tusiya - Calling)
+"Синфи" (Sinfi - Class)
+"Суръат" (Sur’at - Speed)
+"Озод" (Ozod - Free)
+"Пари" (Pari - Fairy)
+"Гирдак" (Girdak - Circle)
+"Эй Олий" (Ey Oliy - Oh Noble)
+"Туркменистан" (Turkmenistan)
+"Алами" (Alami - My World)
+"Наср" (Nasr - Victory)
+"Тарих" (Tarih - History)
+"Қашқадарё" (Qashqadaryo - Kashkadarya)
+"Байрактар" (Bairaktar - Flag Bearer)
+"Гүржистан" (Gürjistan - Georgia)
+"Таза" (Taza - Pure)
+"Сырым" (Syrym - My Path)
+"Санат" (Sanat - Arts)
+"Солтүстік" (Soltüstik - North)
+"Достым" (Dostym - My Friend)
+"Ялбарыс" (Yalbaris - Tiger)
+"Сағат" (Sagat - Hour)
+"Гүл" (Gül - Flower)
+"Қош" (Qosh - Goodbye)
+"Жыр" (Jyr - Song)
+"Алақан" (Alakan - Palm)
+"Сардар" (Sardar - Leader)
+"Көбік" (Kobik - Foam)
+"Чыңгыз" (Chyngyz - Kyrgyz Folk Song)
+"Түштүк" (Tüshtük - The South)
+"Сүйүнчү" (Süyünçü - The Reward)
+"Келин" (Kelin - Bride)
+"Жаным" (Janım - My Soul)
+"Ту" (Tu - Flag)
+"Таш" (Tash - Stone)
+"Көк" (Kök - Blue)
+"Кенже" (Kenzhe - The Youngest)
+"Борбор" (Borbor - Center)
+"Кубан" (Kuban - Kuban)
+"Кара" (Kara - Black)
+"Шабыт" (Shabıt - Inspiration)
+"Сала" (Sala - Room)
+"Жок" (Jok - No)
+"Сөйкө" (Söykö - Greeting)
+"Тобо" (Tobo - Umbrella)
+"Бала" (Bala - Child)
+"Токтогул" (Toktogul - Toktogul)
+"Ата" (Ata - Father)
+"Ярмарка" (Yarmarka - Fair)
+"Тэнгэр" (Tengir - Sky)
+"Бууд" (Bood - Spirit)
+"Завет" (Zavet - Covenant)
+"Хараг" (Kharag - Sorrow)
+"Гарма" (Garama - Warm)
+"Тормоз" (Tormoz - Brake)
+"Бөрк" (Börk - Shawl)
+"Жар" (Jhar - Heat)
+"Сентябрь" (Sentyabr - September)
+"Кум" (Kum - Sand)
+"Тоң" (Tong - Cold)
+"Хат" (Khat - Letter)
+"Суна" (Suna - Star)
+"Сай" (Say - Valley)
+"Тек" (Tek - Single)
+"Ат" (At - Horse)
+"Хоор" (Khoor - Light)
+"Жүгөр" (Jügör - Corn)
+"Сары" (Sary - Yellow)
+"Сайхан" (Saikhan - Beautiful)
+"Цус" (Tsus - Blood)
+"Мундуз" (Munduz - Gold)
+"Уга" (Uga - Life)
+"Гурьян" (Guriyan - The End)
+"Засчёт" (Zaschyot - Check)
+"Тумул" (Tumul - Heavy)
+"Туура" (Tuura - Right)
+"Забор" (Zabor - Fence)
+"Золотой" (Zolotoy - Golden)
+"Кера" (Kera - Strong)
+"Турбо" (Turbo - Turbo)
+"Кера" (Kera - Strong)
+"Галакти" (Galakti - Galaxy)
+"Ода" (Oda - Ode)
+"Калья" (Khalya - Calm)
+"Кара" (Kara - Black)
+"Жасау" (Zhasau - Make)
+"Кет" (Ket - Go)
+"Мир" (Mir - Peace)
+"Сон" (Son - Dream)
+"Тамаша" (Tamasha - Show)
+"Жер" (Zher - Land)
+"Тек" (Tek - Single)
+"Бас" (Bas - Head)
+"Ажар" (Azhar - Spring)
+"Тенденция" (Tendentsiya - Tendency)
+"Свет" (Svet - Light)
+"Сағыныш" (Sagynys - Longing)
+"Зайк" (Zayk - Hare)
+"Мейіз" (Meiiz - Raisin)
+"Достар" (Dostar - Friends)
+"Кеш" (Kesh - Evening)
+"Сүйіспеншілік" (Suyispenshilik - Love)
+"Керемет" (Keremet - Wonderful)
+"Сергіту" (Sergetu - Refresh)
+"Тау" (Tau - Mountain)
+"Қара" (Qara - Black)
+"Жаңғыру" (Zhangyru - Renewal)
+"Сұлу" (Sulu - Beautiful)
+"Yoruba Gangan" (Yoruba National Anthem)
+"Olurun to do" (God's Will)
+"Tani roro" (Who Are You)
+"Baba Ijo" (Father of the Church)
+"Alakowe" (The Scholar)
+"Ijo Rira" (Dance of Freedom)
+"Omo Ologo" (Child of the Celebration)
+"Kere Kere" (Little by Little)
+"Jaiye Jaiye" (Enjoy Life)
+"Aiye" (World)
+"Iya ni wura" (Mother is Gold)
+"Orin Ayo" (Song of Joy)
+"Nitori Re" (Because of You)
+"Sango" (God of Thunder)
+"Oro ti owuro" (Morning Song)
+"Aye le" (Life)
+"Ayo" (Joy)
+"Ewa" (Beauty)
+"Olodumare" (God)
+"Oluwa" (Lord)
+"Zululand" (Zulu Folk Song)
+"Ngiyabonga" (I Thank You)
+"Shosholoza" (Move Forward)
+"Soweto" (Soweto)
+"Thula Baba" (Hush Baby)
+"Baba Yetu" (Father Our)
+"Nansi Imali" (Here is Money)
+"Ngicela Uthando" (I Want Love)
+"Vuma" (Accept)
+"Uthando" (Love)
+"Siyabonga" (We Thank You)
+"Siyajabula" (We Are Happy)
+"Bona" (See)
+"Kumnandi" (It Is Sweet)
+"Thokozani" (Rejoice)
+"Lerato" (Love)
+"Dumelang" (Hello)
+"Makoti" (Bride)
+"Zola" (Comfort)
+"Siyaphi" (We Are Going)
+"Ngoma" (Xhosa Song)
+"Hamba" (Go)
+"Makhaya" (Welcome)
+"Thina Simunye" (We Are One)
+"Kudala" (A Long Time)
+"Uthando" (Love)
+"Siyavuma" (We Accept)
+"Dali" (Heaven)
+"Vuka" (Wake Up)
+"Isimo" (Condition)
+"Zanemvula" (Those Who Are Blessed)
+"Molo" (Hello)
+"Ngubani" (Who)
+"O, Kumnandi" (Oh, It Is Sweet)
+"Ngiyabonga" (Thank You)
+"Siyaphila" (We Are Alive)
+"Sithokozisa" (We Make Joy)
+"Ngiyavuma" (I Accept)
+"Uthando" (Love)
+"Zonke" (All)
+"Hondo" (Hondo - Shona Folk Song)
+"Nhamo" (Nhamo - Trouble)
+"Tariro" (Tariro - Hope)
+"Gumbo" (Gumbo - Foot)
+"Chikomborero" (Chikomborero - Blessing)
+"Mwanasikana" (Mwanasikana - Daughter)
+"Shamiso" (Shamiso - Happiness)
+"Vana" (Vana - Children)
+"Tsika" (Tsika - Custom)
+"Rudo" (Rudo - Love)
+"Kuziva" (Kuziva - Knowledge)
+"Tenda" (Tenda - Faith)
+"Mwari" (Mwari - God)
+"Kuwasha" (Kuwasha - Fire)
+"Tariro" (Tariro - Hope)
+"Munhu" (Munhu - Person)
+"Nyaya" (Nyaya - Story)
+"Nhema" (Nhema - Lies)
+"Kukurira" (Kukurira - To Praise)
+"Chimanga" (Chimanga - Maize)
+"Afrikaans" (Afrikaans Folk Song)
+"De la Rey" (De la Rey - National Song)
+"Sarie Marais" (Sarie Marais - Traditional Song)
+"Die Stem" (The Call)
+"Suid-Afrika" (South Africa)
+"Bok van Blerk" (Bok van Blerk - Artist)
+"Die Goue Droom" (The Golden Dream)
+"Suidland" (Southland)
+"Hamba Kahle" (Go Well)
+"Waar Is Ons Gaan" (Where Are We Going)
+"Staan Op" (Stand Up)
+"Tafelberg" (Table Mountain)
+"Klein Karoo" (Little Karoo)
+"Welkom" (Welcome)
+"Land Van Ons" (Land of Us)
+"Blou" (Blue)
+"Grootplaas" (Great Place)
+"Trekker" (Farmer)
+"Harmonie" (Harmony)
+"Riviere" (Rivers)
+"A la Lune" (To the Moon)
+"Kouman ou ye?" (How Are You?)
+"Pèp la" (The People)
+"La Belle Vie" (The Beautiful Life)
+"Jwe Tèt Ou" (Play Your Head)
+"Anseye" (Teach)
+"Apre Aste" (After the Party)
+"Sak pase" (What’s Happening)
+"Fè Lavi" (Make Life)
+"Mwen Se" (I Am)
+"M'ap Mande" (I Am Asking)
+"Wanga" (Charm)
+"Mwen Vle" (I Want)
+"Se la" (That's It)
+"Kè M'ap Di" (My Heart Is Saying)
+"Kreye" (Create)
+"Pasyon" (Passion)
+"Viv Lavi" (Live Life)
+"Anmwe" (Help)
+"Mwen Sispann" (I Stopped)
+"Sumaq Kawsay" (Beautiful Life)
+"Inti Raymi" (Festival of the Sun)
+"Ñawi Nawi" (Eyes Eyes)
+"Wasi" (House)
+"Chukchu" (Song)
+"Kawsay" (To Live)
+"Yuyay" (Memory)
+"Chay Chay" (That That)
+"Tinkuy" (Meeting)
+"Sumaq Wawa" (Beautiful Child)
+"Chaska" (Star)
+"Kuyay" (Love)
+"Wiraqocha" (Creator God)
+"Pachamama" (Mother Earth)
+"Apu" (Mountain Spirit)
+"Ñawi Warmi" (Woman with Eyes)
+"Inti" (Sun)
+"Machu Picchu" (Old Peak)
+"Kuska" (Together)
+"Pukllay" (To Play)
+"Mborayhu" (My Love)
+"Aña" (Evil Spirit)
+"Karai" (Fire)
+"Mandu'aru" (Old Man)
+"Jaguarete" (Jaguar)
+"Jopara" (Mix)
+"Puku" (Cotton)
+"Mbopi" (Strength)
+"Rosa" (Pink)
+"Kunu" (Sweet)
+"Kuarahy" (Sun)
+"Yvoty" (Flower)
+"Kere" (To Sing)
+"Rembiapo" (Traditional Song)
+"Yvyraty" (Earth)
+"Ka'i" (Monkey)
+"Tapu'a" (To Sing)
+"Aña" (Evil Spirit)
+"Aña Karai" (Evil Fire)
+"Yvytuma" (Earth Music)
+"Kawsay" (To Live)
+"Wañuy" (To Die)
+"Inti" (Sun)
+"Pacha Mama" (Mother Earth)
+"Aymara" (Aymara People)
+"Jach'a" (Great)
+"Ch'ama" (Energy)
+"Tawa" (Four)
+"Yuru" (To Sing)
+"Aymara" (Aymara People)
+"Jach'a Uru" (Great Day)
+"Wara" (To Dance)
+"Inti Killa" (Sun and Moon)
+"Ch'uwa" (To Sing)
+"Titikaka" (Lake Titicaca)
+"Wira" (To Work)
+"Inti Wara" (Sun Festival)
+"Pachamama" (Mother Earth)
+"Tawa" (Four)
+"Chaka" (Bridge)
+"We are One" (In Mapudungun)
+"Antü" (Sun)
+"Pewma" (Dream)
+"Pewman" (Dreamer)
+"Wüñol" (To Sing)
+"Ñamku" (To Know)
+"Antü" (Sun)
+"Pewma" (Dream)
+"Ñuque" (Mother)
+"Marri" (Lizard)
+"Pewman" (Dreamer)
+"Antü" (Sun)
+"Wüñol" (To Sing)
+"Ñamku" (To Know)
+"Küme" (Good)
+"Pewma" (Dream)
+"Ñamku" (To Know)
+"Antü" (Sun)
+"Marri" (Lizard)
+"Küme" (Good)
+"E te Aroha" (The Love)
+"Hoki Mai" (Come Back)
+"Tūtira Mai Ngā Iwi" (Come Together, People)
+"Tahi, Rua, Toru" (One, Two, Three)
+"Te Aroha" (The Love)
+"Pūpū" (Shell)
+"E Nono" (And So)
+"Tūrangawaewae" (Place to Stand)
+"Kāhu" (Eagle)
+"Te Hā" (The Breath)
+"Ko te Waiata" (The Song)
+"Taku Moko" (My Tattoo)
+"E Tū" (Stand Up)
+"Ka Whawhai Tonu Mātou" (We Will Fight Forever)
+"Waiata" (Song)
+"Kōwhai" (Yellow)
+"Whānau" (Family)
+"Iwi" (Tribe)
+"Ngā Mahi" (The Works)
+"E Tu" (Stand Up)
+"E le Tupu" (The Growing)
+"O le Vasa" (The Ocean)
+"O le Fale" (The House)
+"Alofa" (Love)
+"Vai" (Water)
+"Fa'avae" (To Teach)
+"Samoa" (Samoa)
+"Faalogo" (Listen)
+"Lau su'esu'e" (Your Search)
+"Lava" (Enough)
+"E le fiafia" (Be Happy)
+"Tama" (Child)
+"Fa'amolemole" (Please)
+"O le Atua" (The God)
+"O le Faiga" (The Path)
+"Uo" (Friend)
+"Alofa Tele" (Great Love)
+"Malo" (Well Done)
+"Talofa" (Hello)
+"E le lelei" (Not Good)
+"Ko e Tohi" (The Letter)
+"Tā'anga" (Dancing)
+"Mālohi" (Strong)
+"Sio" (Look)
+"Fakahā" (To Speak)
+"Te Liliu" (The Change)
+"Sāmoa" (Samoa)
+"Koe" (You)
+"Ona" (Those)
+"Tā" (To Do)
+"O le Vasa" (The Ocean)
+"Mātou" (Us)
+"Malu" (Safe)
+"Taumafai" (Try)
+"Tāto'a" (Together)
+"Kumā" (Dark)
+"Ifo" (Look)
+"Māu" (To Have)
+"Ta'u" (Year)
+"Tā" (To Do)
+"Meke" (Dance)
+"Vaka" (Boat)
+"Lau" (Leaves)
+"Siki" (To Sing)
+"Veikau" (Place)
+"Viti" (Fiji)
+"Bula" (Hello)
+"Lomani" (Love)
+"Moe" (Dream)
+"Oceania" (Oceania)
+"Sevusevu" (Gift)
+"Vulagi" (Stranger)
+"Ratu" (Chief)
+"Nemo" (Goldfish)
+"Sera" (Fire)
+"Fiji" (Fiji)
+"Kakau" (Sea)
+"Vakatani" (The Great Sea)
+"Mai" (Come)
+"Mataka" (Look)
+"Hawaiian War Chant" (Traditional)
+"Henehene Kou 'Aka" (Sway Your Hair)
+"Mele Kalikimaka" (Merry Christmas)
+"Aloha 'Oe" (Farewell to Thee)
+"E Hele Ana" (Let's Go)
+"Noho Pai" (Stay Good)
+"Kuu Home O Kahaluu" (My Home at Kahaluu)
+"Hawaii Aloha" (Beloved Hawaii)
+"Kaimana Hila" (Diamond Head)
+"Pua Lililehua" (Flower of Lililehua)
+"Hawaii" (Hawaii)
+"Punahele" (Favorite)
+"Kauai" (Kauai)
+"U'i" (Beautiful)
+"Kaimana" (Diamond)
+"Mele" (Song)
+"Makai" (Towards the Sea)
+"Moana" (Ocean)
+"Ku'uipo" (My Sweetheart)
+"I Ka Wā" (In Time)
+"Sana" (Beautiful Song)
+"Eiga" (To Sing)
+"Nuna" (Lament)
+"Pimi" (Rising Sun)
+"Tama" (Child)
+"Hunu" (To See)
+"Yarigiri" (To Fight)
+"Kanekoa" (The Chief)
+"Tāko" (The One)
+"Uihikū" (To Rejoice)
+"Sana" (Beautiful Song)
+"Tua" (Beyond)
+"Nalu" (Wave)
+"Naka" (To Call)
+"Moko" (To Ask)
+"Hunu" (To See)
+"Nina" (To Lead)
+"Hikina" (To Rise)
+"Tiki" (To Dance)
+"Nuku" (Home)
+"Nene" (To be Free)
+"Nia" (World)
+"Nalu" (Wave)
+"Hoko" (To Help)
+"A'nana" (To Grow)
+"Hawina" (The Sea)
+"Fāna" (To Seek)
+"Hano" (To Talk)
+"Kulu" (To Speak)
+"Haka" (To Dance)
+"Esa" (Love)
+"Keo" (To Walk)
+"I'a" (Fish)
+"Pua" (Flower)
+"Mauli" (To Protect)
+"Lani" (Heaven)
+"Tonga" (Tonga)
+"Ili" (To Hear)
+"Hā" (Breath)
+"Naga" (Beauty)
+"Tasi" (The One)
+"Ene" (True)
+"Kuka" (To Gather)
+"Iku" (Life)
+"Nanu" (Beautiful)
+"Ura" (Friend)
+"Kupa" (To Dance)
+"Uka" (Ocean)
+"Pā" (Path)
+"A'ao" (To Light)
+"Hona" (To Hold)
+"Pepe" (To See)
+"Tu'i" (To Call)
+"Hau" (To Make)
+"Paia" (To Be)
+"Na'a" (To Sing)
+"Muli" (To End)
+"Hini" (To Help)
+"Katu" (To Have)
+"Kaho" (To Do)
+"Ninuan" (The Ancient One)
+"Chipi" (To Dance)
+"Hokap" (To Sing)
+"Mara" (The People)
+"Toko" (To Stand)
+"Mokuka" (Home)
+"Hautā" (Sun)
+"Nui" (Great)
+"Mana" (Spirit)
+"Wera" (Fire)
+"Mori" (To Be)
+"Hoko" (To Help)
+"Hino" (To Love)
+"Tahu" (To Cry)
+"Teha" (To Dance)
+"Waikana" (To Celebrate)
+"Tōri" (To Stand)
+"Rana" (Moon)
+"Nana" (To Open)
+"Marae" (Gathering Place)
+"Kiqr" (Traditional Song)
+"Toru" (Three)
+"Tsau" (The Elder)
+"Baka" (To Sing)
+"Nebi" (God)
+"Tisi" (To Help)
+"Islama" (Islam)
+"Wavi" (To Dance)
+"Māna" (To Create)
+"Rika" (To Lead)
+"Hara" (To Give)
+"Geki" (To Love)
+"Kalki" (To Rise)
+"Uwa" (To See)
+"Kama" (To Lead)
+"Kekā" (To Dance)
+"Mere" (To Share)
+"Tupa" (To Gather)
+"Hiku" (To Touch)
+"Ruru" (To Sing)
+"Tegut" (Traditional)
+"Oling" (To Grow)
+"Birg" (To Hear)
+"Azir" (To See)
+"Biri" (To Walk)
+"Míya" (God)
+"Laaz" (Beautiful)
+"Mali" (Home)
+"Halaw" (Goodbye)
+"Tohg" (To See)
+"Majka" (Mother)
+"Ivi" (The Light)
+"Sahu" (To Dance)
+"Lale" (Happy)
+"Maha" (To Be)
+"Rahi" (To Rise)
+"Wati" (Family)
+"Gimu" (To Call)
+"Wima" (Beautiful)
+"Wau" (Beautiful)
+"Ha'ir" (Beautiful)
+"Muṣaf" (Traveler)
+"Yiqbe" (To Dance)
+"Lahu" (To Sing)
+"Alam" (World)
+"Naba" (Heaven)
+"Chach" (To Help)
+"Haidar" (The Lion)
+"Muwāla" (Friend)
+"Gharq" (To Forget)
+"Suwa" (To Cry)
+"Haq" (To Live)
+"Saara" (To Open)
+"Muḥājir" (Emigrant)
+"Habi" (To Dance)
+"Dua" (Pray)
+"Bāb" (Door)
+"Thal" (Earth)
+"Furqa" (To Teach)
+"Dum" (To Sleep)
+"Söng" (Song)
+"Stigi" (To Rise)
+"Lera" (World)
+"Väga" (Very)
+"Tav" (To Sing)
+"Kris" (War)
+"Inni" (To Share)
+"Ur" (To Lead)
+"Dör" (Place)
+"Tag" (To Love)
+"Lant" (Land)
+"Nü" (New)
+"Nook" (Song)
+"Hok" (To Go)
+"Huu" (To Rise)
+"Teg" (To Create)
+"Mū" (To Dance)
+"Ri" (Earth)
+"Loor" (To Hear)
+"As" (To Be)
+"Kyna" (Kale)
+"Hagt" (To Help)
+"Hal" (To Sing)
+"Kıra" (Home)
+"Havi" (To Dance)
+"Wati" (Sun)
+"Guṭi" (To Know)
+"Nef" (To Love)
+"Gëna" (Family)
+"Jora" (To Rise)
+"Tana" (Land)
+"Go" (To Hear)
+"Zena" (Beautiful)
+"Gá" (To See)
+"Gūm" (To Share)
+"We" (To Create)
+"Lima" (To Open)
+"Rūg" (To Help)
+"Nii" (Love)
+"La" (To Dance)

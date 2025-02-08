@@ -1,1340 +1,2302 @@
-Amazing Grace
-Greensleeves
-Scarborough Fair
-Shenandoah
-Oh! Susanna
-The Water is Wide
-Swing Low, Sweet Chariot
-Yankee Doodle
-Camptown Races
-Home on the Range
-My Bonnie Lies Over the Ocean
-Clementine
-Aura Lee
-The Star-Spangled Banner (original tune)
-When the Saints Go Marching In
-Wayfaring Stranger
-Old Dan Tucker
-Go Tell It on the Mountain
-He's Got the Whole World in His Hands
-John Henry
-Jasmine Flower (茉莉花)
-Moonlight Over the Lotus Pond (荷塘月色)
-Kangding Love Song (康定情歌)
-The East Is Red (东方红)
-The Crescent Moon Rises (半个月亮爬上来)
-A Li Shan’s Girl (阿里山的姑娘)
-Three Wishes of the Rose (玫瑰三愿)
-Little Cowherd (小放牛)
-The Moon Represents My Heart (月亮代表我的心)
-Dance of the Yao People (瑶族舞曲)
-Little Swallow (小燕子)
-Song of Four Seasons (四季歌)
-Su Wu Shepherding Sheep (苏武牧羊)
-The Drunken Concubine (贵妃醉酒)
-Fisherman's Song at Dusk (渔光曲)
-Song of the Yellow River Boatman (黄河船夫曲)
-Little Red Flower (小红花)
-Flowers Bloom in Spring (花儿为什么这样红)
-The Butterfly Lovers (梁祝)
-Olive Tree (橄榄树)
-La Cucaracha
-De Colores
-Cielito Lindo
-Guantanamera
-Las Mañanitas
-La Bamba
-El Cóndor Pasa
-El Jarabe Tapatío
-Los Pollitos Dicen
-Alma Llanera
-Si Vas Para Chile
-La Paloma
-Adiós Muchachos
-Clavelitos
-La Golondrina
-El Vito
-Caminito
-El Relicario
-La Malagueña
-Solamente una Vez
-Vande Mataram
-Jana Gana Mana
-Raghupati Raghav Raja Ram
-Saare Jahaan Se Achha
-Mera Rang De Basanti Chola
-Ekla Chalo Re
-Aye Mere Watan Ke Logo
-Aye Malik Tere Bande Hum
-Madhuban Mein Radhika Nache Re
-Mohe Panghat Pe Nandlal
-Tum Jo Mil Gaye Ho
-Chalte Chalte
-Chalte Chalte Mere Yeh Geet
-Man Mohana Bade Jhoothe
-Mere Sapno Ki Rani
-Chhoti Si Asha
-Dil Ka Haal Sune Dilwala
-Zindagi Ek Safar Hai Suhana
-Ab Tumhare Hawale Watan Sathiyo
-Ae Mere Pyare Watan
-Tala' al-Badru 'Alayna (طلع البدر علينا)
-Al-Yarmouk (اليرموك)
-Ya Tayr (يا طير)
-Lama Bada Yatathanna (لما بدا يتثنى)
-Ala Dalouna (على دلعونا)
-Zourouni Kulli Sana Marra (زوروني كل سنة مرة)
-Hala Laya (هلا يا)
-Sidi Mansour (سيدي منصور)
-Ya Gamil (يا جميل)
-Habibi Ya Nour El Ain (حبيبي يا نور العين)
-Salma Ya Salama (سلمى يا سلامة)
-Ala Warak Alfol (على ورق الفل)
-Kahraba (كهرباء)
-Ah Ya Zein (آه يا زين)
-Ya Rayeh (يا رايح)
-Rachid Taha - Ya Rayeh (يا رايح وين مسافر)
-Layali Al-Ons (ليالي الأنس)
-Bent El Shalabiya (بنت الشلبية)
-Mahboubat Al-Qalb (محبوبة القلب)
-Ya Banat Iskandaria (يا بنات إسكندرية)
-"আমার সোনার বাংলা" (Amar Shonar Bangla)
-"ধন ধান্য পুষ্প ভরা" (Dhon Dhanya Pushpo Bhora)
-"একতারা তুই দেশের কথা" (Ektara Tui Desher Kotha)
-"সাজিয়ে গেছো" (Sajiye Gecho)
-"ও রে নীল দরিয়া" (O Re Neel Doriya)
-"ভেবে দেখ" (Vebe Dekh)
-"আগুনের পরশমণি" (Aguner Poroshmoni)
-"বাংলার মাটি বাংলার জল" (Banglar Maati Banglar Jol)
-"তুমি রবে নীরবে" (Tumi Robe Nirobe)
-"মধুমালতী" (Madhumaloti)
-"আমার হিয়ার মাঝে" (Amar Hiyar Majhe)
-"ফুলে ফুলে ঢলে ঢলে" (Phule Phule Dhole Dhole)
-"পুরানো সেই দিনের কথা" (Purano Shei Diner Kotha)
-"নদীর নাম" (Nodir Naam)
-"ও বধূ সুন্দরী" (O Bodhu Sundori)
-"এ মন মুরগীর খোপে" (E Mon Murgir Khopay)
-"আমি বাংলায় গান গাই" (Ami Banglay Gaan Gai)
-"আজি বাংলাদেশের হৃদয়" (Aji Bangladesher Hriday)
-"শোনো শোনো" (Shono Shono)
-"খেলো না, খেলো না" (Khelo Na, Khelo Na)
-"A Portuguesa" (Portuguese National Anthem)
-"Fado Corrido"
-"Coimbra"
-"O Pastor"
-"Casa Portuguesa"
-"Canção do Mar"
-"Ó Malhão, Malhão"
-"Chamarrita"
-"A Morte Saiu à Rua"
-"Vira do Minho"
-"Maria Severa"
-"Menina estás à janela"
-"Fado Alexandrino"
-"Verde Gaio"
-"Senhora do Almortão"
-"Fado Menor"
-"Lisboa Não Sejas Francesa"
-"Marcha de Alfama"
-"Barco Negro"
-"Trova do Vento que Passa"
-"Калинка" (Kalinka)
-"Катюша" (Katyusha)
-"Полюшко-поле" (Polyushko Pole)
-"Очи чёрные" (Ochi Chyornye)
-"Подмосковные вечера" (Podmoskovnye Vechera)
-"Яблочко" (Yablochko)
-"Вдоль по Питерской" (Vdol Po Piterskoi)
-"Дубинушка" (Dubinushka)
-"Тонкая рябина" (Tonkaya Ryabina)
-"Вечерний звон" (Vecherniy Zvon)
-"Зима" (Zima)
-"Ах ты, степь широкая" (Ah, You Wide Steppe)
-"Сулико" (Suliko)
-"Казачья лезгинка" (Cossack Lezginka)
-"Как за речкой" (How Beyond the River)
-"Бабушка рядышком с дедушкой" (Grandmother Beside Grandfather)
-"Бухенвальдский набат" (Buchenwald Alarm)
-"Славься" (Glory to You)
-"На сопках Маньчжурии" (On the Hills of Manchuria)
-"Во поле берёза стояла" (In the Field Stood a Birch Tree)
-"さくら さくら" (Sakura Sakura)
-"荒城の月" (Kōjō no Tsuki)
-"赤とんぼ" (Aka Tombo)
-"浜辺の歌" (Hamabe no Uta)
-"ふるさと" (Furusato)
-"月の砂漠" (Tsuki no Sabaku)
-"五木の子守唄" (Itsuki no Komoriuta)
-"小さい秋みつけた" (Chiisai Aki Mitsuketa)
-"青い目の人形" (Aoi Me no Ningyō)
-"お正月" (Oshōgatsu)
-"証城寺の狸囃子" (Shōjōji no Tanuki Bayashi)
-"花" (Hana)
-"蝶々" (Chōchō)
-"靴が鳴る" (Kutsu ga Naru)
-"うさぎ" (Usagi)
-"城ヶ島の雨" (Jōgasaki no Ame)
-"お江戸日本橋" (Oedo Nihonbashi)
-"黒田節" (Kurodabushi)
-"七つの子" (Nanatsu no Ko)
-"赤い靴" (Akai Kutsu)
-"ਅਚੁਟ ਕਨਿਆ" (Achut Kanya)
-"ਮੱਝੀ ਦੇਸੀ" (Majhi Desi)
-"ਛੱਲਾ" (Chhalla)
-"ਲੋਹੜੀ" (Lohri Song)
-"ਮੁੰਡਿਆਨ ਤੋ ਬੱਚ ਕੇ" (Mundiyan To Bachke)
-"ਪੰਜ ਦਰਿਆਵਾਂ" (Panj Daryavan)
-"ਨਾਗਣ" (Naagin)
-"ਤੂ ਛੱਡ ਲਾ" (Tu Chadd La)
-"ਜਿੰਦੜੀਏ" (Jindariye)
-"ਹੀਰ ਰਾਂਝਾ" (Heer Ranjha)
-"ਭੱਟੀ ਵਾਲੀ" (Bhatti Wali)
-"ਸਸੇ ਪੁੰਨੂੰ" (Sassi Punnu)
-"ਵੱਟੀ ਵਾਲੀ ਕੁੜੀ" (Watti Wali Kudi)
-"ਬਾਵਾ ਜਿੱਠੇ" (Baba Jithe)
-"ਧੁਮਲ" (Dhumal)
-"ਅੱਖ ਮੇਰੀ" (Akh Meri)
-"ਰਾਣਾ" (Rana)
-"ਗਿੱਧਾ" (Giddha Song)
-"ਸਾਡਾ ਪੰਜਾਬ" (Sada Punjab)
-"ਮਾਝੀ ਦਾ ਚੱਲਾ" (Majhi Da Chhalla)
-"O Tannenbaum"
-"Die Gedanken sind frei"
-"Alle Vögel sind schon da"
-"Lili Marleen"
-"Der Mond ist aufgegangen"
-"Ich weiß nicht, was soll es bedeuten" (Lorelei)
-"Greensleeves auf Deutsch"
-"Am Brunnen vor dem Tore"
-"In einem kleinen Apfel"
-"Die Lorelei"
-"Ein Männlein steht im Walde"
-"Kein schöner Land"
-"Muss i denn"
-"Du, du liegst mir im Herzen"
-"Heideröslein"
-"Hänschen klein"
-"Auf der Lüneburger Heide"
-"Es war ein König in Thule"
-"Ade zur guten Nacht"
-"Es klappert die Mühle"
-"Lir Ilir"
-"Gambang Suling"
-"Tegese Teguh"
-"Rek Ayo Rek"
-"Sluku-Sluku Bathok"
-"Bengawan Solo"
-"Padhang Bulan"
-"Keroncong Kemayoran"
-"Ilir-Ilir"
-"Jangkrik Genggong"
-"Kroncong Seruling"
-"Stasiun Balapan"
-"Ojo Lali"
-"Dondong Opo Salak"
-"Turi-Turi Putih"
-"Suwe Ora Jamu"
-"Manuk Dadali"
-"Yen Ing Tawang Ana Lintang"
-"Eling-Eling"
-"Yamko Rambe Yamko"
-"아리랑" (Arirang)
-"도라지 타령" (Doraji Taryeong)
-"꽃타령" (Ggot Taryeong)
-"새야새야" (Saeya Saeya)
-"강강술래" (Ganggangsullae)
-"청춘가" (Cheongchunga)
-"수심가" (Susimga)
-"정선 아리랑" (Jeongseon Arirang)
-"밀양아리랑" (Miryang Arirang)
-"한강수타령" (Hangangsu Taryeong)
-"장타령" (Jang Taryeong)
-"노들강변" (Nodeulgangbyeon)
-"바람이 분다" (Barami Bunda)
-"고향의 봄" (Gohyangui Bom)
-"남촌" (Namchon)
-"섬집아기" (Seomjib Aggi)
-"가을밤" (Gaeul Bam)
-"동무생각" (Dongmu Saenggak)
-"옹헤야" (Ongheya)
-"태극기" (Taegeukgi)
-"Frère Jacques"
-"Au Clair de la Lune"
-"Sur le Pont d'Avignon"
-"La Marseillaise"
-"Alouette"
-"Do, do, l’enfant do"
-"Le Roi a fait battre tambour"
-"À la claire fontaine"
-"Plaisir d’amour"
-"Ah! vous dirai-je, maman"
-"Il était un petit navire"
-"La Chanson de Roland"
-"J'ai du bon tabac"
-"L'homme armé"
-"Le Temps des Cerises"
-"Cadet Rousselle"
-"La Carmagnole"
-"En passant par la Lorraine"
-"Le Petit Quinquin"
-"Le Chant des Partisans"
-"మా తెలుగు తల్లికి" (Maa Telugu Talliki)
-"చిత్రగుప్త" (Chitragupta)
-"ఓ సీత కథ" (O Sita Katha)
-"చందమామ" (Chandamama)
-"సీతరాముల కల్యాణం" (Seetharama Kalyanam)
-"మధురామ రామ" (Madhurama Rama)
-"పాపలందరి" (Paapalandari)
-"రామాయణ కథలు" (Ramayana Kathalu)
-"ఓఓ రామ" (O Rama)
-"తుమ్మెద" (Thummeda)
-"రాగమాలిక" (Ragamala)
-"కోయిలమ్మ పాట" (Koilamma Paata)
-"పల్లె పాట" (Palle Paata)
-"అమ్మగారి పాట" (Ammagari Paata)
-"సిరి మల్లె పువ్వు" (Siri Malle Puvvu)
-"బాణాల వీణ" (Banala Veena)
-"ఓయమ్మా" (Oyamma)
-"బుల్లెమ్మ పాట" (Bullema Paata)
-"సీతలమ్మ పాట" (Seetalamma Paata)
-"కల్యాణం ముచ్చట" (Kalyanam Muchchata)
-"Trống Cơm"
-"Lý Cây Đa"
-"Lý Ngựa Ô"
-"Bèo Dạt Mây Trôi"
-"Qua Cầu Gió Bay"
-"Người Ơi Người Ở Đừng Về"
-"Con Cò Bé Bé"
-"Đi Học"
-"Tiếng Chày Trên Sóc Bom Bo"
-"Ai Về Sông Tương"
-"Cây Trúc Xinh"
-"Lý Con Sáo"
-"Cò Lả"
-"Giã Bạn"
-"Hò ơi"
-"Người Con Gái Việt Nam"
-"Bà Còng Đi Chợ"
-"Một Con Vịt"
-"Chú Ếch Con"
-"Hát Ru"
-"कवि के गीत" (Kavi Ke Geet)
-"देवा हो देवा" (Deva Ho Deva)
-"तुम जो आयी" (Tum Jo Aayi)
-"लावणी" (Lavani Song)
-"संगते ऐक वऱ्या सावरकर" (Sangte Aik Varya Savarkar)
-"बाईगिरी" (Baigiri)
-"येरे येरे पावस" (Yere Yere Pavasa)
-"गोजिरी" (Gojiri)
-"तोच चंद्रमा" (Toch Chandrama)
-"माझ्या गावाकडे" (Majhya Gavakade)
-"नाच रे मोरा" (Nach Re Mora)
-"तुझ्या पाठीशी" (Tuzhya Pathishi)
-"सावन आला" (Sawan Aala)
-"पिंगा" (Pinga)
-"जोगवा" (Jogwa)
-"महालक्ष्मी" (Mahalakshmi)
-"शिवराज्याभिषेक" (Shivrajyabhishek)
-"माझे माहेर पंढरपूर" (Mazhe Maaher Pandharpur)
-"दादा कोन गं" (Dada Kon Ga)
-"पाटीवरती लिहीला" (Pativarti Lihila)
-"கண்ணன் வருவான்" (Kannan Varuvaan)
-"அடிக்கும் வானம்" (Adikkum Vaanam)
-"மல்லிகை பூ" (Malligai Poo)
-"ஓர் நாள்" (Oru Naal)
-"பொன்மனச் செல்வனே" (Ponmanach Selvaney)
-"பல்லாண்டு பல்லாண்டு" (Pallandu Pallandu)
-"நல்லத்தான் வாழ்ந்தாள்" (Nallathan Vaazhnthal)
-"ஓலமே" (Olamey)
-"நீயே ரகுபதி" (Neeye Raghupathi)
-"குருந்தோகம்" (Kurunthogam)
-"ஏழைக் கண்ணி" (Ezhaik Kanniyin)
-"மனமே நீ மடத்தன" (Maname Nee Madathana)
-"பொன்முகம் காண்" (Ponmugam Kaan)
-"ஊர்ந்தை ஓங்கு காவிரி" (Urundai Ongu Kaveri)
-"கட்டுப் பழனி" (Kattup Palani)
-"செந்தாமரைக் கண்ணனை" (Senthamarai Kannanin)
-"வண்ணக்கிளி குயிலே" (Vannakili Kuyile)
-"நந்தலாலா" (Nandhalala)
-"சேனை சபதி" (Senai Sabathi)
-"அம்மா என்தன்" (Amma Enthann)
-"لب پہ آتی ہے" (Lab Pe Aati Hai)
-"یہ وطن تمہارا ہے" (Yeh Watan Tumhara Hai)
-"دل دل پاکستان" (Dil Dil Pakistan)
-"ہم ہیں پاکستانی" (Hum Hain Pakistani)
-"وطن کی مٹی" (Watan Ki Mitti)
-"چاندنی راتیں" (Chandni Raatein)
-"یہ دل تمہارا ہے" (Yeh Dil Tumhara Hai)
-"دل سے" (Dil Se)
-"چاندی کی دکان" (Chandi Ki Dukaan)
-"اے راہ حق کے شہیدو" (Ae Rahe Haq Ke Shaheedo)
-"اے وطن کے سجیلے جوانو" (Ae Watan Ke Sajile Jawano)
-"اے نگار وطن" (Ae Nigaar-e-Watan)
-"بلو دے گھر" (Balo De Ghar)
-"تیری یاد آئی" (Teri Yaad Aayi)
-"چلو دلدار چلو" (Chalo Dildar Chalo)
-"جب تک ہے جاں" (Jab Tak Hai Jaan)
-"ہمارا پاکستان" (Hamara Pakistan)
-"چاند میری زمیں" (Chand Meri Zameen)
-"تم جیتو یا ہارو" (Tum Jeeto Ya Haro)
-"ہمیں پیار ہے پاکستان سے" (Humein Pyaar Hai Pakistan Se)
-"İzmir Marşı"
-"Çanakkale Türküsü"
-"Fikrimin İnce Gülü"
-"Memleketim"
-"Samanyolu"
-"Hekimoğlu"
-"Şu Karşıki Dağda Kar Var Duman Yok"
-"Ben Giderim Batuma"
-"Sarı Gelin"
-"Zeytinyağlı Yiyemem Aman"
-"Fidayda"
-"Beyaz Giyme"
-"Harmandalı Zeybeği"
-"Bir Başkadır Benim Memleketim"
-"Senden Başka"
-"Haydar Haydar"
-"Leylim Ley"
-"Nasıl Geçti Habersiz"
-"Vardar Ovası"
-"Kütahya'nın Pınarları"
-Va, pensiero" (Chorus of the Hebrew Slaves)
-"Bella ciao"
-"Funiculì, Funiculà"
-"O Sole Mio"
-"La donna è mobile"
-"Santa Lucia"
-"Finché la barca va"
-"Azzurro"
-"Volare" (Nel blu dipinto di blu)
-"Addio, mia bella Napoli"
-"Non ti scordar di me"
-"Vieni sul mar"
-"Mattinata"
-"La Spagnola"
-"La Montanara"
-"Fischia il vento"
-"Fratelli d'Italia" (Italian National Anthem)
-"Tarantella Napoletana"
-"Caruso"
-"Core 'ngrato"
-"Bogurodzica"
-"Szła dzieweczka do laseczka"
-"Czerwone jabłuszko"
-"Hej, sokoły!"
-"Góralu, czy ci nie żal"
-"Sto lat"
-"Płynie Wisła, płynie"
-"Wlazł kotek na płotek"
-"Przybyli ułani pod okienko"
-"Lulajże Jezuniu"
-"Krakowiak"
-"Polonez Warszawski"
-"Mazurek Dąbrowskiego" (Polish National Anthem)
-"Polka Dziadek"
-"Jestem sobie Krakowianka"
-"Tam na polu stoi brzoza"
-"Lipka zielona"
-"Kukułeczka kuka"
-"O mój rozmarynie"
-"Zasiali górale owies"
-"Ще не вмерла Україна" (Ukrainian National Anthem)
-"Реве та стогне Дніпр широкий" (Reve ta stohne Dnipro shyrokyi)
-"Ой на горі та й женці жнуть" (Oi na hori ta i zhentsi zhnut)
-"Чорні очка" (Chorni ochka)
-"Несе Галя воду" (Nese Halia vodu)
-"Ой у лузі червона калина" (Oi u luzi chervona kalyna)
-"Ой, чий то кінь стоїть" (Oi, chyiy to kin stoyit)
-"Два кольори" (Dva kolory)
-"Верховино, світку ти наш" (Verkhovyno, svitku ty nash)
-"Засвіт встали козаченьки" (Zasvit vstaly kozachenky)
-"Гей, соколи" (Hey, sokoly)
-"Ой у вишневому саду" (Oi u vyshnevomu sadu)
-"Ти ж мене підманула" (Ty zh mene pidmanula)
-"Ой там на горі" (Oi tam na hori)
-"Місяць на небі" (Misyats na nebi)
-"Ой, хмелю" (Oi, khmeliu)
-"Їхав козак за Дунай" (Ikhav kozak za Dunai)
-"Ой у полі три криниченьки" (Oi u poli try krynychenky)
-"Коломийка" (Kolomyika)
-"Горіла сосна, палала" (Horyla sosna, palala)
-"Hora Unirii"
-"M-a făcut mama oltean"
-"Ciocârlia"
-"Balada lui Ciprian Porumbescu"
-"Până când nu te iubeam"
-"Bordeiaș, bordei, bordei"
-"Hai, măi Ione"
-"Cântă cucu-n Bucovina"
-"Mociriță cu trifoi"
-"Pe lângă plopii fără soț"
-"Trandafir de la Moldova"
-"Sanie cu zurgălăi"
-"Aseară ți-am luat basma"
-"Dorul mă chinuie"
-"Zaraza"
-"Ana, zorile se varsă"
-"Oltule, măria ta"
-"Of, of, măi dragă"
-"Foaie verde, trei rozete"
-"Cucuruz cu frunza-n sus"
-"Het Wilhelmus" (Dutch National Anthem)
-"Mieke heeft een lammetje"
-"In een groen knollenland"
-"Zeg, ken jij de mosselman"
-"Drie kleine kleutertjes"
-"Op de grote, brede, lichtgroene wei"
-"Daar was laatst een meisje loos"
-"De Zilvervloot"
-"Ik zag twee beren"
-"Vader Jacob" (Frère Jacques in Dutch)
-"Twee emmertjes water halen"
-"O, kom er eens kijken"
-"Hij komt, hij komt, die lieve goede Sint"
-"Zie ginds komt de stoomboot"
-"Sinterklaas kapoentje"
-"Daar zaten zeven kikkertjes"
-"Ik hou van Holland"
-"Op een grote paddenstoel"
-"De herdertjes lagen bij nachte"
-"Daar zaten zeven kikkertjes"
-"Rasa Sayang"
-"Lenggang Kangkung"
-"Burung Kakak Tua"
-"Chan Mali Chan"
-"Tanah Pusaka"
-"Jalur Gemilang"
-"Enjit-enjit Semut"
-"Wau Bulan"
-"Tanya Sama Pokok"
-"Tanggal 31 Ogos"
-"Di Tanjung Katong"
-"Bapaku Pulang Dari Kota"
-"Bila Larut Malam"
-"Jambatan Merah"
-"Gunung Kinabalu"
-"Kolek-kolek"
-"Tebang Tebu"
-"Bila Berpacaran"
-"Bengawan Solo"
-"Puteri Santubong"
-"Τα παιδιά του Πειραιά" (Ta paidia tou Peiraia)
-"Σα βγαίνει ο Χότζας στο τζαμί" (Sa vgainei o Chodzas sto tzami)
-"Μήλο μου κόκκινο" (Milo mou kokkino)
-"Μαρία με τα κίτρινα" (Maria me ta kitrina)
-"Έχε γειά, πάντα γειά" (Ehe geia, panta geia)
-"Στου παπαλάμπρου την αυλή" (Stou papalabrou tin avli)
-"Η Σμύρνη μάνα καίγεται" (I Smyrni mana kaigetai)
-"Το παλιό το μονοπάτι" (To palio to monopati)
-"Κάτω στο γιαλό" (Kato sto gialo)
-"Πέντε χρόνια δικασμένος" (Pente hronia dikasmenos)
-"Έλα πάρε μου τη λύπη" (Ela pare mou ti lipi)
-"Χαρωπά τα δυο μου χέρια" (Haropa ta dyo mou heria)
-"Σήκω χόρεψε κουκλί μου" (Siko horepse koukli mou)
-"Στρώσε το στρώμα σου για δυο" (Strose to stroma sou gia dyo)
-"Τι σε μέλλει εσένανε" (Ti se mellei esenane)
-"Μια Κυριακή στο πάρκο" (Mia Kyriaki sto parko)
-"Αντιλαλούν οι φυλακές" (Antilaloun oi fylakes)
-"Το τραγούδι της ξενιτιάς" (To tragoudi tis xenitias)
-"Η μικρή Ραλλού" (I mikri Rallou)
-"Ο χορός του Ζαλόγγου" (O horos tou Zaloggou)
-"Červená řeka" (Red River)
-"Holka modrooká" (Blue-eyed Girl)
-"Já mám koně" (I Have a Horse)
-"Škoda lásky" (Wasted Love / Beer Barrel Polka)
-"Ach synku, synku"
-"Okolo Třeboně"
-"Tancuj, tancuj, vykrúcaj"
-"Když jsem já sloužil"
-"Měsíčku na nebi hlubokém" (Song to the Moon)
-"Ej, lásko, lásko"
-"Beskyde, Beskyde"
-"Kde domov můj" (Czech National Anthem)
-"V dobrém jsme se sešli"
-"Pod dubem, za dubem"
-"Pec nám spadla"
-"Na tom pražským mostě"
-"Kočka leze dírou"
-"Cib, cib, cibulenka"
-"Chodím po Broadwayi"
-"Zelené háje"
-"Lijepa naša domovino" (Croatian National Anthem)
-"Vjerujem u te" (I Believe in You)
-"Molitva za Magdalenu" (Prayer for Magdalena)
-"Pusti, pusti modu" (Let It Be, Let It Be Fashion)
-"Crna žena" (Black Woman)
-"Svi marš na Drinu" (Everyone Marches to the Drina)
-"Svi pjevaju, ja ne čujem" (Everyone Sings, I Don't Hear)
-"Sutra će biti bolji dan" (Tomorrow Will Be a Better Day)
-"Zagreb, Zagreb" (Zagreb, Zagreb)
-"Danas, sutra" (Today, Tomorrow)
-"Ljubav, ljubav" (Love, Love)
-"Pjesma za tebe" (Song for You)
-"Bojna Čavoglave" (Battle of Čavoglave)
-"Pjevaj, pjevaj" (Sing, Sing)
-"Molitva" (Prayer)
-"Pjesma o Dubrovniku" (Song of Dubrovnik)
-"Oj, Hrvatske" (Oh, Croatia)
-"Vjeruj u ljubav" (Believe in Love)
-"Plava grobnica" (Blue Grave)
-"Tiha noć" (Silent Night)
-"Jedna si jedina" (You Are the Only One)
-"Dani ljubavi" (Days of Love)
-"Sinoć sam te sanjao" (Last Night I Dreamed of You)
-"Jutro će promeniti sve" (Morning Will Change Everything)
-"Svetlost" (Light)
-"Kad zagrmi" (When Thunder Rolls)
-"Sveti Georgije" (Saint George)
-"Vjeruj u sebe" (Believe in Yourself)
-"Ovo je Bosna" (This Is Bosnia)
-"Bože, čuvaj Bosnu" (God, Save Bosnia)
-"Molitva za našu djecu" (Prayer for Our Children)
-"Svi u jedan glas" (All in One Voice)
-"Nek' bude šta bude" (Let It Be What It Will Be)
-"Cesarica" (Emperor)
-"Na putu za raj" (On the Way to Paradise)
-"Tamo gdje cvjeta limun žut" (Where the Yellow Lemon Blooms)
-"Ne dam da se ispuni" (I Won't Let It Happen)
-"Moja Bosna" (My Bosnia)
-"Ja sam Bosanac" (I Am Bosnian)
-"Neka nas nema" (Let Us Be Gone)
-"Vstani, o, Slovenija" (Rise, O Slovenia)
-"Kje so tiste stezice" (Where Are Those Paths)
-"Na planincah" (On the Hills)
-"Zemlja, zemlja" (Land, Land)
-"Pojdiva z menoj" (Come With Me)
-"Sonce sije" (The Sun Shines)
-"Prijatelji" (Friends)
-"Slovenija, moja dežela" (Slovenia, My Country)
-"Kratka in sladka" (Short and Sweet)
-"V dolini tihi" (In the Quiet Valley)
-"Pojdi z mano" (Go With Me)
-"Na morju" (At the Sea)
-"Molitva za Slovenijo" (Prayer for Slovenia)
-"Tiha noč" (Silent Night)
-"Zvezda" (Star)
-"Sveti Tomaž" (Saint Thomas)
-"Cvetje v jeseni" (Flowers in Autumn)
-"Odmevi" (Echoes)
-"Tako lepa si" (You Are So Beautiful)
-"Zajtrk" (Breakfast)
-"Këngë e Flamurit" (Song of the Flag)
-"Mori e zeze" (Black Eyes)
-"Bota është njëlloj" (The World Is the Same)
-"Të dua" (I Love You)
-"Dardania" (Dardania)
-"Këngë e Luleve" (Song of Flowers)
-"S'kam frikë" (I'm Not Afraid)
-"O Shqipëri" (Oh Albania)
-"Dashuri" (Love)
-"Më jep dorën" (Give Me Your Hand)
-"Për ty, atdhe" (For You, Homeland)
-"Dhe njëherë" (And Again)
-"Ushtria" (The Army)
-"Këngë nga Kodra" (Song from the Hill)
-"Bajrami" (Eid)
-"Rruga" (The Road)
-"Dajaku" (Uncle)
-"Vendlindja" (Homeland)
-"Jeta" (Life)
-"Këngë dhe flakë" (Song and Flame)
-"Мила Родино" (Mila Rodino - Bulgarian National Anthem)
-"Девойко, мари, хубава" (Devojko, Mari, Hubava)
-"Хубава си, моя горо" (Hubava si, Moya Goro)
-"Камъни" (Kamŭni)
-"Ти си в моите сънища" (Ti si v moite sŭnishcha)
-"Ой, тъй тъй" (Oi, Tŭy Tŭy)
-"Завет" (Zavet)
-"Рила планина" (Rila Planina)
-"Шуми Марица" (Shumi Maritsa)
-"Бре, златно гнездо" (Bre, Zlaten Gnezdo)
-"Здравей, приятелю" (Zdravey, Priyatelu)
-"Песен за България" (Pesem za Bŭlgariya)
-"На планината" (Na Planinata)
-"България, мила родино" (Bŭlgariya, Mila Rodino)
-"Свети Георги" (Sveti Georgi)
-"Съсечен лист" (Sŭsechen List)
-"Тополите" (Topolite)
-"Чудна работа" (Chudna Rabota)
-"Песен за свободата" (Pesem za Svobodata)
-"Ти, който не знаеш" (Ti, koyto ne znaesh)
-"ბრძოლა დედისთვის" (Brdzola Dedistvis - Fight for the Motherland)
-"მე ვარ ქართველი" (Me Var Kartvele - I Am Georgian)
-"შენ ხარ ჩემი ოცნება" (Shen Khari Chemi Otsneba - You Are My Dream)
-"სიმღერა სამშობლოსთვის" (Simghera SamshoblosTvis - Song for the Homeland)
-"ყველაზე მაღალი მთები" (Yvelaze Maghali Mtebi - The Highest Mountains)
-"ალილო" (Alilo)
-"გავიხსენებთ" (Gavikhsenebt - We Remember)
-"საქართველო" (Sakartvelo - Georgia)
-"ბედნიერება" (Bedniereba - Happiness)
-"ოცნება" (Otsneba - Dream)
-"შენი სახელი" (Sheni Sakheli - Your Name)
-"მშვენიერი საქართველო" (Mshvenieri Sakartvelo - Beautiful Georgia)
-"მეც დამეძებს" (Mets Damezebs - I Will Find You)
-"ჩვენ ვართ ქართველები" (Chven Vart Kartvelebi - We Are Georgians)
-"დედა" (Deda - Mother)
-"ჩემი თბილისი" (Chemi Tbilisi - My Tbilisi)
-"დედა საქართველო" (Deda Sakartvelo - Mother Georgia)
-"მთის ხმა" (Mtis Khma - Voice of the Mountain)
-"გურამი" (Gurami)
-"ბედნიერება" (Bedniereba - Happiness)
-"Арутюн" (Arutyun - Armenian Folk Song)
-"Месроп" (Mesrop - Armenian Folk Song)
-"Сарсапар" (Sarsapar - Armenian Folk Song)
-"Мшак" (Mshak - Armenian Folk Song)
-"Հավերժական" (Haverjakan - Eternal)
-"Մայր" (Mayr - Mother)
-"Գյուղում" (Gyughum - In the Village)
-"Վերը, վերը" (Very, Very - Up, Up)
-"Արև" (Arev - Sun)
-"Երևանի ամառ" (Yerevani Amar - Yerevan Summer)
-"Բարձր դիրքում" (Bardzr Dirq'm - In the High Position)
-"Միջնադարյան" (Mijandaryan - Medieval)
-"Հայաստանում" (Hayastanum - In Armenia)
-"Հաղթանակ" (Haghtanak - Victory)
-"Արևը ցանցում" (Arevy Tsantsum - Sun in the Network)
-"Բարբառային" (Barbarayin - Dialectal)
-"Մեր ժողովրդին" (Mer Zhoghovrdin - To Our People)
-"Աջակցություն" (Ajaktsutyun - Support)
-"Անմահության" (Anmahtutyan - Immortality)
-"Սպասում" (Spasum - Waiting)
-"Sarı Gelin" (Yellow Bride)
-"İzmir'in Dağları" (Mountains of İzmir)
-"Mavi Gökyüzü" (Blue Sky)
-"Çocuklar Gibi" (Like Children)
-"Bülbülüm Altın Kafeste" (My Nightingale in the Golden Cage)
-"Kalk Gidelim" (Get Up, Let's Go)
-"Yaralı" (Wounded)
-"Bahçelerde" (In the Gardens)
-"Edirne'de" (In Edirne)
-"Gelinim" (My Bride)
-"Bir Başka" (Another)
-"Gel Gel" (Come, Come)
-"Sevda" (Love)
-"Deli Mavi" (Crazy Blue)
-"Yağmurlar" (Rain)
-"Gidemediklerimiz" (Those We Couldn't Go)
-"Yarım" (Half)
-"Rüzgar" (Wind)
-"Sözüm Meclisten Dışarı" (My Word Is Outside the Council)
-"Aşk" (Love)
-"Мекен" (Meken - Motherland)
-"Қара жорға" (Kara Jorga - Black Horse)
-"Атамекен" (Atameken - Ancestral Land)
-"Сұлу" (Sulu - Beautiful)
-"Жайлау" (Zhaylau - Pasture)
-"Туған жер" (Tugan Zher - Native Land)
-"Дос" (Dos - Friend)
-"Ақбаян" (Aqbayan - White Beauty)
-"Көктем" (Koktem - Spring)
-"Арман" (Arman - Dream)
-"Шалқар" (Shalkar - Shalkar)
-"Ана" (Ana - Mother)
-"Сүйіспеншілік" (Suyispenşilik - Love)
-"Теңіз" (Tengiz - Sea)
-"Бәйтерек" (Baiterek - Baiterek)
-"Ақша қар" (Aqsha Qar - Snow)
-"Ботагөз" (Botagoz - Gaze)
-"Достық" (Dostyq - Friendship)
-"Елбасы" (Elbasy - Leader of the Nation)
-"Қазақ" (Qazaq - Kazakh)
-"Шодро" (Shodro - Tajik Folk Song)
-"Завод" (Zavod - Factory)
-"Чашмона" (Chashmona - Eyes)
-"Модари" (Modari - Mother)
-"Мелодия" (Melodiya - Melody)
-"Торик" (Torik - Torik)
-"Зиндагӣ" (Zindagi - Life)
-"Бала" (Bala - Child)
-"Чинор" (Chinor - Mulberry)
-"Шер" (Sher - Lion)
-"Филм" (Film - Film)
-"Бос" (Bos - Empty)
-"Пада" (Pada - Falling)
-"Тусиё" (Tusiya - Calling)
-"Синфи" (Sinfi - Class)
-"Суръат" (Sur’at - Speed)
-"Озод" (Ozod - Free)
-"Пари" (Pari - Fairy)
-"Гирдак" (Girdak - Circle)
-"Эй Олий" (Ey Oliy - Oh Noble)
-"Туркменистан" (Turkmenistan)
-"Алами" (Alami - My World)
-"Наср" (Nasr - Victory)
-"Тарих" (Tarih - History)
-"Қашқадарё" (Qashqadaryo - Kashkadarya)
-"Байрактар" (Bairaktar - Flag Bearer)
-"Гүржистан" (Gürjistan - Georgia)
-"Таза" (Taza - Pure)
-"Сырым" (Syrym - My Path)
-"Санат" (Sanat - Arts)
-"Солтүстік" (Soltüstik - North)
-"Достым" (Dostym - My Friend)
-"Ялбарыс" (Yalbaris - Tiger)
-"Сағат" (Sagat - Hour)
-"Гүл" (Gül - Flower)
-"Қош" (Qosh - Goodbye)
-"Жыр" (Jyr - Song)
-"Алақан" (Alakan - Palm)
-"Сардар" (Sardar - Leader)
-"Көбік" (Kobik - Foam)
-"Чыңгыз" (Chyngyz - Kyrgyz Folk Song)
-"Түштүк" (Tüshtük - The South)
-"Сүйүнчү" (Süyünçü - The Reward)
-"Келин" (Kelin - Bride)
-"Жаным" (Janım - My Soul)
-"Ту" (Tu - Flag)
-"Таш" (Tash - Stone)
-"Көк" (Kök - Blue)
-"Кенже" (Kenzhe - The Youngest)
-"Борбор" (Borbor - Center)
-"Кубан" (Kuban - Kuban)
-"Кара" (Kara - Black)
-"Шабыт" (Shabıt - Inspiration)
-"Сала" (Sala - Room)
-"Жок" (Jok - No)
-"Сөйкө" (Söykö - Greeting)
-"Тобо" (Tobo - Umbrella)
-"Бала" (Bala - Child)
-"Токтогул" (Toktogul - Toktogul)
-"Ата" (Ata - Father)
-"Ярмарка" (Yarmarka - Fair)
-"Тэнгэр" (Tengir - Sky)
-"Бууд" (Bood - Spirit)
-"Завет" (Zavet - Covenant)
-"Хараг" (Kharag - Sorrow)
-"Гарма" (Garama - Warm)
-"Тормоз" (Tormoz - Brake)
-"Бөрк" (Börk - Shawl)
-"Жар" (Jhar - Heat)
-"Сентябрь" (Sentyabr - September)
-"Кум" (Kum - Sand)
-"Тоң" (Tong - Cold)
-"Хат" (Khat - Letter)
-"Суна" (Suna - Star)
-"Сай" (Say - Valley)
-"Тек" (Tek - Single)
-"Ат" (At - Horse)
-"Хоор" (Khoor - Light)
-"Жүгөр" (Jügör - Corn)
-"Сары" (Sary - Yellow)
-"Сайхан" (Saikhan - Beautiful)
-"Цус" (Tsus - Blood)
-"Мундуз" (Munduz - Gold)
-"Уга" (Uga - Life)
-"Гурьян" (Guriyan - The End)
-"Засчёт" (Zaschyot - Check)
-"Тумул" (Tumul - Heavy)
-"Туура" (Tuura - Right)
-"Забор" (Zabor - Fence)
-"Золотой" (Zolotoy - Golden)
-"Кера" (Kera - Strong)
-"Турбо" (Turbo - Turbo)
-"Кера" (Kera - Strong)
-"Галакти" (Galakti - Galaxy)
-"Ода" (Oda - Ode)
-"Калья" (Khalya - Calm)
-"Кара" (Kara - Black)
-"Жасау" (Zhasau - Make)
-"Кет" (Ket - Go)
-"Мир" (Mir - Peace)
-"Сон" (Son - Dream)
-"Тамаша" (Tamasha - Show)
-"Жер" (Zher - Land)
-"Тек" (Tek - Single)
-"Бас" (Bas - Head)
-"Ажар" (Azhar - Spring)
-"Тенденция" (Tendentsiya - Tendency)
-"Свет" (Svet - Light)
-"Сағыныш" (Sagynys - Longing)
-"Зайк" (Zayk - Hare)
-"Мейіз" (Meiiz - Raisin)
-"Достар" (Dostar - Friends)
-"Кеш" (Kesh - Evening)
-"Сүйіспеншілік" (Suyispenshilik - Love)
-"Керемет" (Keremet - Wonderful)
-"Сергіту" (Sergetu - Refresh)
-"Тау" (Tau - Mountain)
-"Қара" (Qara - Black)
-"Жаңғыру" (Zhangyru - Renewal)
-"Сұлу" (Sulu - Beautiful)
-"Yoruba Gangan" (Yoruba National Anthem)
-"Olurun to do" (God's Will)
-"Tani roro" (Who Are You)
-"Baba Ijo" (Father of the Church)
-"Alakowe" (The Scholar)
-"Ijo Rira" (Dance of Freedom)
-"Omo Ologo" (Child of the Celebration)
-"Kere Kere" (Little by Little)
-"Jaiye Jaiye" (Enjoy Life)
-"Aiye" (World)
-"Iya ni wura" (Mother is Gold)
-"Orin Ayo" (Song of Joy)
-"Nitori Re" (Because of You)
-"Sango" (God of Thunder)
-"Oro ti owuro" (Morning Song)
-"Aye le" (Life)
-"Ayo" (Joy)
-"Ewa" (Beauty)
-"Olodumare" (God)
-"Oluwa" (Lord)
-"Zululand" (Zulu Folk Song)
-"Ngiyabonga" (I Thank You)
-"Shosholoza" (Move Forward)
-"Soweto" (Soweto)
-"Thula Baba" (Hush Baby)
-"Baba Yetu" (Father Our)
-"Nansi Imali" (Here is Money)
-"Ngicela Uthando" (I Want Love)
-"Vuma" (Accept)
-"Uthando" (Love)
-"Siyabonga" (We Thank You)
-"Siyajabula" (We Are Happy)
-"Bona" (See)
-"Kumnandi" (It Is Sweet)
-"Thokozani" (Rejoice)
-"Lerato" (Love)
-"Dumelang" (Hello)
-"Makoti" (Bride)
-"Zola" (Comfort)
-"Siyaphi" (We Are Going)
-"Ngoma" (Xhosa Song)
-"Hamba" (Go)
-"Makhaya" (Welcome)
-"Thina Simunye" (We Are One)
-"Kudala" (A Long Time)
-"Uthando" (Love)
-"Siyavuma" (We Accept)
-"Dali" (Heaven)
-"Vuka" (Wake Up)
-"Isimo" (Condition)
-"Zanemvula" (Those Who Are Blessed)
-"Molo" (Hello)
-"Ngubani" (Who)
-"O, Kumnandi" (Oh, It Is Sweet)
-"Ngiyabonga" (Thank You)
-"Siyaphila" (We Are Alive)
-"Sithokozisa" (We Make Joy)
-"Ngiyavuma" (I Accept)
-"Uthando" (Love)
-"Zonke" (All)
-"Hondo" (Hondo - Shona Folk Song)
-"Nhamo" (Nhamo - Trouble)
-"Tariro" (Tariro - Hope)
-"Gumbo" (Gumbo - Foot)
-"Chikomborero" (Chikomborero - Blessing)
-"Mwanasikana" (Mwanasikana - Daughter)
-"Shamiso" (Shamiso - Happiness)
-"Vana" (Vana - Children)
-"Tsika" (Tsika - Custom)
-"Rudo" (Rudo - Love)
-"Kuziva" (Kuziva - Knowledge)
-"Tenda" (Tenda - Faith)
-"Mwari" (Mwari - God)
-"Kuwasha" (Kuwasha - Fire)
-"Tariro" (Tariro - Hope)
-"Munhu" (Munhu - Person)
-"Nyaya" (Nyaya - Story)
-"Nhema" (Nhema - Lies)
-"Kukurira" (Kukurira - To Praise)
-"Chimanga" (Chimanga - Maize)
-"Afrikaans" (Afrikaans Folk Song)
-"De la Rey" (De la Rey - National Song)
-"Sarie Marais" (Sarie Marais - Traditional Song)
-"Die Stem" (The Call)
-"Suid-Afrika" (South Africa)
-"Bok van Blerk" (Bok van Blerk - Artist)
-"Die Goue Droom" (The Golden Dream)
-"Suidland" (Southland)
-"Hamba Kahle" (Go Well)
-"Waar Is Ons Gaan" (Where Are We Going)
-"Staan Op" (Stand Up)
-"Tafelberg" (Table Mountain)
-"Klein Karoo" (Little Karoo)
-"Welkom" (Welcome)
-"Land Van Ons" (Land of Us)
-"Blou" (Blue)
-"Grootplaas" (Great Place)
-"Trekker" (Farmer)
-"Harmonie" (Harmony)
-"Riviere" (Rivers)
-"A la Lune" (To the Moon)
-"Kouman ou ye?" (How Are You?)
-"Pèp la" (The People)
-"La Belle Vie" (The Beautiful Life)
-"Jwe Tèt Ou" (Play Your Head)
-"Anseye" (Teach)
-"Apre Aste" (After the Party)
-"Sak pase" (What’s Happening)
-"Fè Lavi" (Make Life)
-"Mwen Se" (I Am)
-"M'ap Mande" (I Am Asking)
-"Wanga" (Charm)
-"Mwen Vle" (I Want)
-"Se la" (That's It)
-"Kè M'ap Di" (My Heart Is Saying)
-"Kreye" (Create)
-"Pasyon" (Passion)
-"Viv Lavi" (Live Life)
-"Anmwe" (Help)
-"Mwen Sispann" (I Stopped)
-"Sumaq Kawsay" (Beautiful Life)
-"Inti Raymi" (Festival of the Sun)
-"Ñawi Nawi" (Eyes Eyes)
-"Wasi" (House)
-"Chukchu" (Song)
-"Kawsay" (To Live)
-"Yuyay" (Memory)
-"Chay Chay" (That That)
-"Tinkuy" (Meeting)
-"Sumaq Wawa" (Beautiful Child)
-"Chaska" (Star)
-"Kuyay" (Love)
-"Wiraqocha" (Creator God)
-"Pachamama" (Mother Earth)
-"Apu" (Mountain Spirit)
-"Ñawi Warmi" (Woman with Eyes)
-"Inti" (Sun)
-"Machu Picchu" (Old Peak)
-"Kuska" (Together)
-"Pukllay" (To Play)
-"Mborayhu" (My Love)
-"Aña" (Evil Spirit)
-"Karai" (Fire)
-"Mandu'aru" (Old Man)
-"Jaguarete" (Jaguar)
-"Jopara" (Mix)
-"Puku" (Cotton)
-"Mbopi" (Strength)
-"Rosa" (Pink)
-"Kunu" (Sweet)
-"Kuarahy" (Sun)
-"Yvoty" (Flower)
-"Kere" (To Sing)
-"Rembiapo" (Traditional Song)
-"Yvyraty" (Earth)
-"Ka'i" (Monkey)
-"Tapu'a" (To Sing)
-"Aña" (Evil Spirit)
-"Aña Karai" (Evil Fire)
-"Yvytuma" (Earth Music)
-"Kawsay" (To Live)
-"Wañuy" (To Die)
-"Inti" (Sun)
-"Pacha Mama" (Mother Earth)
-"Aymara" (Aymara People)
-"Jach'a" (Great)
-"Ch'ama" (Energy)
-"Tawa" (Four)
-"Yuru" (To Sing)
-"Aymara" (Aymara People)
-"Jach'a Uru" (Great Day)
-"Wara" (To Dance)
-"Inti Killa" (Sun and Moon)
-"Ch'uwa" (To Sing)
-"Titikaka" (Lake Titicaca)
-"Wira" (To Work)
-"Inti Wara" (Sun Festival)
-"Pachamama" (Mother Earth)
-"Tawa" (Four)
-"Chaka" (Bridge)
-"We are One" (In Mapudungun)
-"Antü" (Sun)
-"Pewma" (Dream)
-"Pewman" (Dreamer)
-"Wüñol" (To Sing)
-"Ñamku" (To Know)
-"Antü" (Sun)
-"Pewma" (Dream)
-"Ñuque" (Mother)
-"Marri" (Lizard)
-"Pewman" (Dreamer)
-"Antü" (Sun)
-"Wüñol" (To Sing)
-"Ñamku" (To Know)
-"Küme" (Good)
-"Pewma" (Dream)
-"Ñamku" (To Know)
-"Antü" (Sun)
-"Marri" (Lizard)
-"Küme" (Good)
-"E te Aroha" (The Love)
-"Hoki Mai" (Come Back)
-"Tūtira Mai Ngā Iwi" (Come Together, People)
-"Tahi, Rua, Toru" (One, Two, Three)
-"Te Aroha" (The Love)
-"Pūpū" (Shell)
-"E Nono" (And So)
-"Tūrangawaewae" (Place to Stand)
-"Kāhu" (Eagle)
-"Te Hā" (The Breath)
-"Ko te Waiata" (The Song)
-"Taku Moko" (My Tattoo)
-"E Tū" (Stand Up)
-"Ka Whawhai Tonu Mātou" (We Will Fight Forever)
-"Waiata" (Song)
-"Kōwhai" (Yellow)
-"Whānau" (Family)
-"Iwi" (Tribe)
-"Ngā Mahi" (The Works)
-"E Tu" (Stand Up)
-"E le Tupu" (The Growing)
-"O le Vasa" (The Ocean)
-"O le Fale" (The House)
-"Alofa" (Love)
-"Vai" (Water)
-"Fa'avae" (To Teach)
-"Samoa" (Samoa)
-"Faalogo" (Listen)
-"Lau su'esu'e" (Your Search)
-"Lava" (Enough)
-"E le fiafia" (Be Happy)
-"Tama" (Child)
-"Fa'amolemole" (Please)
-"O le Atua" (The God)
-"O le Faiga" (The Path)
-"Uo" (Friend)
-"Alofa Tele" (Great Love)
-"Malo" (Well Done)
-"Talofa" (Hello)
-"E le lelei" (Not Good)
-"Ko e Tohi" (The Letter)
-"Tā'anga" (Dancing)
-"Mālohi" (Strong)
-"Sio" (Look)
-"Fakahā" (To Speak)
-"Te Liliu" (The Change)
-"Sāmoa" (Samoa)
-"Koe" (You)
-"Ona" (Those)
-"Tā" (To Do)
-"O le Vasa" (The Ocean)
-"Mātou" (Us)
-"Malu" (Safe)
-"Taumafai" (Try)
-"Tāto'a" (Together)
-"Kumā" (Dark)
-"Ifo" (Look)
-"Māu" (To Have)
-"Ta'u" (Year)
-"Tā" (To Do)
-"Meke" (Dance)
-"Vaka" (Boat)
-"Lau" (Leaves)
-"Siki" (To Sing)
-"Veikau" (Place)
-"Viti" (Fiji)
-"Bula" (Hello)
-"Lomani" (Love)
-"Moe" (Dream)
-"Oceania" (Oceania)
-"Sevusevu" (Gift)
-"Vulagi" (Stranger)
-"Ratu" (Chief)
-"Nemo" (Goldfish)
-"Sera" (Fire)
-"Fiji" (Fiji)
-"Kakau" (Sea)
-"Vakatani" (The Great Sea)
-"Mai" (Come)
-"Mataka" (Look)
-"Hawaiian War Chant" (Traditional)
-"Henehene Kou 'Aka" (Sway Your Hair)
-"Mele Kalikimaka" (Merry Christmas)
-"Aloha 'Oe" (Farewell to Thee)
-"E Hele Ana" (Let's Go)
-"Noho Pai" (Stay Good)
-"Kuu Home O Kahaluu" (My Home at Kahaluu)
-"Hawaii Aloha" (Beloved Hawaii)
-"Kaimana Hila" (Diamond Head)
-"Pua Lililehua" (Flower of Lililehua)
-"Hawaii" (Hawaii)
-"Punahele" (Favorite)
-"Kauai" (Kauai)
-"U'i" (Beautiful)
-"Kaimana" (Diamond)
-"Mele" (Song)
-"Makai" (Towards the Sea)
-"Moana" (Ocean)
-"Ku'uipo" (My Sweetheart)
-"I Ka Wā" (In Time)
-"Sana" (Beautiful Song)
-"Eiga" (To Sing)
-"Nuna" (Lament)
-"Pimi" (Rising Sun)
-"Tama" (Child)
-"Hunu" (To See)
-"Yarigiri" (To Fight)
-"Kanekoa" (The Chief)
-"Tāko" (The One)
-"Uihikū" (To Rejoice)
-"Sana" (Beautiful Song)
-"Tua" (Beyond)
-"Nalu" (Wave)
-"Naka" (To Call)
-"Moko" (To Ask)
-"Hunu" (To See)
-"Nina" (To Lead)
-"Hikina" (To Rise)
-"Tiki" (To Dance)
-"Nuku" (Home)
-"Nene" (To be Free)
-"Nia" (World)
-"Nalu" (Wave)
-"Hoko" (To Help)
-"A'nana" (To Grow)
-"Hawina" (The Sea)
-"Fāna" (To Seek)
-"Hano" (To Talk)
-"Kulu" (To Speak)
-"Haka" (To Dance)
-"Esa" (Love)
-"Keo" (To Walk)
-"I'a" (Fish)
-"Pua" (Flower)
-"Mauli" (To Protect)
-"Lani" (Heaven)
-"Tonga" (Tonga)
-"Ili" (To Hear)
-"Hā" (Breath)
-"Naga" (Beauty)
-"Tasi" (The One)
-"Ene" (True)
-"Kuka" (To Gather)
-"Iku" (Life)
-"Nanu" (Beautiful)
-"Ura" (Friend)
-"Kupa" (To Dance)
-"Uka" (Ocean)
-"Pā" (Path)
-"A'ao" (To Light)
-"Hona" (To Hold)
-"Pepe" (To See)
-"Tu'i" (To Call)
-"Hau" (To Make)
-"Paia" (To Be)
-"Na'a" (To Sing)
-"Muli" (To End)
-"Hini" (To Help)
-"Katu" (To Have)
-"Kaho" (To Do)
-"Ninuan" (The Ancient One)
-"Chipi" (To Dance)
-"Hokap" (To Sing)
-"Mara" (The People)
-"Toko" (To Stand)
-"Mokuka" (Home)
-"Hautā" (Sun)
-"Nui" (Great)
-"Mana" (Spirit)
-"Wera" (Fire)
-"Mori" (To Be)
-"Hoko" (To Help)
-"Hino" (To Love)
-"Tahu" (To Cry)
-"Teha" (To Dance)
-"Waikana" (To Celebrate)
-"Tōri" (To Stand)
-"Rana" (Moon)
-"Nana" (To Open)
-"Marae" (Gathering Place)
-"Kiqr" (Traditional Song)
-"Toru" (Three)
-"Tsau" (The Elder)
-"Baka" (To Sing)
-"Nebi" (God)
-"Tisi" (To Help)
-"Islama" (Islam)
-"Wavi" (To Dance)
-"Māna" (To Create)
-"Rika" (To Lead)
-"Hara" (To Give)
-"Geki" (To Love)
-"Kalki" (To Rise)
-"Uwa" (To See)
-"Kama" (To Lead)
-"Kekā" (To Dance)
-"Mere" (To Share)
-"Tupa" (To Gather)
-"Hiku" (To Touch)
-"Ruru" (To Sing)
-"Tegut" (Traditional)
-"Oling" (To Grow)
-"Birg" (To Hear)
-"Azir" (To See)
-"Biri" (To Walk)
-"Míya" (God)
-"Laaz" (Beautiful)
-"Mali" (Home)
-"Halaw" (Goodbye)
-"Tohg" (To See)
-"Majka" (Mother)
-"Ivi" (The Light)
-"Sahu" (To Dance)
-"Lale" (Happy)
-"Maha" (To Be)
-"Rahi" (To Rise)
-"Wati" (Family)
-"Gimu" (To Call)
-"Wima" (Beautiful)
-"Wau" (Beautiful)
-"Ha'ir" (Beautiful)
-"Muṣaf" (Traveler)
-"Yiqbe" (To Dance)
-"Lahu" (To Sing)
-"Alam" (World)
-"Naba" (Heaven)
-"Chach" (To Help)
-"Haidar" (The Lion)
-"Muwāla" (Friend)
-"Gharq" (To Forget)
-"Suwa" (To Cry)
-"Haq" (To Live)
-"Saara" (To Open)
-"Muḥājir" (Emigrant)
-"Habi" (To Dance)
-"Dua" (Pray)
-"Bāb" (Door)
-"Thal" (Earth)
-"Furqa" (To Teach)
-"Dum" (To Sleep)
-"Söng" (Song)
-"Stigi" (To Rise)
-"Lera" (World)
-"Väga" (Very)
-"Tav" (To Sing)
-"Kris" (War)
-"Inni" (To Share)
-"Ur" (To Lead)
-"Dör" (Place)
-"Tag" (To Love)
-"Lant" (Land)
-"Nü" (New)
-"Nook" (Song)
-"Hok" (To Go)
-"Huu" (To Rise)
-"Teg" (To Create)
-"Mū" (To Dance)
-"Ri" (Earth)
-"Loor" (To Hear)
-"As" (To Be)
-"Kyna" (Kale)
-"Hagt" (To Help)
-"Hal" (To Sing)
-"Kıra" (Home)
-"Havi" (To Dance)
-"Wati" (Sun)
-"Guṭi" (To Know)
-"Nef" (To Love)
-"Gëna" (Family)
-"Jora" (To Rise)
-"Tana" (Land)
-"Go" (To Hear)
-"Zena" (Beautiful)
-"Gá" (To See)
-"Gūm" (To Share)
-"We" (To Create)
-"Lima" (To Open)
-"Rūg" (To Help)
-"Nii" (Love)
-"La" (To Dance)
+English:
+
+    Greensleeves – Traditional
+    Auld Lang Syne – Traditional
+    Amazing Grace – Traditional
+    The House of the Rising Sun – Traditional
+    Shenandoah – Traditional
+    Danny Boy – Traditional
+    Scarborough Fair – Traditional
+    The Water is Wide – Traditional
+    The Bonnie Banks of Loch Lomond – Traditional
+    Barbara Allen – Traditional
+    Waltzing Matilda – Traditional
+    Swing Low, Sweet Chariot – Traditional
+    The Streets of Laredo – Traditional
+    Camptown Races – Stephen Foster
+    Oh Susanna – Stephen Foster
+    Buffalo Gals – Traditional
+    I’ve Been Working on the Railroad – Traditional
+    This Land is Your Land – Woody Guthrie
+    Take Me Out to the Ballgame – Jack Norworth & Albert Von Tilzer
+    Tennessee Waltz – Traditional
+
+Mandarin:
+
+    Mo Li Hua (Jasmine Flower) – Traditional
+    The Moon Represents My Heart – Teresa Teng
+    Chengdu – Zhao Lei
+    Tian Mi Mi (Sweet as Honey) – Teresa Teng
+    Kangding Qingge – Traditional
+    Xi Shui Chang Liu (River's Flowing Forever) – Traditional
+    Zai Jian – Mayday
+    Wang Bu Liao (Unknowingly) – Jacky Cheung
+    Yue Liang Dai Biao Wo De Xin – Teresa Teng
+    Ge Qiao – Li Zongsheng
+    Xiao Cheng Gu Shi (Small Town Story) – Su Rui
+    Ai De Li Liang (Power of Love) – Fei Yuqing
+    Shu Yi (Reading Poetry) – Andy Lau
+    Liu Yang River – Traditional
+    Dao Xiang (Fragrance) – Wang Leehom
+    Er Quan Ying Yue (The Song of Erquan) – Traditional
+    Xin Zhan (New Battle) – Jay Chou
+    Qing Hua Ci (Blue and White Porcelain) – Jay Chou
+    Ai De Lian Ren (Lover of Love) – Jacky Cheung
+    Guo Chao (Fashion) – JJ Lin
+
+Spanish:
+
+    La Cucaracha – Traditional
+    La Bamba – Traditional
+    Cielito Lindo – Traditional
+    Guantanamera – Traditional
+    El Jarabe Tapatío – Traditional
+    Bésame Mucho – Consuelo Velázquez
+    Ay, Ay, Ay – Traditional
+    Volver, Volver – Vicente Fernández
+    La Paloma – Sebastián Iradier
+    Besame Mucho – Consuelo Velázquez
+    El Condor Pasa – Traditional
+    Corrido de los Pérez – Traditional
+    Gracias a la Vida – Violeta Parra
+    Oye Como Va – Tito Puente
+    Amor Eterno – Rocío Dúrcal
+    Alfonsina y el Mar – Traditional
+    El Rey – Vicente Fernández
+    Cuando Calienta el Sol – Luis Miguel
+    La Flaca – Jarabe de Palo
+    Carminha – Traditional
+
+Hindi:
+
+    Vande Mataram – Bankim Chandra Chattopadhyay
+    Jana Gana Mana – Rabindranath Tagore
+    Ajeeb Dastan Hai Yeh – Lata Mangeshkar
+    Tum Hi Ho – Arijit Singh
+    Chaiyya Chaiyya – A.R. Rahman
+    Ae Mere Humsafar – Udit Narayan, Alka Yagnik
+    Kabhi Kabhi Aditi – Rashid Ali
+    Kal Ho Na Ho – Sonu Nigam
+    Pehla Nasha – Udit Narayan
+    Tum Se Hi – Mohit Chauhan
+    Mile Ho Tum – Neeraj Shridhar
+    Dil Se Re – A.R. Rahman
+    Madhushala – Harivansh Rai Bachchan
+    Dilwale Dulhania Le Jayenge – Jatin-Lalit
+    Tera Ban Jaunga – Akhil Sachdeva
+    Aap Ki Nazron Ne Samjha – Lata Mangeshkar
+    Kuch Kuch Hota Hai – Udit Narayan
+    Raabta – Arijit Singh
+    Phoolon Ka Taron Ka – Kishore Kumar
+    Tum Jo Aaye – Rahat Fateh Ali Khan
+
+Arabic:
+
+    Alf Leila Wa Leila – Umm Kulthum
+    Inta Omri – Umm Kulthum
+    El Helwa Di – Abdel Halim Hafez
+    Bhebbak Wahashtini – Samira Said
+    La Tizakar – Fayrouz
+    Aghla Men El Hawa – Amr Diab
+    Ya Rayah – Rachid Taha
+    Abdel Kader – Khaled
+    El Bent El Shalabeya – Fairuz
+    Masha’Allah – Tamer Hosny
+    Ya Habibi – Mohamed Mounir
+    Sidi Mansour – Saber Rebai
+    Ana Kol Ma A'oul – Amr Diab
+    Wahda Wahda – Samira Said
+    Fi Hagat – Amr Diab
+    Khali El Hawa – Sherine
+    Qamarun – Fairuz
+    Tala’ al-Badru ‘Alayna – Traditional
+    Ya Nour El Ein – Amr Diab
+    Tayeb – Cheb Mami
+
+Bengali:
+
+    Amar Sonar Bangla – Rabindranath Tagore
+    Cholte Cholte – Manna Dey
+    Tumi Robe Nirobe – Rabindranath Tagore
+    Ekla Chalo Re – Rabindranath Tagore
+    Purano Shei Diner Kotha – Lata Mangeshkar
+    Bhalobashi Bhalobashi – Kumar Sanu
+    Ami Banglay Gaan Gai – Suman Chattopadhyay
+    Momo Chitte – Lata Mangeshkar
+    Tumi Je Amar – Hemanta Mukherjee
+    Jodi Tor Dak Shune – Rabindranath Tagore
+    Bojhena Shey Bojhena – Shaan
+    Amar Prithibi – Manna Dey
+    Je Poth Jabe – Hemanta Mukherjee
+    Pallir Gali – Srikanto Acharya
+    Akashe Batashe – Suman Chattopadhyay
+    Ogo Boshonto – Suman Kalyanpur
+    Phooler Gachhe – Lata Mangeshkar
+    Ami Chini Go Chini – Kishore Kumar
+    Tumi Kemon Kore – Arijit Singh
+    Tomar Kachhe Asha – Manna Dey
+
+Portuguese:
+
+    Aquarela do Brasil – Ary Barroso
+    Garota de Ipanema – Antonio Carlos Jobim
+    Asa Branca – Luiz Gonzaga
+    O Mundo é um Moinho – Cartola
+    Chega de Saudade – João Gilberto
+    Eu Sei Que Vou Te Amar – Tom Jobim
+    Cais – Milton Nascimento
+    Tristeza – Haroldo Lobo
+    Tocando em Frente – Almir Sater
+    Sampa – Caetano Veloso
+    Aquarela – Toquinho
+    Chão de Giz – Zeca Baleiro
+    O Leãozinho – Caetano Veloso
+    Sabe Você – Nando Reis
+    Romaria – Renato Teixeira
+    Corcovado – Antonio Carlos Jobim
+    A Felicidade – Antonio Carlos Jobim
+    Trem das Onze – Adoniran Barbosa
+    Sonho de Ícaro – Ivan Lins
+    Imagina – Nando Reis
+
+Russian:
+
+    Katyusha – Matvei Blanter
+    Podmoskovnye Vechera (Moscow Nights) – Matvei Blanter
+    Kalinka – Traditional
+    Ochi Chyornye (Dark Eyes) – Traditional
+    Tyomnaya Noch (Dark Night) – Mark Bernes
+    V Put' (On the Way) – Alexander Vertinsky
+    Duma o Vodopade – Boris Grebenshchikov
+    Vechniy Ogon – Mikhail Shufutinsky
+    Zhuravli (Cranes) – Mark Bernes
+    Moya Moskva (My Moscow) – Traditional
+    Siniye Kamni – Sergey Krylov
+    Ne Odin – Vladislav Kosarev
+    Pesnya o Troikh – Alexandr Novikov
+    U Samovara – Traditional
+    Matrёshka – Yulia Savicheva
+    Zhenevskaya – Alla Pugacheva
+    Otkroveniye – Alexander Malinin
+    Pozovi Menya – Valery Meladze
+    Ty Ne Odin – Dima Bilan
+    Teatral'naya – Tatyana Sushchenko
+
+Japanese:
+
+    Sakura Sakura – Traditional
+    Kawa no Nagare no Yō ni – Hibari Misora
+    Hana – Naotaro Moriyama
+    Kaze wa Fuiteiru – AKB48
+    Sukiyaki – Kyu Sakamoto
+    Shima Uta – The Boom
+    Furusato – Traditional
+    Aizō – Ichiro Fujiyama
+    Tōkyō Ondo – Traditional
+    Ode to Joy – Beethoven (Japanese version)
+    Wakaruyo – Ayano Tsuji
+    Rising Sun – EXILE
+    Kimi to no Koi – Kiyoshi Hikawa
+    Love, Day After Tomorrow – Mai Kuraki
+    Tōbō-sha no Uta – Traditional
+    Kokoro no Tomo – Mayumi Itsuwa
+    Hoshizora no Waltz – Mariya Takeuchi
+    Kaze ni Naru – Ayano Tsuji
+    Yume no Naka e – Natsuko Godai
+    Aoi Tori – Makoto Kawamoto
+
+Punjabi:
+
+    Heer Ranjha – Traditional
+    Madhaniya – Traditional
+    Tere Bina – A.R. Rahman
+    Balle Balle – Daler Mehndi
+    Laung Laachi – Mannat Noor
+    Dil Diyan Gallan – Atif Aslam
+    Mann Ki Lagan – Rahat Fateh Ali Khan
+    Jind Mahi – Jazzy B
+    Challa – Gurdas Maan
+    Panjab De Jatt – Kaka
+    Saddi Gali – Lehmber Hussainpuri
+    Gallan Goodiyan – Shankar-Ehsaan-Loy
+    Vich Pardesan De – Surjit Bindrakhia
+    Chann Mahiya – Rahat Fateh Ali Khan
+    Tera Yaar Hoon Mai – Arijit Singh
+    Aaja Mahiya – Nindy Kaur
+    Mast Kalandar – Traditional
+    Jeevay Jeevay – Asha Bhosle
+    Meri Jind Meri Jind – Gurdas Maan
+    Saadi Gali – Lehmber Hussainpuri
+
+German:
+
+    Ode an die Freude (Ode to Joy) – Ludwig van Beethoven
+    Die Gedanken sind frei – Traditional
+    Du, du liegst mir im Herzen – Traditional
+    Lili Marleen – Lale Andersen
+    Die Lorelei – Traditional
+    Atemlos durch die Nacht – Helene Fischer
+    99 Luftballons – Nena
+    Ein Prosit der Gemütlichkeit – Traditional
+    Muss i denn, muss i denn – Traditional
+    Ich hab' mein Herz in Heidelberg verloren – Traditional
+    Bier her, Bier her – Traditional
+    Wir sind die Kaiser von China – Traditional
+    Hoch auf dem gelben Wagen – Traditional
+    Ich will keine Schokolade – Trude Herr
+    Westerland – Die Ärzte
+    Über den Wolken – Reinhard Mey
+    Pack die Badehose ein – Conny Froboess
+    Es gibt kein Bier auf Hawaii – Fredl Fesl
+    Lustig ist das Zigeunerleben – Traditional
+    Wahre Liebe – Nena
+
+Javanese:
+
+    Gundul-Gundul Pacul – Traditional
+    Janger – Traditional
+    Bengawan Solo – Gesang Martohartono
+    Lir-ilir – Traditional
+    Sekar Sungsang – Traditional
+    Pelangon – Traditional
+    Tuk Tuk Tuk – Traditional
+    Pupuh Sinom – Traditional
+    Keroncong Kemayoran – Traditional
+    Lagu Tembang – Traditional
+    Tari Gambyong – Traditional
+    Ojo Lintang – Traditional
+    Ayun-Ayun – Traditional
+    Tari Kuda Lumping – Traditional
+    Cublak-Cublak Suweng – Traditional
+    Tembang Jawa – Traditional
+    Kembang Kantil – Traditional
+    Serimpi – Traditional
+    Tembang Pecah – Traditional
+    Gambang Suling – Traditional
+
+Korean:
+
+    Arirang – Traditional
+    Gangnam Style – Psy
+    Doraji – Traditional
+    Nim Jawi – Traditional
+    Saranghae – Kim Kwang-seok
+    Beneath the Sky – Im Jae-bum
+    Tears – So Chan-whee
+    Gwaenchanh-a – So Chan-whee
+    Beautiful – Crush
+    Do You Know – Sung Si-kyung
+    Spring Day – BTS
+    Boys Over Flowers – SS501
+    Yoo Seung Jun – So Nyeo Shi Dae
+    Love, Love, Love – Epik High
+    I Am You, You Are Me – Seo Taiji
+    Twelve – G.O
+    Oasis – Zico
+    Your Eyes – Younha
+    Wake Me Up – EXO
+    Goose's Dream – Lee Moon-sae
+
+French:
+
+    La Vie en Rose – Édith Piaf
+    Frère Jacques – Traditional
+    Sous le Ciel de Paris – Édith Piaf
+    Non, Je Ne Regrette Rien – Édith Piaf
+    Les Champs-Élysées – Joe Dassin
+    Je Te Promets – Johnny Hallyday
+    Comme des Enfants – Cœur de Pirate
+    Ne Me Quitte Pas – Jacques Brel
+    Vole – Edith Piaf
+    Le Temps des Cerises – Yves Montand
+    La Mer – Charles Trenet
+    Le Vent Nous Portera – Noir Désir
+    Je Vole – Louane
+    L'Amour en Solitaire – M. Pokora
+    Les Lacs du Connemara – Michel Sardou
+    La Bohème – Charles Aznavour
+    C'est Si Bon – Yves Montand
+    Que reste-t-il de nos amours ? – Charles Trenet
+    Tant qu'il y aura des étoiles – Jean-Jacques Goldman
+    Si jamais j'oublie – Zaz
+
+Telugu:
+
+    Maa Telugu Talli – Traditional
+    Rangamma Mangamma – P. Susheela
+    Vande Mataram – M. S. Subbulakshmi
+    Pelli Sandadi – S. P. Balasubrahmanyam
+    Jai Jai Jai Jai Bhavani – Traditional
+    Eka Aham – Ilaiyaraaja
+    Aduvaadi Konda – Traditional
+    Dandalayya – Traditional
+    Samajavaragamana – Sid Sriram
+    Chiniki Chiniki – K. S. Chithra
+    Yemito Ee Maaya – Hariharan
+    Ekkada Ekkada – Anirudh Ravichander
+    Oka Laila Kosam – Karthik
+    Nalugu Sthambhalata – S. P. Balasubrahmanyam
+    Siri Siri Muvvalu – K. S. Chithra
+    Madhurame – Hariharan
+    Yeh Sham Mastani – Kishore Kumar
+    Midhunam – Ilaiyaraaja
+    Pelli Sandadi – S. P. Balasubrahmanyam
+    Jeevitha Maadhana – S. P. Balasubrahmanyam
+
+Vietnamese:
+
+    Trái Tim Mùa Xuân – Thanh Bùi
+    Mặt Trời Của Em – Phương Mỹ Chi
+    Về Quê – Đoàn Minh
+    Lý Ngựa Ô – Traditional
+    Dáng Em – Ngọc Lan
+    Bèo Dạt Mây Trôi – Traditional
+    Con Cái Của Mẹ – Sơn Tùng M-TP
+    Tình Yêu Màu Nắng – Minh Tuyết
+    Nhớ Mẹ Lý Mồ Côi – Traditional
+    Sáng Mắt Em Rồi – Trịnh Đình Quang
+    Bước Chân Lẻ Loi – Đinh Tùng Huy
+    Người Yêu Cô Đơn – Lệ Quyên
+    Áo Mới Cà Mau – Nguyễn Văn Đông
+    Cánh Đồng Tình Yêu – Quang Lê
+    Em Gái Mưa – Hương Tràm
+    Đường Tình Đôi Ngã – Cẩm Ly
+    Tôi Đi Tìm Tôi – Trịnh Công Sơn
+    Gửi Gió Cho Mây Ngàn Bay – Quang Lê
+    Chiều Hôm Qua – Trịnh Công Sơn
+    Những Con Cò – Traditional
+
+Marathi:
+
+    Jeevicha Ghadicha – Lata Mangeshkar
+    Mile Sur Mera Tumhara – Various Artists
+    Tujhya Vina – Hariharan
+    Vande Mataram – Lata Mangeshkar
+    Dhol Tasha – Traditional
+    Aika Dajiba – Lata Mangeshkar
+    Swaasthav – Ajay-Atul
+    Mala Jau Dya Na Ghari – Suresh Wadkar
+    Shubharambh – Various Artists
+    Duniya – Ajay-Atul
+    Tujhe Bhoolna – Asha Bhosle
+    Gajanan Maharaj – Traditional
+    Maza Navasacha – Kishore Kumar
+    Paus Zali – Lata Mangeshkar
+    Khanderayache Mukh – Traditional
+    Navri Mile Na – Ajay-Atul
+    Nako Re Naako – Lata Mangeshkar
+    Ek Gajar – Lata Mangeshkar
+    Tujha Pahila – Kunal Ganjawala
+    Mazhya Navryachi – Swapnil Bandodkar
+
+Tamil:
+
+    Vande Mataram – A. R. Rahman
+    Suttrum Vizhi – S. P. Balasubrahmanyam
+    Aasai Aasai – A. R. Rahman
+    Vannathu Poochi – K. S. Chithra
+    Yennai Maatrum Kadhale – Hariharan
+    Azhagiya Tamizh Magan – Vijay
+    Mannipaaya – A. R. Rahman
+    Puthu Vellai Mazhai – Hariharan
+    Aaromale – Hariharan
+    Kundakka Mandakka – K. S. Chithra
+    Enna Solla Pogirai – S. P. Balasubrahmanyam
+    Vizhiyinil – Hariharan
+    Neruppu Da – Anirudh Ravichander
+    Pudhu Metro Rail – S. P. Balasubrahmanyam
+    Suttrum Bhoomi – S. P. Balasubrahmanyam
+    Azhagiye – A. R. Rahman
+    Vandhaan Vendraan – Hariharan
+    Puthu Vellai Mazhai – Hariharan
+    Vinnai Thandi Varuvaya – A. R. Rahman
+    Madhurame – Hariharan
+
+Urdu:
+
+    Dil Dil Pakistan – Vital Signs
+    Tera Ban Jaunga – Lata Mangeshkar
+    Pehla Pehla Pyaar – Udit Narayan
+    Chalte Chalte – Udit Narayan
+    Aap Ki Nazron Ne Samjha – Lata Mangeshkar
+    Ae Mere Humsafar – Udit Narayan
+    Teri Meri Prem Kahani – Arijit Singh
+    Zara Sa – Udit Narayan
+    Mere Haath Mein – Sonu Nigam
+    Meri Jaan – Arijit Singh
+    Meri Zindagi Mein – Rahat Fateh Ali Khan
+    Keh Do Tum – Udit Narayan
+    Jeene Ke Hai Chaar Din – Sonu Nigam
+    Tu Hai Ki Nahi – Arijit Singh
+    Main Tera Boyfriend – Arijit Singh
+    Dil Se Re – A. R. Rahman
+    Bakhuda Tumhi Ho – Rahat Fateh Ali Khan
+    Hasi Ban Gayi – Shreya Ghosal
+    Agar Tum Saath Ho – Alka Yagnik
+    Ae Dil Hai Mushkil – Arijit Singh
+
+Turkish:
+
+    Resimdeki Gözyaşları – Tarkan
+    Bana Ellerini Ver – Barış Manço
+    Şımarık – Tarkan
+    Söz Ver – Candan Erçetin
+    Fikrimin İnce Gülü – Sezen Aksu
+    Aşk Laftan Anlamaz – Tarkan
+    Benimle Oynama – Sezen Aksu
+    Beni Anlama – Barış Manço
+    Rakkas – Tarkan
+    Dönmem Geriye – Candan Erçetin
+    Gelinim – Erkin Koray
+    Beni Anlama – Barış Manço
+    Aşk – Tarkan
+    O Benim Dünyam – Tarkan
+    Bir Gün Göreceksin – Sezen Aksu
+    Senfonik Çıkış – Fikret Kızılok
+    Hayatımda Tanıdığım En Güzel Kadınsın – Rafet El Roman
+    Gel Gel – Kenan Doğulu
+    Eyvah – Feridun Düzağaç
+    Kış Güneşi – Sezen Aksu
+
+Italian:
+
+    Volare (Nel Blu Dipinto Di Blu) – Domenico Modugno
+    O Sole Mio – Luciano Pavarotti
+    Con Te Partirò – Andrea Bocelli
+    Caruso – Lucio Dalla
+    Felicità – Al Bano & Romina Power
+    La Donna È Mobile – Giuseppe Verdi
+    Nel Blu Dipinto Di Blu (Volare) – Dean Martin
+    Il Mondo – Jimmy Fontana
+    A Te – Jovanotti
+    Un'Anima – Laura Pausini
+    Senza Una Donna – Zucchero
+    L’Italiano – Toto Cutugno
+    Almeno Tu Nell'Universo – Mia Martini
+    Ti Amo – Umberto Tozzi
+    Mamma – Luciano Pavarotti
+    Perdere L'Amore – Massimo Ranieri
+    Tanti Auguri – Raffaella Carrà
+    Se Bastasse Una Canzone – Eros Ramazzotti
+    Io Canto – Laura Pausini
+    La Solitudine – Laura Pausini
+
+Polish:
+
+    Sto Lat – Traditional
+    Za zdrowie Pań! – Traditional
+    Kocham Cię, kochanie moje – Mieczysław Fogg
+    Jolka, Jolka pamiętasz – Budka Suflera
+    Winda do nieba – 2+1
+    Dni, których jeszcze nie znamy – Marek Grechuta
+    Miłość w Zakopanem – K.A.S.A
+    Za zdrowie pań – Traditional
+    Czerwone Korale – Brathanki
+    Niebo za rogiem – Tadeusz Woźniak
+    Tylko Ty – Edward Hulewicz
+    Kochaj mnie – Anna Jantar
+    Zawsze tam, gdzie Ty – Lady Pank
+    Jolka, Jolka pamiętasz – Budka Suflera
+    Zawsze tam, gdzie Ty – Lady Pank
+    Ostatni raz zatańczysz ze mną – Edward Hulewicz
+    Zgadnij, kto to – Krzysztof Krawczyk
+    Piękniejsza – Anita Lipnicka
+    Za zdrowie Pań! – Traditional
+    Kocham Cię, kochanie moje – Mieczysław Fogg
+
+Ukrainian:
+
+    Chervona Ruta – Sofia Rotaru
+    Vesna – Kozak System
+    Dva Kolory – Pikkardiyska Tertsiya
+    O, Chernyavaya – Traditional
+    Ty Zh Mene Pidmanula – Traditional
+    Rozpryagnete Ty, Koni – Traditional
+    Shchedryk – Mykola Leontovych
+    Liliya – Okean Elzy
+    Ukraine – Jamala
+    Zhuravli – Mikhail Shufutinsky
+    Vyshyvanka – Kazka
+    Tam, de my byli – Okean Elzy
+    Moya Kraina – Okean Elzy
+    Vechir Na Hati – Traditional
+    Kozak – Tila
+    Nesame – Ani Lorak
+    O Na-Na – Ivan Klym
+    Ne Odynoky – Tayanna
+    Rozmovlyai So Mnou – S.K.A.Y
+    Plyve Kacha – Ukrainian Folk Song
+
+Romanian:
+
+    Ciocârlia – Traditional
+    Draga mea – Nicu Alifantis
+    M-am născut în Carpați – The 3rei Sud Est
+    Romania – Holograf
+    Despre tine – Loredana
+    Cântă, cucule – Traditional
+    Așa-i romanul – Traditional
+    Buna dimineața, România! – Irina Loghin
+    Mi-e dor de tine – Fuego
+    Trăiește – Smiley
+    Luna – Andra
+    Iubirea nu se termină – Vunk
+    Te-am iubit – Connect-R
+    Mărie, Mărie – Traditional
+    Vreau să te iubesc – Adi Sînă
+    Dacă vrei – O-Zone
+    Pădurea – Nicolae Furdui Iancu
+    Timpul – Delia
+    Până când nu te iubesc – Fără Zahăr
+    La mulți ani – Traditional
+
+Dutch:
+
+    Het Kleine Café aan de Haven – Vader Abraham
+    Bloed, Zweet en Tranen – André Hazes
+    Zing, Vecht, Huil, Bid, Lach, Werk en Bewonder – Ramses Shaffy
+    Daar gaat ze – The Scene
+    Een beetje verliefd – André Hazes
+    Ik Leef Niet Meer Voor Jou – Marco Borsato
+    Mag Ik Dan Bij Jou – Claudia de Breij
+    Als de morgen is gekomen – Jan Smit
+    Vrienden Voor Het Leven – Jan Smit
+    Ik Kan Het Niet Alleen – The Blue Diamonds
+    De Vlieger – Andre Hazes
+    Kleine Jongen – André Hazes
+    Ik Hou Van Jou – Claudia de Breij
+    Zij Gelooft In Mij – André Hazes
+    Leef – André Hazes
+    Ik Leef Niet Meer Voor Jou – Marco Borsato
+    Duizend spiegels – Marco Borsato
+    Laat Me – Ramses Shaffy
+    Het Regent Zonnestralen – Acda en De Munnik
+    Amsterdam – Jacques Brel
+
+
+Malay:
+
+    Balik Kampung – Sudirman
+    Sampai Syurga – Datuk Siti Nurhaliza
+    Tunang Baru – Alif Satar
+    Sejati – Ahmad Jais
+    Bila Cinta – Hafiz
+    Pulang – Dayang Nurfaizah
+    Terlalu Cinta – Rossa
+    Cinta – Kris Dayanti
+    Menghitung Hari – Kris Dayanti
+    Di Matamu – Siti Nurhaliza
+    Jangan Pisahkan – Anuar Zain
+    Kau Ilhamku – Manbai
+    Mencintaimu – Cakra Khan
+    Aku Suka Kamu – Stacy
+    Bersamamu – Ungu
+    Malam Ini – Hazama
+    Buat Diriku Tersenyum – Anuar Zain
+    Paling Paling – Aizat Amdan
+    Rindu Padamu – Jamal Abdillah
+    Ku Cinta Padamu – Ella
+
+Greek:
+
+    Mia Asteri – Giannis Ploutarhos
+    S’agapo – Haris Alexiou
+    Ela – Antonis Remos
+    Ta Pedia Tou Piraia – Melina Mercouri
+    An M’agapas – Giorgos Mazonakis
+    Pote Den Ksero – Marinella
+    Apopse – Vasilis Karras
+    Kalimera Ellada – Despina Vandi
+    Ti Na To Kanis – Nikos Vertis
+    Eho Sta Matia Sou – Giorgos Tsalikis
+    S’agapo – Giorgos Mazonakis
+    Kalimera – Nikos Vertis
+    To Koritsi Tou Laou – Giorgos Zampetas
+    S’agapo – Stelios Rokkos
+    Pali Moni – Michalis Hatzigiannis
+    Olo To Hrono – Elli Kokkinou
+    An M’agapas – Haris Alexiou
+    Thelo Na Se Do – Giorgos Mazonakis
+    Kita – Tolis Voskopoulos
+    Mia Fora Ki Enan Kairo – Vasilis Karras
+
+Czech:
+
+    Škoda Lásky – Traditional
+    Když Nemůžeš, Tak Přidej – Helena Vondráčková
+    Jsem To Kdo Jsem – Lucie
+    Cikánka – Kabát
+    Pátá – Těžkej Pokondr
+    To Není Láska – Lucie Bílá
+    Vltava – Bedřich Smetana
+    Až Se Zroutí Svět – Petra Janů
+    Včera Bylo Pozdě – Jaromír Nohavica
+    Dnes Mě Láska Zradila – Karel Gott
+    Kdepak Ty Ptáčku Hnízdo Máš – Traditional
+    Srdce Nezůstává Stále – Jaromír Nohavica
+    Koukej Se Tvářit – Tereza Kerndlová
+    Miluj Mě – Eva Pilarová
+    Se Svou Láskou Jsem Šel – Pavel Bobek
+    Kdo Tě Má Rád – Hana Hegerová
+    Svět Patří Lásce – Karel Gott
+    Ta Láska – Václav Neckář
+    Byl Jsem To Já – Michal David
+    Toulavá – Lucie Bílá
+
+Hungarian:
+
+    Tavaszi Szél Vizet Áraszt – Omega
+    A Pénz Nem Boldogít – Republic
+    Kis Herceg – Kft.
+    Mennyből Az Angyal – Traditional
+    Szép, Szép, Szép – 30Y
+    Jó Reggelt, Gyönyörű Világ! – Kispál és a Borz
+    Mi A Titkod? – Neoton Família
+    Valahol Egy Falu Végén – Kiscsillag
+    Kalandorok – Edda Művek
+    Hajnalban – Quimby
+    Farkasok – Tankcsapda
+    Egyszer Élünk – Hobo
+    Szeress, Ha Szeretlek – Irigy Hónaljmirigy
+    Kell Egy Barát – Mobilmánia
+    Megöltem Egy Kakas – Kispál és a Borz
+    Te Vagy Az – Iszak Eszti
+    Túl Sokan Vagyunk – Quimby
+    Ne Add Fel – Magna Cum Laude
+    Legyél A Miénk – Edda Művek
+    Kéne Egy Pár Csillag – KFT
+
+Swedish:
+
+    Du Gamla, Du Fria – Traditional
+    En Sång Till Modet – Magnus Uggla
+    Stilla Natt – Traditional
+    Det Bär Och Brinner – Bo Kaspers Orkester
+    Vägen Hem – Tomas Ledin
+    Fångad Av En Stormvind – Carola
+    Sommaren Är Kort – Tomas Ledin
+    Jag Kommer – Veronica Maggio
+    Världen Är Vacker – Ken Ring
+    Visa Vid Verklighetens Ände – Cornelis Vreeswijk
+    Sånt Är Livet – Håkan Hellström
+    När Vi Gråter – Oskar Linnros
+    Stora Stygga Vargen – Sonja Aldén
+    Tänker På Dig – Markoolio
+    I Want to Know What Love Is – The Rasmus
+    O, Helga Natt – Traditional
+    Börja Om Från Början – Jonna Lee
+    Varje Liten Del Av Mig – Linda Bengtzing
+    Hela Vägen Hem – Johan Palm
+    Följ Mig – Benny Andersson
+
+Finnish:
+
+    Satumaa – Reijo Taipale
+    Sininen ja Valkoinen – Jari Sillanpää
+    Väliaikainen – Eppu Normaali
+    Leijat – J. Karjalainen
+    Sitä sä et voi muuttaa – Tiktak
+    Pienestä pitäen – Riki Sorsa
+    Rakkaus on lumivalkoinen – Katri Helena
+    Hymyilevä Apollo – Jari Sillanpää
+    Jättiläinen – Timo Rautiainen & Trio Niskalaukaus
+    Kahdeksan minuuttia – Popeda
+    Kukaan ei voi meitä estää – Yö
+    Kesäyö – Timo Pieni Huijaus
+    Hiljaisuus – Maarit
+    Jumala rakastaa minua – Kikka
+    Viimeinen laulu – Leevi and the Leavings
+    Ystävän laulu – Vesa-Matti Loiri
+    Tämä taivas, tämä maa – Reijo Taipale
+    Rakkautta ja romantiikkaa – Mikko Alatalo
+    Lappalainen – Anssi Kela
+    Kuinka kaunis – PMMP
+
+Danish:
+
+    Danmark – Rasmus Seebach
+    Se Venedig og dø – TV-2
+    Bimbo – Mads Langer
+    Hvor smiler en dansk – Traditional
+    Rigtige Mænd – Sanne Salomonsen
+    Så længe jeg lever – Mads Langer
+    Morgen for dig – Thomas Helmig
+    I Danmark er jeg født – Traditional
+    Tænder på dig – Medina
+    Den lille L – Rasmus Seebach
+    Kig på mig – Anne Linnet
+    Vi To – Nik & Jay
+    Lidt i fem – Kim Larsen
+    Det er mig der står herude og banker på – Thomas Helmig
+    Tak for alt – Rasmus Seebach
+    Elsker dig for evigt – Thomas Helmig
+    Mærk at vi lever – Søren Sko
+    En helt almindelig mand – Gasolin
+    Penge – Thomas Helmig
+    Giv mig en chance – Mads Langer
+
+Norwegian:
+
+    Se på meg – Jahn Teigen
+    Norge I Rødt, Hvitt og Blått – Various Artists
+    Leve livet – Morten Harket
+    Kjærlighetsvisa – Halvdan Sivertsen
+    Eg ser – Odd Nordstoga
+    Deilig er jorden – Traditional
+    Vårsøg – Henning Kvitnes
+    Den Finaste Eg Veit – Odd Nordstoga
+    Jeg Vil Hjem – Kari Bremnes
+    Mitt lille land – Kirsti Sparboe
+    Hjem til deg – Chris Medina
+    Venn – Hellbillies
+    Alt for Norge – Kurt Nilsen
+    Tenk Om – Hanne Krogh
+    Fuglene – Di Derre
+    Solsken og Regn – Knut Anders Sørum
+    Lys og varme – Åge Aleksandersen
+    Sommerfuggel i Vinterland – Halvdan Sivertsen
+    Jeg har en drøm – Øystein Sunde
+    Pøss på meg – Postgirobygget
+
+Hebrew:
+
+    Jerusalem of Gold – Naomi Shemer
+    Hallelujah – Leonard Cohen
+    Shalom Aleichem – Traditional
+    Bashanah Haba'ah – Izhar Cohen
+    Erev Shel Shoshanim – Traditional
+    Tfila – Yehuda Poliker
+    Yesh Li Ahava – Gidi Gov
+    Ani Ve'atah – Arik Einstein
+    Tzafon – Aviv Geffen
+    Al Kol Eleh – Naomi Shemer
+    Lehitra'ot – Erez Lev-Ari
+    Melech – Sivan Talmor
+    Ve'ani Ba – Shlomi Shabat
+    Ahavat Chaim – Kaveret
+    Shiru Shir – Arik Einstein
+    Yom Huledet – Dana International
+    Chalomot Shechachnu – Roni Dalumi
+    Zeh Shelanu – Arik Einstein
+    Tzafon – Harel Skaat
+    Shalom Le'Am – Shlomi Shabat
+
+Thai:
+
+    Phleng Chat Thai – Traditional
+    Chan Ruk Ter – Bird Thongchai
+    Khon Mai Me Khao – J Jetrin
+    Tee Diao Gun – Somkiat
+    Sao Bai Sia – Taikrit
+    Ruk Mai Mee Jai – Intira Jaroenpura
+    Pee Chao San – Intira Jaroenpura
+    Gor Phon Mai – Bodyslam
+    Kor Ruk Ter – Sek Loso
+    Pee Chao San – Kiat
+    Mai Mee Muerw – Pu Puttiphong
+    Jao Nii – Pongsit Kampee
+    Nai Jai – Num Kala
+    Kao Jai Chan – Beer R-Siam
+    Waer Jai – Tanya
+    Thong Muen – Chaipa
+    Ai Mee Chao Noi – Phi Kijjit
+    Phut Mai – Chalermphol
+    Chao Fang – Khon Phutsa
+    Mai Mee Bork – Labanoon
+
+Lao:
+
+    Pee Chao Khon Lao – Traditional
+    Hao Lao – Namthip
+    Hak Xao Lao – Khamphanh
+    Phon Lao – Noy
+    Khong Si Bork – Boua
+    Sao Ban Lao – Thao Soud
+    Thao Soud – Boua Xai
+    Keo Lao – Boua
+    Chao Lao – Luen
+    Pheng Lao – Khamphanh
+    Sao Chao Khouang – Xayavong
+    Houa Khong Lao – Xayavong
+    Jao Lao – Sone Xayavong
+    Sang Xay Lao – Phou Phou
+    Mekong Lued – Champa
+    Xieng Khouang – Khamla
+    Phon Kan Pha – Khamphanh
+    Kham Khoi – Thao Xayavong
+    Bork Lao – Khampha
+    Ka Xo – Sengkham
+
+Persian (Farsi):
+
+    Gol-e-Goli – Mohammad Reza Shajarian
+    Baroon Baro – Ebi
+    Daryaa – Shahram Nazeri
+    Zendegi – Fariborz Lachini
+    Mabada – Dariush
+    Eshghe Hasti – Googoosh
+    Golhaye Rangarang – Mohammad Reza Shajarian
+    Shab-e Shekasteh – Sima Bina
+    Hamegi Bemooneh – Ebi
+    Javooni – Sadegh
+    Gav-e Khoneh – Kourosh Yaghmaei
+    Faryad – Mahasti
+    Neyna – Shadmehr Aghili
+    Kharabe – Mohsen Yeganeh
+    Vazeh Nist – Hamed Homayoun
+    Harf Nazan – Siavash Ghomayshi
+    Sefr-e Shabe-Man – Khashayar Etemadi
+    Mikhayeh Bemooneh – Dariush
+    Ashegham – Alireza Assar
+    Daram Miraam – Shahram Nazeri
+
+Pashto:
+
+    Khanday – Zeerak
+    Dilruba – Haroon Bacha
+    Janaan – Ameer Hamza
+    Gul Dana – Shahzad
+    Paigham – Alamgir
+    Da Meena Paighor – Rahim Shah
+    Zama Da Meena – Naghma
+    Wara Kawa – Farhad Darya
+    Da Khoday Da Gulo – Shabnam
+    Mera Paigham – Tariq
+    Zorawar – Sardar Ali
+    Paktia – Khan Asad
+    Gul Khan – Haroon Bacha
+    Zama Gulo – Zarsanga
+    Da Zra Daro – Farhad Darya
+    Zindagi – Rahim Shah
+    Teri Yaad – Sameer Khan
+    Dhoon – Nazia
+    Meena Khaista – Ahmad Zahir
+    Wakht – Sadiq
+
+Somali:
+
+    Qaranimo – Sahra Halgan
+    Xalay – K'naan
+    Kahor Inta Aan La Helin – Axmed Naaji
+    Hoyga Xusuusta – Hibo Nuura
+    Dabadhilif – Suldaan Seeraar
+    Cali dheere – Maxamed Mooge
+    Taleex – Mohamed Suleiman
+    Maanta iyo Beri – Xaawo
+    Subax – Saado Ali
+    Nolosha – Shukriya
+    Dhegeyso – Nasra
+    Haddii Aadan – Fahma
+    Fikirkaaga – Deeqa
+    Riyadii – Magool
+    Qabyo – Ali Yare
+    Xusuus – Mustafe Sultan
+    Sooryo – Samira
+    Dhegayso – Fadumo Qasim
+    Waji Hoos – Sahra Ahmed
+    Ugu Danbeyn – Ahmed Kulmiye
+
+Swahili:
+
+    Malaika – Adam Salim
+    Piga Makofi – Ali Kiba
+    Pamoja Tutaweza – Sauti Soul
+    Hakuna Matata – Timon & Pumbaa
+    Mambo Yabadilika – Lady Jaydee
+    Sijali – Juma Nature
+    Kama Unapenda – Rayvanny
+    Nasema Nawe – Vanessa Mdee
+    Lala Salama – Ali Kiba
+    Tanzania Leo – Diamond Platnumz
+    My Dream – Chris Oti
+    Nashindwa – Hamisi
+    Binti Kidogo – Barnaba Classic
+    Pole – Amr Diab
+    Huwezi – Willy Paul
+    Afrika – Diamond Platnumz
+    Bend Over – Eddy Kenzo
+    Mafisi – Rayvanny
+    Mapenzi – Chameleone
+    Moyo Wangu – Ommy Dimpoz
+
+Amharic:
+
+    Tizita – Mahmoud Ahmed
+    Sew Le Sew – Teddy Afro
+    Fikir Eske Meqabir – Aster Aweke
+    Yemotalehu – Gigi
+    Ewedihalehu – Betty G
+    Mengedegna – Teddy Afro
+    Bemin Sebeb Lij – Tilahun Gessesse
+    Guragigna – Abegaz Kibre
+    Mekonnen – Hachalu Hundessa
+    Kikilot – Ayalew Mesfin
+    Netsanet – Muluqen Meles
+    Wubet – Jano Band
+    Lehuna – Gossaye Tesfaye
+    Qedamawi – Aster Aweke
+    Yared – Tewodros Kassahun
+    Weyn – Muluwork Tsegaye
+    Fikr – Gigi
+    Des Yeken – Berhanu A
+    Beqelalu – Teddy Afro
+    Dawit – Teddy Afro
+
+Burmese (Myanmar):
+
+    A Nay Yar – Sai Sai Kham Leng
+    A Kaung Myae – Phyo Pyae
+    Myint Mo Min Thi – Maykha
+    Thwe – Zaw Win Htut
+    Kyan Yin – Lay Phyu
+    Yaung Hmwe – Nay Chi
+    Si Nyein – Soe San
+    Phan – Thet Thet Khine
+    Dae Tway Pauk Paung – Thein Gyi
+    Ning Kyar Myay – Phyo Pyae
+    Si Thein – Zaw Win Htut
+    In Maung – Kyar Pauk
+    Ein Pyoe – Chit Thu Wai
+    Pyinnyar Tikae – Khet Thi
+    A Shwe Zauk – Khin Maung Zaw
+    Eain Mat Than – Sandar Win
+    Wai Lu Paung – Zaw Win Htut
+    A Lan Paing – Phyo Pyae
+    Nyein Nyein Kyaung – Tin Tin
+    Moe Lay – Shwe Htoo Aung
+
+Nepali:
+
+    Sambodhan – Natikaji
+    Yo Mann Ta Mero Nepali – Bhanu A
+    Samjhi Baschu – Udit Narayan
+    Chhoto Yatra – Phurba
+    Samjhi Baschu – Rajesh Payal Rai
+    Dhurbe – Raju Pariyar
+    Jati Maya – Phurba
+    Ma Timro Sanga – Pradeep
+    Mero Jindagani – Anil Singh
+    Hami Yestai Tadha – Nati Kaji
+    Pahile Kaha Gaye – Udit Narayan
+    Mero Nepali – Narayan Gopal
+    Maya Garchu – Sabin Rai
+    Hami Jati Chahiye – Chandra
+    Yo Jindagi – Nirakar
+    Timro Sanga – Udit Narayan
+    Ghumti Sathi – Bhanu A
+    Aaja Matra – Deepak
+    Thule Thule – Pashupati
+    Phoolka Sathi – Sushma Shrestha
+
+Sinhalese:
+
+    Siththara – Sunil Edirisinghe
+    Baila – T.M. Jayaratne
+    Aba Jaya – Nanda Malini
+    Sandawathi – Theekshana
+    Kanna Kanna – Clarence Wijewardena
+    Ahasa Wasanthayak – H.R. Jothipala
+    Obe Tharuwa – Amal Perera
+    Mahagedara – Chandralekha Perera
+    Sinhala Rella – Nalin Perera
+    Sitha Apahu – Udaya Sri
+    Manike Mage Hite – Yohani
+    Ganga Addara – Neela Wickramasinghe
+    Mal Piyu – Priya Suriyasena
+    Sama Aetha – Sunil Perera
+    Podi Pura – Nanda Malini
+    Hiru Ganga – Nalin Perera
+    Obe Pema – Rajitha
+    Haritha Guna – Sanath Nandasiri
+    Ape Pura – Lata
+    Sithaka – Anton Jayanath
+
+Khmer (Cambodian):
+
+    Chnam Oun 16 – Sinn Sisamouth
+    Tver Ey Sok – Ros Sereysothea
+    Ban Chet Ta – Pen Ron
+    Sralanh Khmer – Huy Meas
+    Chong Reth – Sou Yen
+    Sangkum Sralanh – Vann Serey
+    Chnam Oun 16 (Remix) – Sin Sisamuth
+    Yuvay – Houy Meas
+    Cherey Khat Ror – Houy Meas
+    Sralanh Khmer (Old Song) – Pen Ron
+    Moha Tithar – Sok Soth
+    Sralanh Euy – Vann Serey
+    Somguy Reatrey – Chea Samy
+    Kang Tveay – Khemarak Serey
+    Kongban Lao – Lao Li
+    Srey Oun – Sin Sisamuth
+    Phlov Neak Sralanh – Pen Ron
+    Teang Khmer – Vann Serey
+    Chorng Khor – Meas Sok
+    Sralanh Mony – Khemarak Serey
+
+Malagasy:
+
+    Mbola Tsara – Tselonina
+    Mahafinaritra – Kilema
+    Tsy Hay – Naly
+    Tantely – Lalatiana
+    Veloma – Nado
+    Efa Tany – Tsiliva
+    Ho Aza – Olombelo Ricky
+    Zanaka – Sakaizan'ny Natiora
+    Maroan'ny Fitiavana – Tahiry
+    Ny Fitiavana – Tarika
+    Mamonjy – Bodo
+    Ravoravo – Mirana
+    Mety Ho – Rasam
+    Tsy Nampoizina – Manandaza
+    Olona Malagasy – Poopy
+    Alefa – Michael
+    Fitiavana – Paulin
+    Ravo – Naka
+    Mankasitraka – Jean
+    Masina – Tafita
+
+Basque:
+
+    Eguzki Amets – Ken Zazpi
+    Bihar Batean – Su Ta Gar
+    Itsasoa – Berri Txarrak
+    Aldapan Gora – Mikel Laboa
+    Txoriak – Xabi
+    Mendian – Oskorri
+    Hiru – Gorka Knauf
+    Badira – Noka
+    Baztango Loreak – Xabier Lete
+    Ura – Noga
+    Ederra – Ruper Ordorika
+    Maitia – Oskorri
+    Haziak – Aitor eta Adriana
+    Begiak – AmparO
+    Itzaliak – Zuloak
+    Herriaren Lurrak – Gontzal Mendibil
+    Zuloa – Amaren Alaba
+    Atertu Bihotz – Bulego
+    Izan Gurea – Xabier Montoia
+    Basoaren Itzala – Haizea
+
+Galician:
+
+    O Son Do Ar – Os Diplomáticos de Monte-Alto
+    Aire – Luar Na Lubre
+    Saudade – Berroguetto
+    Cando a Noite – Milladoiro
+    Lúa – Xoel López
+    A Marea – Luar Na Lubre
+    Xente – Muxía
+    Fóra – Ruxe Ruxe
+    Teño – Fuxan os Ventos
+    Mar de Nubes – Dequenvessendo
+    Sementeira – Zeltia
+    A Chave de Ouro – O Sonoro Maxín
+    Entre Canles – Guadi Galego
+    Vivo Sen Vivir – Siniestro Total
+    Anacos de Lúa – Andrés Durán
+    A Soidade – Luar Na Lubre
+    Sobre a Area – Milladoiro
+    O Menú do Peixe – Dequenvessendo
+    Chámame – Sés
+    Mar de Fondo – Luar Na Lubre
+
+Catalan:
+
+    Boig per Tu – Sau
+    Que Bonic – Lax'n'Busto
+    Tot anirà bé – Els Pets
+    Dona de Riu – Lluis Llach
+    Ara que tinc vint anys – Sopa de Cabra
+    Vull ser lliure – Txarango
+    Un milió d’amics – Els Amics de les Arts
+    M’he deixat portar – La Pegatina
+    Bailar – Oques Grasses
+    Dones de 40 anys – La Trinca
+    Que tinguem sort – Joan Miquel Oliver
+    Cerca de tu – Mishima
+    L'Empordà – Sopa de Cabra
+    Jo mai mai – Antònia Font
+    Dins de la meva pell – Els Amics de les Arts
+    Cants de sirena – Anegats
+    Per què t’estimo – Manel
+    No em sento bé – Els Pets
+    Tothom vol estar bé – Oques Grasses
+    Somni – Gossos
+
+Serbian:
+
+    Molitva – Marija Šerifović
+    Lepa Protiv Lepa – Željko Joksimović
+    Tvoje Usne – Seka Aleksić
+    Ti Si Tu – Neda Ukraden
+    Nek Ti Bude Kao Ja – Maja Odžaklijevska
+    Pusti Pusti Modro – Ceca
+    Ima Nečega U Tebi – Riblja Čorba
+    Uzalud Sunce Sja – Džipsi Kings
+    Oprosti Mi – Oliver Dragojević
+    Zajedno – Bjelovar
+    Svetlana – Jelena Karleuša
+    Ludi Noćni Let – S.A.R.S
+    Bojna Čavoglave – Marko Perković
+    Da Sam Tvoja – Neda Ukraden
+    Za Ljubav – Zdravko Čolić
+    No, No, No – Snežana Savić
+    Lejla – Hari Mata Hari
+    Puno Ti Hvala – Ana Stanić
+    Prvi poljubac – Tanja Savić
+    Volim Te – Aleksandra Radović
+
+Croatian:
+
+    Molitva – Oliver Dragojević
+    Pismo moja – Doris Dragović
+    Tvoja rijeka – Gibonni
+    Vjeruj u ljubav – Zdravko Čolić
+    Zlatna ribica – Daleka obala
+    Ima nešto u tome – TBF
+    Sve još miriše na nju – Parni Valjak
+    Moj lipi anđele – Tomislav Ivčić
+    Cesarica – Oliver Dragojević
+    Pismo za tvoj rođendan – Josipa Lisac
+    Bojna Čavoglave – Marko Perković
+    Lijepa bez duše – Goran Karan
+    Sanjam – Zlatan Stipišić
+    Oprosti – Tomislav Bralić
+    Ne zaboravi – Davor Radolfi
+    Vjeruj mi – Maja Blagdan
+    Ljubavi – Ivana Husar Mlinac
+    Kad zamirišu jorgovani – Mate Bulić
+    Jednom kad noć – Tereza Kesovija
+    Moje najmilije – Goran Karan
+
+Bosnian:
+
+    Jutro će promeniti sve – Bijelo Dugme
+    Pukni zoro – Zdravko Čolić
+    Ti si moja ruža – Sevdah Baby
+    Sarajevo ljubavi moja – Mladen Vojičić Tifa
+    Stara škola – Hari Mata Hari
+    Na jednoj grani – Sevdalinka
+    Kad bi znao – Dino Merlin
+    Jutros mi je ruža procvetala – Himzo Polovina
+    Ljubavi – Kemal Monteno
+    Moj dilbere – Snežana Savić
+    Puno srce, mnogo ljubavi – Dubioza Kolektiv
+    Ne mogu da prestanem – Zdravko Čolić
+    Ti i ja – Tereza Kesovija
+    Sanjam – Hari Mata Hari
+    Ja bez tebe ne mogu da zivim – Željko Samardžić
+    Bacila je sve niz rijeku – Esma Redžepova
+    Moja je pjesma ljubav – Maja Odžaklijevska
+    Sanjam – Boris Novković
+    Ne pitaj me – Maja Blagdan
+    Za tvoje oči – Almedina
+
+Slovenian:
+
+    Dan ljubezni – Lado Leskovar
+    Zlati prah – Pepel in Kri
+    Ko si ob meni – Tanja Žagar
+    Vse je eno – Alenka Godec
+    Cvetje v jeseni – Viki Riht
+    Jutro bo pametno – Polona
+    Prvi poljub – Helena Blagne
+    Tista prava – Maja Keuc
+    Ljubi me – Jani Kovačič
+    Če hočeš – BQL
+    Moj svet – Dan D
+    Vse kar imam – Nino
+    Ljubav – Zoran Predin
+    Prazna roka – Boštjan Konečnik
+    Podaj mi roko – Andrea
+    Brez besed – Mi2
+    Če te ni – Siddharta
+    Ne bom pozabil – Perpetuum Jazzile
+    Enkrat ko boš srečen – Jana
+    Poglej – Rudi Bučar
+
+Albanian:
+
+    Të dua – Elvana Gjata
+    Dua të kthehem – Ardit Gjebrea
+    Shpirti im – Aurela Gaçe
+    Për ty – Genta Ismajli
+    Fjala e fundit – Valbona Mema
+    Rruga e jetës – Linda
+    Dajti – Fadil Vokrri
+    Në krahun tim – Evi Reci
+    Bën më shumë dritë – Arilena Ara
+    Nuk jam të te – Seldi
+    Përjetësisht – Albina
+    Kur të dua – Olta Boka
+    Shqipëri – Bledar Sejko
+    S'më mjafton – Nikita
+    Vajza e Shkodrës – Vesa Luma
+    Të dua ti – Elita 5
+    Këngë për një dashuri – Rona Nishliu
+    Në mëngjes – Fadil Vokrri
+    Për gjithmonë – Edi Muka
+    Shkoj – Floriani
+
+Bulgarian:
+
+    Kakto ljubov – Lili Ivanova
+    Ljubovta e mračna – Kalin Veliov
+    Ne si vo ljubov – Milena
+    Tova e tvoeto vreme – Valya Balkanska
+    Vino i pesna – BTR
+    Samo edin den – Slavi Trifonov
+    Kray men – Poli Genova
+    Otvoori oči – Slavi
+    Bez teb – Stefan Vlahov
+    Taka e narada – Ivan Shopov
+    Pone me – Zdravko Čolić
+    Milionen svyat – Andrea
+    Mislite li? – Miro
+    Oshteteni – Krum Boev
+    Prolaziš – Beloslava
+    Dovedi me tuda – Nicky
+    Beli zubi – Slavi Trifonov
+    Gleday – Keti Kovačić
+    Doma, u tebe – Kola Kolev
+    Si ti – Diko
+
+Georgian:
+
+    Tbilisi – Niaz Diasamidze
+    Gvantsa – Eteri Bregvadze
+    Sakartvelo – Giorgi Sukhitashvili
+    Tsverebi – Levan Tsuladze
+    Mtsvadi – Shorena
+    Chveni Ezo – The Shin
+    Mtkvari – Nikoloz Rachveli
+    Didi gogo – Misha
+    Kvevri – Ioseb Tsitsadze
+    Cvenebebi – Natia Kukhianidze
+    Arseniko – Sukhishvili
+    Tbilisi gogo – Sopho Khalvashi
+    Me varskvlav – Anri Jokhadze
+    Guruli Tchida – Oda
+    Kverula – Giga Kukhianidze
+    Manana – Nino Katamadze
+    Samshvilde – Anna
+    Sali Shemodgomi – Giorgi Tabatadze
+    Amirani – Archil Qarahlia
+    Moralebi – Nikoloz Rachveli
+
+Armenian:
+
+    Yerevan – System of a Down
+    Harach K'ez – Charents
+    Siro Yerk – Aram Asatryan
+    Sere – Tigran Asatryan
+    Dle Yaman – Vartan Zadoyan
+    Khorhurd – Varduhi Vardanyan
+    Aysor – Sargis
+    K'narak – Komitas Vardapet
+    Hayastani Hanrapetutyun – Vigen
+    Sirdesan – Sergey Danielyan
+    Haykakan ton – Levon Madoyan
+    Havatum – Arto Tunçboyacı
+    Janapar – Vahagn
+    Hayeren – Harout Pamboukjian
+    Dghishe – Nune Yesayan
+    Yeraz – Armenchik
+    Siretsi – Varduhi Vardanyan
+    Hayastan – Hayko
+    Hovareh – Shushan Petrosyan
+    Khorhurd Siro – Hovhannes Shiraz
+
+Azerbaijani:
+
+    Qarabağ – Rashad Mahmudov
+    Sarı Gəlin – Alim Qasimov
+    Aşkı Sevdim – Shahin Novrasli
+    Varlıq – Niyaz
+    Birlik – Sami Yusuf
+    Sənsiz – Röya
+    Qara Qız – Zülfiyyə Xanbabayeva
+    Həsrət – Elvin Gray
+    Gecə – Miri Yusif
+    Köhnə Xatirələr – Natig Shirinov
+    Sənə Qurban – Tarkan
+    Yenə Sən – Rəqsanə
+    Sənsiz Gecələr – Mənsur
+    Tənhalıq – Röya
+    Azərbaycan – Brilliant Dadaşova
+    Sevgi – Azer
+    Gözlə – Dəyirman
+    Sən Gözlədikcə – Elşad Xose
+    Ürək – Sevda
+    Qəlbim – Bəxtiyar
+
+Kurdish:
+
+    Govenda Rojava – Şivan Perwer
+    Berxwedan – Koma Wetan
+    Mişarî – Nizamettin Arıç
+    Dîlan – Ciwan Haco
+    Mezopotamya – Rojin
+    Sîyabend û Xecê – Mem û Zîn
+    Gulên Reş – Şevin
+    Hesekê – Xalid
+    Bê Gûl – Mahmut Tuncer
+    Şeş û Şeş – Koma Azadî
+    Rojava – Aram Tigran
+    Ey Reqîb – Karwan Xabati
+    Koma Rengîn – Aynur Aydın
+    Gulî Gulî – Nûdem Durak
+    Jiyan – Koma Kîndar
+    Şev û Sîrîn – Koma Dîcle
+    Çavkaniya – Hevi
+    Qaniya Dîlan – Cemîl Qoz
+    Azadî – Hüseyin Karaboğa
+    Serhildan – Zozan
+
+Uzbek:
+
+    O'zbegim – Ozodbek Nazarbekov
+    Bahor – Yulduz Usmonova
+    Dilber – Shahzoda
+    Go'zal – Dilorom Kambarova
+    Sevgi – Ulug'bek Rahmatullayev
+    Vatanim – Izzat
+    Navro'z – Baxtiyor Nazarov
+    Azizim – Jasur Umirov
+    Alisher Navoiy – Asliddinov
+    Yor-yor – Sevara
+    Dunyo – Husan
+    Bir Kun – Sherali Jo'raev
+    So'zlar – Shodi
+    Yaxshi kishi – Asliddinov
+    Mehribonim – Zulfiya
+    Sog'inch – Shahram
+    Hayotim – Mashrab
+    Sanam – Dilso'z
+    Zehar – Olim
+    Kochaman – Yulduz
+
+Kazakh:
+
+    Aruzhan – Zhanar Dugalova
+    Kazakhstan – KeshYou
+    Sаnаlаr – Aida
+    Bala Arman – Kunsulu
+    Aila – Siroz
+    Ata Ana – Aruzhan
+    Kұn – Raihan
+    Ruhanym – Zhanar
+    Asyl Arman – Aidana
+    Dostyk – Kai
+    Elim – Korgau
+    Uanghyn – Sholpan
+    Serik – Yndira
+    Batyr – Assylbek
+    Durgan – Kyz Zhibek
+    Otan – Zarina
+    Qizyl-Kystan – R. Tagaev
+    Menin Kyzym – Zharaskan
+    Yeke – Sholpan
+    Qazaqsta – Alisher
+
+Tajik:
+
+    Zor – Barvoz
+    Meni Yod Kuni – Shabnam Surayo
+    Azadi – Anvar Azimov
+    Sabr – Farrukh Zokirov
+    Ruham – Manzura
+    Nabo – Shabnam
+    Shukur – Daler Nazarov
+    Mashru – Rukhshona
+    Mehri – Muhammad Amin
+    Yak Guli – Nazira
+    Vatan – Manzoor
+    Zindagi – Shabnam
+    Guli Gul – Bahrom Nazarov
+    Dost – Habib
+    Dilon Bosh – Firuza
+    Mohabbat – Rayhon
+    Nabard – Farukh Zokirov
+    Rangin – Nasim
+    Oshiqi – Davron
+    Naba – Shabnam Surayo
+
+Turkmen:
+
+    Senen – Annageldy Akyyev
+    Azatlyk – Gurbangul
+    Ashyklar – Serdar
+    Bayram – Roza
+    Söhbet – Eldar
+    Serkewt – Nury
+    Gözlerim – Sary
+    Birinji Soň – Kakam
+    Büküş – Medine
+    Iň Äýňe – Zuhra
+    Oglum – Shirin
+    Yazgak – Kerim
+    Nuhak – Yarash
+    Men Sana – Garayev
+    Bagaýy – Mahri
+    Içinämi – Arzy
+    Jenkîr – Sabar
+    Yürek – Soltan
+    Hojalyk – Nurmuhammet
+    Atanyň – Durnan
+
+Kyrgyz:
+
+    Kyrgyz Elim – Erkin Asanov
+    Sogushtum – Tolonbekov
+    Kyz – Baktygul
+    Tishime Berek – Aisuluu
+    Bishkek – Akyrov
+    Kökötöbö – Bakyt
+    Janyma – Sabina
+    Äzizim – Sultan
+    Uluu El – Raiymbek
+    Arka – Yuliya
+    Tan Sizin – Arslan
+    Birinchi Söz – Aziz
+    Kirmizik – Aizat
+    Choro – Irina
+    Bosh – Sabir
+    Kümüş Kökö – Aziza
+    Asyl – Arik
+    Kyz Zhibek – Kairat
+    Köngül – Salim
+    Tugandyn – Yntymak
+
+Mongolian:
+
+    Erdene – Tsetse
+    Uul – Tselmeg
+    Mongol Uls – Chinggis Khan
+    Kharag – Tsetse
+    Zaluus – Altan Urag
+    Sanaach – Amarjargal
+    Erdenet – Mandah
+    Uhaan – Naran
+    Tengis – Bat-Erdene
+    Mongol – Tume
+    Noin – Baaska
+    Tavan Tolgoi – Buyan
+    Amah – Uugii
+    Khairt – Suvd
+    Nadad – Erdenebayar
+    Duur – Gennadiy
+    Tolgoi – Ondor
+    Shuud – Tolgoi
+    Baasan – Anar
+    Batlan – Ulziibayar
+
+Yoruba:
+
+    Oluwa Ni Iya – Sir Shina Peters
+    Oruko Tuntun – King Sunny Ade
+    Bitter Sweet – Angelique Kidjo
+    Eko O Ni K'oyin – Fela Kuti
+    Omo Naija – 9ice
+    Iba Mi – Olamide
+    Ajo Mi – Wizkid
+    Oniye – Titi Loke
+    Agba Awo – Ebenezer Obey
+    Olorun Lofe – Seyi Shay
+    Aye – Davido
+    Ododo – Fuji
+    Sankofa – Olamide
+    Asiko – Tiwa Savage
+    Bam Bam – Seun Kuti
+    Ise Oluwa – Lara George
+    Omo Eko – Darey
+    Oluwa – Adekunle Gold
+    Ojo Momi – Teni
+    Shayo – Wizkid
+
+Zulu:
+
+    Umoya – Zahara
+    Uthando – Brenda Fassie
+    Lelilanga – Hugh Masekela
+    Ngiyaphumelela – Micasa
+    Wenza Kanjani – Lucky Dube
+    Mina Nawe – Mafikizolo
+    Impilo – Thandiswa Mazwai
+    Izinkanyezi – Busi Mhlongo
+    Ekhaya – Black Coffee
+    Phakama – Sbu
+    Loyalty – Mafikizolo
+    Shikisha – Thembi Seete
+    Amadlozi – Tshepo Tshola
+    Imikhono – Thokozani Langa
+    Nomalanga – Simphiwe Dana
+    Zithande – Bheki Mseleku
+    Rudeboy – Mandoza
+    Uthando Lwethu – Lira
+    Kudala – Mashavini
+    Imizwa – Ntombi
+
+Xhosa:
+
+    Sophiatown – Miriam Makeba
+    Thula Thula – Mahlathini & the Mahotella Queens
+    Uhlanga LweNhlanhla – Simphiwe Dana
+    Mthunzi – Mthunzi
+    Bathi – Zahara
+    Ndand'othandayo – The Soil
+    Kuyakhanya – Vusi Nova
+    Hlubi – Mbongeni Ngema
+    Ukuthula – Siphokazi
+    Sula – Freshlyground
+    Siyabonga – Lundi
+    Umoya – Ringo
+    Imile – Afrotraction
+    Izithunywa – Thandiswa Mazwai
+    Isizwe Esihle – Majozi
+    Thandolwethu – Bongo Maffin
+    Ulwandle – Nathi
+    Kudala – Caiphus Semenya
+    Khumbul'ekhaya – Mzwakhe Mbuli
+    Vuka Mzantsi – Lucky Dube
+
+Shona:
+
+    Taimbovimba – Oliver Mtukudzi
+    Neria – Oliver Mtukudzi
+    Zvido Zvako – Alick Macheso
+    Mudzimu – Thomas Mapfumo
+    Vana Vangu – Leonard Zhakata
+    Chiedza – Dr. Tawanda
+    Mafaro – Thembinkosi
+    Mudzimu – Zex Manatsa
+    Moyo Wangu – Jah Prayzah
+    Ndicho Chikonzero – Chiwoniso Maraire
+    Tinoverenga – Vimbai Zimuto
+    Munamato – Nicholas Zakaria
+    Kupfeka Chimwe – Jahanara
+    Vana Vemwana – Mashoko
+    Fara Naye – Juno Kati
+    Shanduko – Queen Vee
+    Rudo – Sandra Ndebele
+    Dai Maita Zvichinjanwa – Jah Prayzah
+    Hapana – Selmor Mtukudzi
+    Zvakanaka – Kessia
+
+Afrikaans:
+
+    Totsiens – Steve Hofmeyr
+    Jou Hart – Laurika Rauch
+    Skreeu – Janie Oosthuysen
+    Ek is Nie Alleen Nie – Die Heuwels Fantasties
+    Bly in jou Huis – Lianie May
+    Deurmekaar – Theuns Jordaan
+    Liefde – Elvis Blue
+    Vriendin – Emo Adams
+    Hartenlied – Pieter Smith
+    Sommer Net Jy – Kobus en Janie
+    As ek eendag groot is – Adam Tas
+    Oorlewing – Heuwels Fantasties
+    Tussendie Sterre – ChianoSky
+    Dans die Blues – Nadine
+    Juffrou – Kurt Darren
+    Lewe – Riana Nel
+    Vra vir My – Bok van Blerk
+    Goeie Ou Tye – Thys Die Cheetah
+    Bitter Soet – Bouwer Bosch
+    Heimwee – Robby Fransen
+
+Haitian Creole:
+
+    Peyi a – Boukman Eksperyans
+    Pa m'pa w – Tabou Combo
+    Se la vi sa – Emeline Michel
+    Feyton – Wyclef Jean
+    Nan bèl tè a – Beken
+    Tounen nan peyi a – Alan Cavé
+    Zouke – Phyllisia Ross
+    Haiti – Boukman
+    Mwen renmen w – Kreyol La
+    Pèp la – Jean Claude
+    Nou se sèl sa – T-Vice
+    Epi – Nicky
+    Mwen se Ayiti – Kreyòl
+    Anba dlo – Djakout
+    Chérie – Nickenson Prud'homme
+    Jounen jodi a – Bossa Nova
+    Haitian style – Djarara
+    Bon nèg – Rebo
+    Lontan – Kenyo
+    Pote m' ale – Family Love
+
+Quechua:
+
+    Wiraqocha – Manuelcha Prado
+    Ñuqa kanki – Huascar Barradas
+    Cholita – Qhapaq Qullana
+    Sumaq k'usi – Martín Chambi
+    Tayta Inti – Cantares de los Andes
+    Ñawi – Jhonny Medina
+    Ñusta – Grupo Aymara
+    Amoray – Ayacucho
+    Saya – Inti Illimani
+    Antara – Los Kjarkas
+    Inti Raymi – K'antu
+    Sumaq Pacha – Pajpaku
+    Kawsay – Runakay
+    Manko Qhapaq – Chakana
+    Huayno – Q'arawi
+    Pachamama – Los Kjarkas
+    Pujllay – Imanol
+    Ñust'a – Kawsay
+    Tupananchiskama – Mamani Keita
+    P'unchay – Pachamama
+
+Guarani:
+
+    Aña Ñandejára – Los Kichwa
+    Aña Raity – Paraguarí
+    Teta Oĩ – Los Nativos
+    Aña Yvoty – Cumbia Guaraní
+    Ñe'ẽ Poty – Los Cazadores
+    Oñembojoaju – Los Quillacas
+    Mbaraká – Villalba
+    Kure Reko – Huerta
+    Ñande Pyhare – Alegre
+    Ñamandu Renda – Yvoty
+    Yvoty Reko – Takuare’e
+    Guasu Kuaa – Pedro
+    Porã Ñande Ru – Kaba
+    Ñe'ẽ Tenda – Los Andariegos
+    Mba'e Porã – Ñe'ẽ
+    Oñemomba'e – Tupasy
+    Aña'i – Peguajhu
+    Che Ru Oñe'ẽ – Paragua
+    Ñe'ẽ Guasu – Jasy
+    Karai Reko – Los Apaches
+
+Aymara:
+
+    Ñan Qamaña – Luzmila Carpio
+    T'ikiti – Yisrael
+    Kawsay – Illimani
+    Sumaq Qamaña – K’antu
+    Wasiqay – Victor Jara
+    La Paz – Gera
+    Sumaq – Tierra
+    Ñanpa – Lucho
+    Inti Raymi – Grupo Aymara
+    Wiphala – Uyuni
+    Wawa T'ikiti – Llallaw
+    Pachamama – Tawantinsuyu
+    Sumaq K'usi – Sandra
+    Viva el Mundo – Kunti
+    Amanecer – Kallawaya
+    K'anchay – Quilla
+    Inka – Ch'aska
+    Yarqa – Pacha
+    Runa – Tata
+    Yayu – Tupaq
+
+Mapudungun:
+
+    Ñamku – Amun
+    Pewma – Antü
+    Antümapu – Inka
+    Ñamün – Mapu
+    Ñi Rangiñ – Wenu
+    Vila – Ñuke
+    Mañuñ – Ruka
+    Nagün – Ayün
+    Pillán – Tañi
+    Antü Küyen – Paine
+    Wüña – Chelén
+    Rüpü – Lemu
+    Ñi Meliñ – Ñewün
+    Inan – Mewün
+    Kutran – Lelfün
+    Ñi We – Wechen
+    Ñuñü – Rüyün
+    Küla – Epu
+    Chulul – Ayün
+    Ñuke Mapu – Kayuwün
+
+Māori:
+
+    E Ihowā – Te Pātea
+    Tēnei Rā – Wai
+    Pokarekare Ana – Whina
+    Pūtōrino – Ngāti Kahungunu
+    Haka – The Māori Club
+    Pātea – Te Kura
+    Tāmaki Makaurau – Te Karere
+    Aroha mai – Rhonda
+    Rangatahi – Tiki
+    Haere Mai – Mārama
+    Hine e Hine – New Zealand Folk
+    Tōku Reo – The Māori Sisters
+    Waiata – Hine Rangi
+    Pātea Māori Club – Te Hokowhitu-a-Tū
+    Piki Ake – Kiri
+    Māori Boy – Te Mātā
+    Te Reo – The Māori Band
+    Ngā Pūoro – Ngāti Porou
+    Aotearoa – The Waipounamu
+    Hono Mai – Te Kōhanga Reo
+
+Samoan:
+
+    Fa'afetai – Sina
+    Mālua – Tigilau
+    Mālo – Mauga
+    Lali – Iesiah
+    Moe E – Tui
+    Mālea – Nia
+    Vasega – Vave
+    Uo Tā'ua – Toa
+    Siva – Amita
+    Alofa – Masi
+    O Le Uo – Sami
+    Fa'afetai Lava – Mita
+    Mā'oma'o – Tofa
+    Va'a – Ali
+    Fua – Ava
+    I'o – Ta'iala
+    Samoa – Tafao
+    La'a – Niko
+    Fasi – Fetu
+    Manuia – Salu
+
+Tongan:
+
+    Sisi Siha – Simi
+    Tōkā – Sione
+    Lā Honu – Fiti
+    'Ofa – Seini
+    Malo 'Aupito – David
+    Hau Fa – Mu’a
+    Tu'utāmā – Lili
+    Kōmātā – Tani
+    Loto Tāne – Fatai
+    Liliu – Vai
+    Mālie – Lusi
+    Ha'amo – Sione
+    Mātātahi – Vika
+    Tupou – Va’ai
+    Viti – Litia
+    Sina – Matu
+    Piki – Samu
+    Aue – Niu
+    Maka – Siaosi
+    Vālei – Selu
+
+Fijian:
+
+    Bula Malaya – Levuka
+    Veivei – Sai
+    Isabella – Meli
+    Yadra – Teki
+    Fiji – Jale
+    Lomani Fiji – Revovo
+    Tiko Na Viti – Tuki
+    Matanivosa – Niko
+    Moce – Pita
+    Ena Nuku – Laisiasa
+    Uciwai – Uraia
+    Wai Ni Vanua – Aliti
+    Sa Kaukauwa – Tupou
+    Taukei – Pio
+    Sota Tale – Kalivati
+    Siga Ni Kovu – Tevita
+    Kina Yasana – Semisi
+    Kaci Ni Vanua – Tuiloma
+    Bose Ni Vanua – Veisama
+    Na Talei – Naisabutu
+
+Hawaiian:
+
+    Aloha 'Oe – Queen Lili'uokalani
+    E Ku'u Morning Dew – Hapa
+    Hawai'i Aloha – Various Artists
+    Pua Lilia – Keali'i Reichel
+    Ka Uluwehi O Ke Kai – Keola Beamer
+    He Mele No Lilo – Israel Kamakawiwo'ole
+    Pulelehua – Nahoku
+    Nani Kaua'i – Keali'i Reichel
+    Koke'e – Gabby Pahinui
+    Holo Wa'a – The Brothers Cazimero
+    Leahi – Makaha Sons
+    Hi'ilawe – Gabby Pahinui
+    Waikiki – Andy Cummings
+    Pua 'Olena – Dennis Kamakahi
+    I Kona – Israel Kamakawiwo'ole
+    Hawaiian Lullaby – The Ikona
+    Pali No Hoku – Keola Beamer
+    Mele Kalikimaka – Bing Crosby & The Andrews Sisters
+    Ua Like No A'u – Hapa
+    Ka Uluwehi O Ke Kai – Olomana
+
+Inuktitut:
+
+    Qaumaniq – Tanya Tagaq
+    Tusaavik – The Jerry Cans
+    Iqaluit – The Jerry Cans
+    Uqausiq – Kimmirut
+    Nuvuk – Lucie Idlout
+    Qilaut – Tagaq
+    Kiviuq – Elisapie
+    Aayongu – Tara
+    Nunavut – Richard O'Farrell
+    Tungijuq – Pamyua
+    Sikumiut – Billy Pitsirul
+    Puqsiq – Katiani
+    Nuvvuk – Tanya Tagaq
+    Itilana – Inuksuk
+    Kaataq – Peter Kattuk
+    Nuna – Paulatuk
+    Aktaq – Pujji
+    Imaq – Qawwal
+    Nunaajuk – The Northern Lights
+    Tukini – Nunavik
+
+Nahuatl:
+
+    Tlakatl – Grupo Tlaxcaltecayotl
+    Chicomecoatl – Xochipilli
+    Yancuic Tletl – Huehuecóyotl
+    Cuicatl – Juárez
+    Nahui Ollin – Cuauhtémoc
+    Tequihua – Calpulli
+    Totomoxtle – Yaocihuatl
+    Tecuhtli – Cihuatl
+    Tlatoani – Nahuatl Experience
+    Atlachinolli – Quetzal
+    Huey Tlatoani – Mexica
+    Tlachtli – Xochimilco
+    Nahualli – Iztaccihuatl
+    Tlazotlacalli – Anahuac
+    Tequihua – Chimalpopoca
+    Coyotl – Tlaloc
+    Tlamatini – Moctezuma
+    Quetzalcoatl – Mexica
+    Nahuatl Xochipilli – Cohuatzin
+    Chichimeca – Montezuma
+
+Mayan:
+
+    Ajaw – Quetzal
+    Kanul – Los Maya
+    Maya' – Los Guatemaltecos
+    Ix Chel – Kukulcán
+    Balam – Hombres
+    Yucatán – Ana
+    Chichen Itzá – Maya
+    K'iche' – Q'anjobal
+    Xibalba – Chikin
+    Nojoch – Pedro
+    Chacal – Tulum
+    Maya'ka – Mayan Brothers
+    Tikal – Mayan Ritual
+    Ixil – Yucatan
+    Ajpop – Mayan Roots
+    K'axim – Guatemaya
+    Yaxkin – Los Mayanistas
+    Mayan Woman – Los Samis
+    Cenote – Mayan Tribe
+    Petén – Yucatán
+
+Cherokee:
+
+    Wado – Bill Miller
+    ᏩᏙ (Wado) – Shawnee and Cherokee Tribe
+    ᎡᏂᏔᏅᎢᏍᏆᏍᏗ (Enitahgwasdii) – Marie
+    ᏗᏎᏍᏆᏂᏓᏍᏗ (Disesquandisdi) – Fred
+    ᏪᏌᏍᏆᏙᏯ (Wesasquadoya) – Joe
+    ᏓᎩᎦᎨ (Dagigage) – Jamie
+    ᏅᏝᎩᎢᎦᎡᎯ (Ntlakii-gaehi) – Sarah
+    ᏗᏃᏧᏂᏏ (Dinozini) – Catherine
+    ᏧᏍᏆᏓᏴᏫᏒ (Tsuqudayvwi) – George
+    ᏓᏂᏍᏆᏂᏗ (Danisquandii) – John
+    ᏉᏒᏂᏙᏯ (Quatsadi) – Christa
+    ᏧᏍᏆᏎᏙᏱᏉ (Tsuquasetoyi) – Laura
+    ᏗᏎᏌᏌᏅ (Disesasasgi) – Tina
+    ᎪᏌᏔᏰ (Gosataye) – Peter
+    ᏧᏍᏆᏕᏟᏯ (Tsuqudetliya) – Robert
+    ᏗᎦᏙᏆᏃᏅᏗ (Digadocunghdi) – James
+    ᎠᎦᏍᏆᏋᏅᏙᏯ (Agasquahgei) – Emily
+    ᏪᏌᏁᏍᏆᏗ (Wesanesquadi) – Leo
+    ᏕᏥᏍᏆᏕᏯ (Detsiquadeya) – Louis
+    ᏧᏙᏠᏯ (Tudoleya) – Joseph
+
+Navajo:
+
+    Tó éí i'íí – Navajo Nation Band
+    Hózhó – The Navajo Singers
+    Diné Bizaad – Harlan
+    Ałnííłí – Leona
+    Diné Tsídii – Gilbert
+    Shí éí – Lena
+    Navajo Blues – Thomas
+    Yáhoot'ééł – Rosita
+    K'é – Jim
+    Ashkii – Chasity
+    Hólǫ́ – Navajo Singers
+    Béésh Bich'ahii – Navajo Youth
+    K’aał – Kelly
+    Diné Mósí – Lawrence
+    Tł'éé – Elijah
+    T’áá ajiłii – Janet
+    Tó éíí – James
+    Navajo Song – The Brule Band
+    Chizhii – Jason
+    Yá'át'éeh – Diana
+
+Ojibwe:
+
+    Minwaadiziwin – The Bear River Band
+    Zhaawanoong – The Northern Lights
+    Gaa Miskwa – Janet
+    Mino-bimaadiziwin – Thomas
+    Aki – The Nokomis
+    Ishkode – The Ojibwe Tribe
+    Mii Gwich – Northern Winds
+    Maang – The Red Lake Band
+    Waasa Inaabidaa – Brian
+    Bineshiinh – Jenny
+    Gizhiig – Art
+    Doodem – John
+    Waawaashkeshi – Minwa
+    Zhaawanoong Ziibi – Bob
+    Nibi – Dakota
+    Mooz – Gerald
+    Akiwenzii – Jordan
+    Ezhise – Travis
+    Binesi – Steve
+    Ozaawaa – Dawn
+
+Cree:
+
+    Miyo – The Cree Youth
+    Kitimihk – Northern Cree
+    Kihciy – Cree Tribe
+    Pimihkwan – Louis
+    Awasis – Jerry
+    Nehiyaw – Clara
+    Pimipahtāw – Stephen
+    Mīna – Kelsey
+    Kiskinwahamāk – Jodie
+    Iskwew – Charlene
+    Kiskāw – Howard
+    Wāwiyek – Michael
+    Paskwāw – Garth
+    Akiwīskw – Kelly
+    Nīwīkew – Andrew
+    Ayihk – Heather
+    Okimāw – Rachelle
+    Mīkwam – Peter
+    Opipēyak – Erika
+    Wāpan – Lillie
+
+Tagalog:
+
+    Bahay Kubo – Various Artists
+    Anak – Freddie Aguilar
+    Tadhana – Up Dharma Down
+    Pusong Bato – Aegis
+    Nandiyan Ka Na – Eva Eugenio
+    Ikaw – Yeng Constantino
+    Kahit Maputi Na Ang Buhok Ko – Rey Valera
+    Pangako – Ogie Alcasid
+    Dahil Sa Iyo – Pilita Corrales
+    Kahit Kailan – South Border
+    Kundiman – Fred Panopio
+    Sana – Up Dharma Down
+    Paalam Na – Ric Manlapig
+    Minsan – Eraserheads
+    Sa'yo – Zia Quizon
+    Maghintay Ka Lamang – Maricris Garcia
+    Kailan – Orange and Lemons
+    Pag-ibig – Ben & Ben
+    Tuloy Pa Rin – Neocolours
+    Huwag Ka Nang Umiyak – Ariel Rivera
+
+Cebuano:
+
+    Usahay – Pilita Corrales
+    Bisan Pa – The Company
+    Duyog – Zsa Zsa Padilla
+    Pasko Na Sinta Ko – Various Artists
+    Tulang – Judd
+    Tulo Ka Luhod – Max Surban
+    Kundiman – Sharon Cuneta
+    Sa Piling Mo – Yeng Constantino
+    Ayaw Pagbiya – Kitchie Nadal
+    Gitara – Ronnie Liang
+    Baleleng – Nonoy Zuniga
+    Bilog – GMA Cebu
+    Ilonggo – Various Artists
+    Lambing – Davao Puno
+    Pag-ibig Na Kaya – Bethany
+    Buhay Ka – David Santiago
+    Himaya – Chiz
+    Paghilom – Janno Gibbs
+    Pagtan-aw – Jv
+    Amiga – Zsa Zsa Padilla
+
+Ilocano:
+
+    Pamulinawen – Various Artists
+    Ti Ayat Ti Maysa Nga Ubing – Chabeng
+    Apo Lakay – Rolando
+    Agsardengka – Dablua
+    Sika Laeng – Lasang
+    Balasangko – Rich
+    Inut-ot Ti Puso – Leyla
+    Bannawag – Binang
+    Sabayang Pagbigkas – Inag
+    Iti Naimbag a Bigat – Zangino
+    Naimbag a Rabi – Duyog
+    Di Ka Lintad – Rosemarie
+    Diohdiay a Banag – Eric
+    Balay ti Puso – Jethro
+    Dandaniw – Nicanor
+    Mangmangruay – Cato
+    Ti Panawen a Pasuquin – Danao
+    Sana'k ka – Lily
+    Bituing Walang Ningning – Garcia
+    Bannuar – Cayo
+
+Hmong:
+
+    Nkauj Hmoob – Various Artists
+    Nco Kuv – Meej Moom
+    Xyoo Tshiab – Ntxhiab
+    Tus Ntsuj Plig – Tosia
+    Mekas Ntsia – Nyiaj Lis
+    Rov Qab – Siab Xyooj
+    Lub Neej Nyob Zoo – Muas
+    Tus Hmoob Ua Si – Tswv Xyooj
+    Hmoob Tseem Tos – Lav Xyooj
+    Cia Li Tuaj – Vang
+    Kuv Nco Koj – Feem
+    Tshav Ntuj – Vang Xiong
+    Kuv Pib Qab – Kab
+    Tsim Nyog Hlub – Thao
+    Cia Poj Niam – Nyob
+    Nkauj Hmoob Xyoo Tshiab – Lis
+    Vajtswv Tsav – Pyab
+    Txhob Tuaj Nyob – Koj
+    Lub Zog Nyob Zoo – Hmong Sound
+    Hlub Nyob Hauv Lub Xim – Xiong
+
+Tibetan:
+
+    Tibetan Plateau – Phurbu
+    Ayi – Lhasa
+    Lhamo – Tenzin
+    Yarlung – Sonam
+    Tara – Karma
+    Dorje – Tsewang
+    Chod – Jigme
+    Samsara – Nyima
+    Buddha’s Song – Palden
+    Zangdokpalri – Chime
+    Lhasa Mantra – Tibetan Chant
+    Tibetan Spirit – Losang
+    Naljorpa – Pema
+    Mantra of the Mountains – Dawa
+    Sherab – Lobsang
+    Lhundrub – Phuntsok
+    Dzogchen – Tsering
+    Mingyur – Tashi
+    Kailash – Tenzin
+    Bodhi – Lama Tsultrim
+
+Malagasy:
+
+    Raha Mbola Velona – Rajaonarimampianina
+    Tany Tanety – Ny Ainga
+    Ny Hira Mahafinaritra – Imahakely
+    Miaraka Amin'ny Zaza – Tanora Gasy
+    Jereo Aho – Nouvel Horizon
+    Fitiavana Mitohy – Ako
+    Laoka Kely – Rabemananjara
+    Tsiambaratelo – Tselatra
+    Tsy Ho Lavo – Izaho
+    Lava Kely – Ny Soa
+    Namboarina – Tiana
+    Ohatra Aho – Mialy
+    Miady – Tafita
+    Dera – Rafotsy
+    Fanantenana – Mahery
+    Tantara – Nanga
+    Mitsangàna – Mamy
+    Kary Mankasitraka – Narindra
+    Mamy Tia – Jovany
+    Masoandro – Fitiavana
+
+Wolof:
+
+    Banjul – Jali
+    Ndiambour – Ousmane
+    Jang – Ibrahime
+    Tansi – Diogoye
+    Fayda – Jams
+    Mbélés – Lamine
+    Boo Ma Bëgg – Khady
+    Mbollo – Thierno
+    Fasoor – Samba
+    Fou Lou Louna – Binta
+    Nani – Cissé
+    Yandé – Mamadou
+    Sakéda – Mbalax
+    Mba Bèdji – Bouba
+    Sunu Gnaar – Malick
+    Maa Ka – Kaay
+    Wolof Jam – Abou
+    Ngir Naa – Mbaye
+    Kër Ndiambour – Demba
+    Fi O Nakk – Sèdè
+
+Hausa:
+
+    Matar Mutum – Ali Nuhu
+    Allah Ya Kaika – Hamisu Breaker
+    Soyayya – Nura M Inuwa
+    Gimbiya – Nazir M Ahmad
+    Kawar Da Suka – Nura M Inuwa
+    Duniya – Sani Danja
+    Mudi – Aminu Ala
+    Juma’at – Sadik
+    Farin Ciki – Alhaji Sani
+    Zuciya – Umar M Shareef
+    Jikina – Ado Gwanja
+    Zauna – Munnir Gombe
+    Barka Da Sallah – Musa M.
+    Gatan Jita – Titi
+    Shekaru – Umar
+    Arewa Duniya – Ali
+    Muna Raya – Suleyman
+    Kuna Da Wuta – Mahmud
+    So Na Gari – Rahim
+    Aure – Zaki Azzah
+
+Igbo:
+
+    Okwu Nwe Eze – Flavour
+    Ada Ada – Phyno
+    Sankara – Niniola
+    Obioma – Timaya
+    Nkwo – Wande
+    Ejire – P-Square
+    Igbo Amaka – 2Baba
+    Anyi G’ewa – Chike
+    Onye Mmeri – Ugo
+    Chinedu – Ceeza
+    Benevolent – Shalom
+    Oluwa Bamidele – Jeff
+    Akara Oka – 2Baba
+    Ijeoma – Nedu
+    Aka Na Ogu – Umu Obiligbo
+    Dumebi – Johnny
+    Igbo In Me – Olamide
+    Eziokwu – Humblesmith
+    Nkiruka – Joe
+    Uwa Nwa – Chinedu
+
+Berber:
+
+    Tazmert – Mohand
+    Amekran – Lounis Ait Menguellet
+    Imik Sidi – Idir
+    Boughazli – Laila
+    Anecced – Cheb Azzedine
+    Imazighen – Idir
+    Abrid N Tasselt – Azwaw
+    Azwaw – Tahar
+    Imassawel – Karim
+    Tawant – Nabil
+    Safi – Malika
+    Khalti – Rachid
+    Lmadkour – Seddik
+    Amargh – Djamel
+    Nuyem – Akli
+    Azwaw Aflou – Samir
+    Tayri – Mohamed
+    Amciba – Djamal
+    Aitouh – Amar
+    Amazigh – Ismail
+
+Luxembourgish:
+
+    Ech sinn hei – Luc
+    Dëst ass de Liewen – Manu
+    Englesch Kanner – James
+    Heemecht – Claude
+    Flugem – Yves
+    Mënschlech Wënsch – Joe
+    Kleeder fir d'Herz – Henri
+    Haut den Dag – Marc
+    Loosst eis goen – Nathan
+    Komm, mir géifen – Jan
+    Vërréckelt – Mirjam
+    Zoufriddege Stëmm – Joëlle
+    Lëft et wéini? – Jada
+    Net méi aacht – Roger
+    De Wëll – Christian
+    Op de Feier – Elisabeth
+    Zëmmerkuch – Denis
+    Siichtbar Stëmm – Adama
+    Liewensgediicht – Rona
+    Zesumme staark – Nino
+
+Maltese:
+
+    Maltese Love Song – Nathan
+    Bla Faraġ – Enrico
+    Is-sajf – Glen
+    Għal Dejjem – Il-Klassik
+    Ruqija – Chris
+    Għaqda – Myra
+    L-Istrina – Lisa
+    Vjaġġi – Julian
+    Bajda – Konrad
+    Pupa tal-Merħba – Leanne
+    Il-Ġlied – Michael
+    Malta Mill-Għajnejn Tiegħi – Dario
+    Rokna tal-Birgi – Louise
+    San Ġwann – Louis
+    L-Ewwel – Claudio
+    Fid-Dark – Rachel
+    Vjaġġ Sħiħ – Anna
+    Storiċi – Kevin
+    Tgħallem Mill-Esperjenza – L-Għanja
+    Pjaċiri ta’ L-Intern – Domenico
+
+Icelandic:
+
+    Hjartað Brennandi – The Band
+    Sólskin – Birkir
+    Ísland – Árni
+    Mjúkar Stjarna – Tómas
+    Vísundin – Jón
+    Fallega Ljós – Heiðar
+    Þessa Líf – Leifur
+    Bróðir Min – Hörður
+    Þú ert Allt – Rúrik
+    Að Fylgja Lífinu – Unnur
+    Sjóþjóðin – Eiríkur
+    Lífið Áfram – Björn
+    Hrafn – Birgitta
+    Ljóð og Mál – Aksel
+    Yfir Vetrartíð – Ólafur
+    Stundum – Ragnar
+    Fyrir Ykkur – Geir
+    Sól – Karen
+    Eldurinn – Emil
+    Sveitarkvæði – Gulli
+
+
